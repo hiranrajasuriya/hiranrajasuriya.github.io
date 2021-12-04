@@ -24,8 +24,8 @@ News
     	</colgroup>
 
 	<tr>
-    		<td style = "color:blue;font-size:17px;">October 2021</td>
-    		<td style = "font-size:17px;"> Virtually attended and presented our ECoG paper EMBC 2021.</td> 	
+    		<td style = "border: none;color:blue;font-size:17px;">October 2021</td>
+    		<td style = "border: none;font-size:17px;"> Virtually attended and presented our ECoG paper EMBC 2021.</td> 	
 	</tr>
 
 	<tr>
