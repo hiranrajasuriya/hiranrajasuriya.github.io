@@ -19,8 +19,8 @@ News
  <div style="height: 500px; overflow: auto;">
    <table style = "border-collapse: collapse;width: 100%">
 	<colgroup>
-       		<col span="1" style="width: 15%;">
-       		<col span="1" style="width: 85%;">
+       		<col span="1" style="width: 18%;">
+       		<col span="1" style="width: 82%;">
     	</colgroup>	
 
   	<tr>
