@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year biomedical undergraduate at University of Moratuwa. My interest lies in the fusion of deep learning and computer vision with medicine to solve health care related problems. Currently, I am working on my final year thesis on multi-modality based comfortable sleep monitoring system under supervision of Dr. Anjula De Silva and Dr. Chamira Edussooriya, along with Dr. Simon Lind Kappel from Aarhus University. I am also working as a remote visiting undergraduate research fellow at Center for Advanced Imaging in Harvard’s Faculty of Arts and Sciences, under supervision of Dr. Dushan Wadduwage focusing on deep-learning based image reconstruction algorithms for microscopy.  I did my research internship under supervision of Dr. Sam John, Senior Lecturer in Neural Engineering, Department of Biomedical Engineering, University of Melbourne. Also, I got industrial exposure through research internship at Synergen Technology Labs (PVT) Ltd. 
+I am a final year biomedical undergraduate at University of Moratuwa. My interest lies in the fusion of deep learning and computer vision with medicine to solve health care related problems. Currently, I am working on my final year thesis on multi-modality sleep monitoring system under supervision of Dr. Anjula De Silva and Dr. Chamira Edussooriya, along with Dr. Simon Lind Kappel from Aarhus University. I am also working as a remote visiting undergraduate research fellow at Center for Advanced Imaging in Harvard’s Faculty of Arts and Sciences, under supervision of Dr. Dushan Wadduwage focusing on deep-learning based image reconstruction algorithms for microscopy.  I did my research internship under supervision of Dr. Sam John, Senior Lecturer in Neural Engineering, Department of Biomedical Engineering, University of Melbourne. Also, I got industrial exposure through research internship at Synergen Technology Labs (PVT) Ltd. 
 
 
 News
@@ -17,15 +17,97 @@ News
     <link href="/_pages/news.css" rel="stylesheet">
 </head>
  <div style="height: 500px; overflow: auto;">
-   <table style = "border-collapse: collapse;width: 100%">
+   <table style = "border: none;width: 100%">
 	<colgroup>
-       		<col span="1" style="width: 18%;">
-       		<col span="1" style="width: 82%;">
-    	</colgroup>	
+       		<col span="1" style="width: 20%;">
+       		<col span="1" style="width: 80%;">
+    	</colgroup>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">October 2021</td>
+    		<td style = "font-size:17px;"> Virtually attended and presented our ECoG paper EMBC 2021.</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">September 2021</td>
+    		<td style = "font-size:17px;"> Virtually attended International Conference for Image Processing (ICIP) 2021, Anchorage, Alaska, USA.</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">September 2021</td>
+    		<td style = "font-size:17px;"> Our team NFP_Undercover emerged <b> second runners-up </b> at <b> Video and Image Processing (VIP) Cup 2021 </b> in International Conference for Image Processing (ICIP) 2021, Anchorage, Alaska, USA.</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">August 2021</td>
+    		<td style = "font-size:17px;"> Our team NFP_Undercover was qualified to the finals of <b> Video and Image Processing (VIP) Cup 2021 </b> at International Conference for Image Processing (ICIP) 2021, Anchorage, Alaska, USA.</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">July 2021</td>
+    		<td style = "font-size:17px;"> Joined <b> Centre for Advanced Imaging at Harvard University </b> as a <b> Remote Visiting Undergraduate Research Fellow </b>, under supervision of <b> Dr. Dushan. N. Wadduwage</b> from Wadduwage Lab, focusing on deep learning based image reconstruction algorithms for microscopy.</td> 	
+	</tr>	
 
   	<tr>
     		<td style = "color:blue;font-size:17px;">July 2021</td>
     		<td style = "font-size:17px;"><b>First Paper (First Author)</b> titled "<b>Decoding of Hand Gestures from Electrocorticography with LSTM Based Deep Neural Network</b>” was accepted at the 43rd EMBC,2021.</td> 	
+	</tr>
+
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">July 2021</td>
+    		<td style = "font-size:17px;"> Appointed as a <b> Council Member </b> of IEEE EMBS Student Branch Chapter at University of Moratuwa.</td> 	
+	</tr>
+	
+	<tr>
+    		<td style = "color:blue;font-size:17px;">January 2021</td>
+    		<td style = "font-size:17px;"> Our BraiNeoCare research group from theBRIC took part in the CASS 2020-2021 Student Design Competition and successfully completed the first phase (country-level) of the competition and got selected to the second phase (regional-level).</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">November 2020</td>
+    		<td style = "font-size:17px;"> Started my research internship under supervision of <b>Dr. Sam John,</b> Senior Lecturer in Neural Engineering, Department of Biomedical Engineering, University of Melbourne.</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">October 2020</td>
+    		<td style = "font-size:17px;"> Started my 6-month industrial internship as Trainee Research Engineer at Synergen Technology Labs (Pvt) Ltd.</td> 	
+	</tr>
+	
+	<tr>
+    		<td style = "color:blue;font-size:17px;">October 2020</td>
+    		<td style = "font-size:17px;"> Joined the Biomedical Research and Innovation Collective (theBRIC) group as a biomedical researcher.</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">October 2020</td>
+    		<td style = "font-size:17px;"> Our team wanderers emerged <b>IEEE SMC Winners at BR4IN.IO Hackathon, at IEEE System, Man and Cybernetics Conference (SMC) 2020, Toronto, Ontario, Canada </b></td> 	
+	</tr>
+	
+	<tr>
+    		<td style = "color:blue;font-size:17px;">July 2020</td>
+    		<td style = "font-size:17px;"> Appointed as <b> Secretary </b> of IEEE EMBS Student Branch Chapter at University of Moratuwa.</td> 	
+	</tr>
+
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">May 2020</td>
+    		<td style = "font-size:17px;"> Commenced 6-month mentorship program under <b>Dr. Rukshan Batuwita from Google,</b> through ScholarX 2020 program organized by the Sustainable Education Foundation (SEF) </td> 	
+	</tr>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">January 2020</td>
+    		<td style = "font-size:17px;"> Our team wanderers emerged champions at Mora Ventures 5.0, organized by the Entrepreneurship Society of University of Moratuwa together with the University Business Linkage Cell (UBLC).</td> 	
+	</tr>
+	
+	<tr>
+    		<td style = "color:blue;font-size:17px;">December 2019</td>
+    		<td style = "font-size:17px;"> Our team wanderers emrged champions at Brainstorm (Nationanwide Biomedical Design Competition) 2019.</td> 	
+	</tr>
+	
+	<tr>
+    		<td style = "color:blue;font-size:17px;">December 2019</td>
+    		<td style = "font-size:17px;"> Our team KIDKIT achieved runners-up at IEEE Innovation Nation Sri Lanka (INSL) 2019 organized by IEEE Sri Lankan Section.</td> 	
 	</tr>
 
 	<tr>
@@ -41,6 +123,16 @@ News
 	<tr>
     		<td style = "color:blue;font-size:17px;">September 2019</td>
     		<td style = "font-size:17px;"> Team wanderers achieved runners-up at the Hackx 2019, the Inter University Startup Challenge organised by Department of Industrial Management, Faculty of Science, University of Moratuwa.</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">May 2019</td>
+    		<td style = "font-size:17px;"> Appointed as <b> Assitant Treasurer </b> of IEEE EMBS Student Branch Chapter at University of Moratuwa.</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "color:blue;font-size:17px;">April 2019</td>
+    		<td style = "font-size:17px;"> Started my 2-month research internship at Centre for Biomedical Innovation (CEBI).</td> 	
 	</tr>
 
 	<tr>
