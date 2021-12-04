@@ -18,16 +18,21 @@ News
 </head>
  <div style="height: 500px; overflow: auto">
    <table style="height: 2000px">
-   |row1|----|
-   |row1| --- |
-   |row1| --- |
-   |row1| --- |
-   |row1| ---- |
-   |row1| ---- |
-   |row1| ==--- |
-   |row1| =--0 |
-   |row1| ---- |
-   |row1| ---- |
+   	<tr>
+    		<th>Company</th>
+    		<th>Contact</th>
+    		<th>Country</th>
+  	</tr>
+  	<tr>
+    		<td>Alfreds Futterkiste</td>
+    		<td>Maria Anders</td>
+    		<td>Germany</td>
+  	</tr>
+  	<tr>
+    		<td>Centro comercial Moctezuma</td>
+    		<td>Francisco Chang</td>
+    		<td>Mexico</td>
+  	</tr>
    </table>
    
  </div>
