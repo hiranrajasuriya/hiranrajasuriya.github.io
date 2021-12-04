@@ -16,10 +16,10 @@ News
 <head>
     <link href="/_pages/news.css" rel="stylesheet">
 </head>
- <div style="height: 150px; overflow: auto">
+ <div style="height: 500px; overflow: auto">
    <table style="height: 400px">
    |row1|  |
-   |row1|  |
+|row1|  |
    |row1|  |
    |row1|  |
    |row1|  |
