@@ -17,7 +17,7 @@ News
     <link href="/_pages/news.css" rel="stylesheet">
 </head>
  <div style="height: 500px; overflow: auto">
-   
+   <table style="height: 2000px">
    |row1|----|
    |row1| --- |
    |row1| --- |
@@ -28,6 +28,6 @@ News
    |row1| =--0 |
    |row1| ---- |
    |row1| ---- |
-
+   </table>
    
  </div>
