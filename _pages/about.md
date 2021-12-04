@@ -16,18 +16,18 @@ News
 <head>
     <link href="/_pages/news.css" rel="stylesheet">
 </head>
-<div class="table-wrapper" markdown="block">
+ <div style="height: 150px; overflow: auto">
+   <table style="height: 400px">
+   |row1|  |
+   |row1|  |
+   |row1|  |
+   |row1|  |
+   |row1|  |
+   |row1|  |
+   |row1|  |
+   |row1|  |
+   |row1|  |
+   |row1|  |
 
-| row1 |           |              
-| row2 |           |            
-| row1 |           |              
-| row2 |           |  
-| row1 |           |              
-| row2 |           |  
-| row1 |           |              
-| row2 |           |  
-| row1 |           |              
-| row2 |           |  
-| row1 |           |              
-| row2 |           |  
-</div>
+   </table>
+ </div>
