@@ -23,8 +23,8 @@ News
        		<col span="1" style="width: 85%;">
     	</colgroup>	
   	<tr>
-    		<td style = "color:blue;font-size:15px;">July 2021</td>
-    		<td style = "font-size:15px;"><b>First Paper (First Author)<\b> titled "<b>Decoding of Hand Gestures from Electrocorticography with LSTM Based Deep Neural Network<\b>” was accepted at the 43rd EMBC,2021.</td> 	
+    		<td style = "color:blue;font-size:18px;">July 2021</td>
+    		<td style = "font-size:18px;"><b>First Paper (First Author)<\b> titled "<b>Decoding of Hand Gestures from Electrocorticography with LSTM Based Deep Neural Network<\b>” was accepted at the 43rd EMBC,2021.</td> 	
 	</tr>
    </table> 
  </div>
