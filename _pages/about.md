@@ -29,10 +29,9 @@ News
     		<td>Germany</td>
   	</tr>
   	<tr>
-    		<td>Centro comercial Moctezuma</td>
-    		<td>Francisco Chang</td>
-    		<td>Mexico</td>
-  	</tr>
+    		<td><font color="colorname">July 2021<\font></td>
+    		<td>First Paper (First Author) titled "Decoding of Hand Gestures from Electrocorticography with LSTM Based Deep Neural Network” was accepted to the 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),2021.  	
+	</tr>
    </table>
    
  </div>
