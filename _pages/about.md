@@ -13,10 +13,14 @@ I am a final year biomedical undergraduate at University of Moratuwa. My interes
 
 News
 ====
-.table-wrapper {
-  overflow-x: scroll;
-}
-
+<head>
+    <link href="/_pages/news.css" rel="stylesheet">
+</head>
 <div class="table-wrapper" markdown="block">
+
+|      | col_name1 | col_name2 | col_name3 | col_name4 | col_name5 | col_name6 | col_name7 | col_name8 | col_name9 | col_name0 |
+|------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| row1 |           |           |           |           |           |           |           |           |           |           |
+| row2 |           |           |           |           |           |           |           |           |           |           |
 
 </div>
