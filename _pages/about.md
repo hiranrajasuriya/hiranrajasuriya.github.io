@@ -19,8 +19,8 @@ News
  <div style="height: 500px; overflow: auto">
    <table>
   	<tr>
-    		<td><font color="blue">July 2021<\font color="blue"></td>
-    		<td>First Paper (First Author) titled "Decoding of Hand Gestures from Electrocorticography with LSTM Based Deep Neural Network” was accepted to the 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),2021.<\td> 	
+    		<td><font color="blue">July 2021</font></td>
+    		<td>First Paper (First Author) titled "Decoding of Hand Gestures from Electrocorticography with LSTM Based Deep Neural Network” was accepted to the 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),2021.</td> 	
 	</tr>
    </table>
    
