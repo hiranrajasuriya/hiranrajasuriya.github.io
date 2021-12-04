@@ -16,18 +16,11 @@ News
 <head>
     <link href="/_pages/news.css" rel="stylesheet">
 </head>
- <div style="height: 500px; overflow: auto">
-   <table class="tab">
+ <div style="height: 500px; overflow: auto;>
+   <table border-collapse: collapse;>
   	<tr>
     		<td><font color="blue">July 2021</font></td>
     		<td>First Paper (First Author) titled "Decoding of Hand Gestures from Electrocorticography with LSTM Based Deep Neural Network” was accepted to the 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),2021.</td> 	
 	</tr>
-   </table>
-   <style>
-	.tab {border-collapse:collapse;}
-	.tab .first {border-bottom:1px solid #EEE;}
-	.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
-   </style>   
-
-
+   </table> 
  </div>
