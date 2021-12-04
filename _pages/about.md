@@ -17,7 +17,7 @@ News
     <link href="/_pages/news.css" rel="stylesheet">
 </head>
  <div style="height: 500px; overflow: auto">
-   <table style="height: 2000px">
+   <table>
    	<tr>
     		<th>Company</th>
     		<th>Contact</th>
