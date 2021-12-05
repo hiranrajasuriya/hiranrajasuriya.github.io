@@ -12,8 +12,8 @@ author_profile: true
 
 ## Preprints
 
-<b>Towards Accurate Cross-Domain In-Bed Human Pose Estimation </b><br/>
+<b> Towards Accurate Cross-Domain In-Bed Human Pose Estimation </b><br/>
 Mohamed Afham\*, Udith Haputhanthri\*, <b>Jathurshan Pradeepkumar\*</b>, Mithunjha Anandakumar, Ashwin De Silva and Chamira Edussooriya<br/>
 Submitted for review 2021<br/>
-[arxiv](https://arxiv.org/abs/2110.03578)[code](https://github.com/MohamedAfham/CD_HPE)
+[[arxiv](https://arxiv.org/abs/2110.03578)] [[code](https://github.com/MohamedAfham/CD_HPE)]
 
