@@ -16,13 +16,13 @@ author_profile: true
 <b>Jathurshan Pradeepkumar\*,</b> Mithunjha Anandakumar\*, Vinith Kugathasan\*, Andrew Seeber, Dushan N. Wadduwage<br/>
 Submitted for review 2021
 [[biorxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470743v1)] 
-<p>&nbsp;</p>
+&nbsp;
 
 <b> Cross-Modal Transformer for Automatic Sleep Staging </b><br/>
 Mithunjha Anandakumar\*, <b>Jathurshan Pradeepkumar\*,</b> Vinith Kugathasan\*,Dhinesh Suntharalingham, Anjula C. De Silva, Simon L. Kappel and Chamira Edussooriya<br/>
 Submitted for review 2021
 
-<p>&nbsp;</p>
+&nbsp;
 
 <b> Towards Accurate Cross-Domain In-Bed Human Pose Estimation </b><br/>
 Mohamed Afham\*, Udith Haputhanthri\*, <b>Jathurshan Pradeepkumar\*,</b> Mithunjha Anandakumar, Ashwin De Silva and Chamira Edussooriya<br/>
