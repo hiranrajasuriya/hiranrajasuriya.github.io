@@ -1,6 +1,5 @@
 ---
 title: "Preprints"
-collection: publications
 permalink: /publication/preprints
 ---
 
