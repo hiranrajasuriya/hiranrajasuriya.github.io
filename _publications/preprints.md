@@ -1,6 +1,7 @@
 ---
 title: "Preprints"
 permalink: /publication/preprints
+collections: publication
 ---
 
 <b>Towards Accurate Cross-Domain In-Bed Human Pose Estimation </b> <br/>
