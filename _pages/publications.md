@@ -13,7 +13,7 @@ author_profile: true
 ## Preprints
 
 <b> Physics Augmented U-Net: A High-Frequency Aware Generative Prior for Microscopy </b><br/>
-<b>Jathurshan Pradeepkumar\*,<\b> Mithunjha Anandakumar\*, Vinith Kugathasan\*, Andrew Seeber, Dushan N. Wadduwage<br/>
+<b>Jathurshan Pradeepkumar\*,</b> Mithunjha Anandakumar\*, Vinith Kugathasan\*, Andrew Seeber, Dushan N. Wadduwage<br/>
 Submitted for review 2021<br/>
 [[biorxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470743v1)] 
 <p>&nbsp;</p>
