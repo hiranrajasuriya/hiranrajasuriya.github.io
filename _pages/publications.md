@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-##Preprints
+## Preprints
 =========
 
 <font style = "font-size:17px"> <b> Towards Accurate Cross-Domain In-Bed Human Pose Estimation </b></font> <br/>
