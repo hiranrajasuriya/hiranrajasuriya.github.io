@@ -34,4 +34,4 @@ Submitted for review 2021<br/>
 <b> Decoding of Hand Gestures from Electrocorticography with LSTM Based Deep Neural Network </b><br/>
 <b> Jathurshan Pradeepkumar,</b> Mithunjha Anandakumar, Vinith Kugathasan, Thilina D. Lalitharatne, Anjula C. De Silva and Simon L. Kappel<br/>
 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),2021<br/>
-[[code](https://github.com/Jathurshan0330/Decoding-of-Hand-Gestures-from-Electrocorticography-with-LSTM-Based-Deep-Neural-Network)]
+[[code](https://github.com/Jathurshan0330/Decoding-of-Hand-Gestures-from-Electrocorticography-with-LSTM-Based-Deep-Neural-Network)][[slides]("\_talks\EMBC_2021_Decoding of Hand Gestures from Electrocorticography with LSTM Based Deep Neural Network.pdf")]
