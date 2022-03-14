@@ -24,7 +24,7 @@ News
 	   
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
-    		<td style = "border: none;font-size:17px;"> Joint first authored paper accepted at ICASSP 2022.</td> 	
+    		<td style = "border: none;font-size:17px;"> Joint first authored paper accepted at <b>ICASSP 2022.</b></td> 	
 	</tr>
 
 	<tr>
