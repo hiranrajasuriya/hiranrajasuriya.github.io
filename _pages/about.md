@@ -21,6 +21,11 @@ News
        		<col span="1" style="width: 20%;">
        		<col span="1" style="width: 80%;">
     	</colgroup>
+	   
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
+    		<td style = "border: none;font-size:17px;"> Joint first authored paper accepted at ICASSP 2022.</td> 	
+	</tr>
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">October 2021</td>
