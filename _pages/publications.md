@@ -18,10 +18,7 @@ Submitted for review 2021<br/>
 [[biorxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470743v1)] 
 &nbsp;
 
-<b> Cross-Modal Transformer for Automatic Sleep Staging </b><br/>
-Mithunjha Anandakumar\*, <b>Jathurshan Pradeepkumar\*,</b> Vinith Kugathasan\*, Dhinesh Suntharalingham, Anjula C. De Silva, Simon L. Kappel and Chamira Edussooriya<br/>
-Submitted for review 2021
-&nbsp;
+
 
 
 
