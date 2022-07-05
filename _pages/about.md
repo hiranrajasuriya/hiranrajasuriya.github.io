@@ -23,6 +23,11 @@ News
     	</colgroup>
 	   
 	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
+    		<td style = "border: none;font-size:17px;"> Joined Center for Advanced Imaging at Harvard University as a Post-Baccalaureate Research Fellow.</b></td> 	
+	</tr>
+	   
+	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
     		<td style = "border: none;font-size:17px;"> Joint first authored paper accepted at <b>ICASSP 2022.</b></td> 	
 	</tr>
