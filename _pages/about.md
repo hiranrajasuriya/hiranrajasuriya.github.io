@@ -25,7 +25,7 @@ News
 	   
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">August 2022</td>
-    		<td style = "border: none;font-size:17px;"> <b>"Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers" preprint released.</b></td> 	
+    		<td style = "border: none;font-size:17px;"> <b>"Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers"</b> preprint released.</td> 	
 	</tr>
 	   
 	 <tr>
