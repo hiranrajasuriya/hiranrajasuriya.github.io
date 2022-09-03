@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify; width: 800px">
-I'm a Post-Baccalaureate Research Fellow in the Center for Advanced Imaging at Harvard University. I did my bachelor's degree specializing in biomedical engineering at University of Moratuwa, Sri Lanka. My interest lies in the fusion of deep learning and computer vision with medicine and biology towards both problem solving and enabling new discoveries. My final year thesis project was on developing an "Interpretable Multi-Modal Sleep Monitoring System using Ear-EEG and EOG" under supervision of Dr. Anjula De Silva and Dr. Chamira Edussooriya, along with Dr. Simon Lind Kappel from Aarhus University. Previously, I worked as a remote visiting undergraduate research fellow in Center for Advanced Imaging at Harvard, under supervision of Dr. Dushan Wadduwage focusing on deep-learning based image reconstruction algorithms for microscopy. I did my remote research internship under supervision of Dr. Sam John, Senior Lecturer in Neural Engineering, Department of Biomedical Engineering, University of Melbourne. Also, I got industrial exposure through research internship at Synergen Technology Labs (PVT) Ltd. 
+I'm a Post-Baccalaureate Research Fellow in the Center for Advanced Imaging at Harvard University. I did my bachelor's degree specializing in biomedical engineering at University of Moratuwa, Sri Lanka.  My interest lies in the fusion of deep learning and computer vision with medicine and biology for both problem solving and enabling new discoveries (mainly towards cancer and histopathology researches). My final year thesis project was on developing an "Interpretable Multi-Modal Sleep Monitoring System using Ear-EEG and EOG" under supervision of Dr. Anjula De Silva and Dr. Chamira Edussooriya, along with Dr. Simon Lind Kappel from Aarhus University. Previously, I worked as a remote visiting undergraduate research fellow in Center for Advanced Imaging at Harvard, under supervision of Dr. Dushan Wadduwage focusing on deep-learning based image reconstruction algorithms for microscopy. I did my remote research internship under supervision of Dr. Sam John, Senior Lecturer in Neural Engineering, Department of Biomedical Engineering, University of Melbourne. Also, I got industrial exposure through research internship at Synergen Technology Labs (PVT) Ltd. 
 </div>
 
 <p>&nbsp;</p>
@@ -22,9 +22,20 @@ News
        		<col span="1" style="width: 80%;">
     	</colgroup>
 	   
+	   
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">August 2022</td>
+    		<td style = "border: none;font-size:17px;"> <b>"Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers" preprint released.</b></td> 	
+	</tr>
+	   
+	 <tr>
+    		<td style = "border: none;color:blue;font-size:17px;">August 2022</td>
+    		<td style = "border: none;font-size:17px;"> <b>Served as a reviewer at <b>ECCV 2022: L2ID Workshop</b></td> 	
+	</tr>
+	   
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
-    		<td style = "border: none;font-size:17px;"> Joined Center for Advanced Imaging at Harvard University as a Post-Baccalaureate Research Fellow.</b></td> 	
+    		<td style = "border: none;font-size:17px;"> Joined Center for Advanced Imaging at <b>Harvard University</b> as a <b>Post-Baccalaureate Research Fellow.</b></td> 	
 	</tr>
 	   
 	<tr>
