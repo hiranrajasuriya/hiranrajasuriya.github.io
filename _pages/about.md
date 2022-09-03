@@ -30,7 +30,7 @@ News
 	   
 	 <tr>
     		<td style = "border: none;color:blue;font-size:17px;">August 2022</td>
-    		<td style = "border: none;font-size:17px;"> <b>Served as a reviewer at <b>ECCV 2022: L2ID Workshop</b></td> 	
+    		<td style = "border: none;font-size:17px;"> Served as a <b>reviewer</b> at <b>ECCV 2022: L2ID Workshop.</b></td> 	
 	</tr>
 	   
 	<tr>
