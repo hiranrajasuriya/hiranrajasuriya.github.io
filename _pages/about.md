@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify; width: 800px">
-I'm a Post-Baccalaureate Research Fellow in the Center for Advanced Imaging at Harvard University, where I focus developing deep learning based tools for applications in microscopy, histopathology and protein structure modeling under supervision of <a href="https://scholar.google.com/citations?user=LHmeoN4AAAAJ&hl=en">Dr. Dushan Wadduwage</a> and <a href="https://scholar.google.com/citations?user=8KJ9gf4AAAAJ&hl=en">Dr. Sergey Ovchinnikov</a>. 
+I'm a Post-Baccalaureate Research Fellow in the Center for Advanced Imaging at Harvard University, where I focus developing deep learning based tools for applications in microscopy, histopathology and protein structure modeling under supervision of <a href="https://scholar.google.com/citations?user=LHmeoN4AAAAJ&hl=en">Dr. Dushan Wadduwage</a> and <a href="https://scholar.google.com/citations?user=8KJ9gf4AAAAJ&hl=en">Dr. Sergey Ovchinnikov</a>. My interest lies in the fusion of deep learning and computer vision with medicine and biology for both problem solving and enabling new discoveries (mainly towards cancer and histopathology research). 
 
 <p>&nbsp;</p>
 	
 	I completed my bachelor's degree specializing in biomedical engineering at University of Moratuwa, Sri Lanka.   My final year thesis project was on developing an "Interpretable Multi-Modal Sleep Monitoring System using Ear-EEG and EOG" under supervision of Dr. Anjula De Silva and Dr. Chamira Edussooriya, along with Dr. Simon Lind Kappel from Aarhus University. Previously, I worked as a remote visiting undergraduate research fellow in Center for Advanced Imaging at Harvard, under supervision of Dr. Dushan Wadduwage focusing on deep-learning based image reconstruction algorithms for microscopy. I did my remote research internship under supervision of Dr. Sam John, Senior Lecturer in Neural Engineering, Department of Biomedical Engineering, University of Melbourne. Also, I got industrial exposure through research internship at Synergen Technology Labs (PVT) Ltd. 
 	
 <p>&nbsp;</p>
-	<span style="color:blue"> My interest lies in the fusion of deep learning and computer vision with medicine and biology for both problem solving and enabling new discoveries (mainly towards cancer and histopathology research).</span>
+	<span style="color:red"> Update: I'm applying for PhD positions for 2023 Fall intake. Please do get in touch if you think I'm a good fit for your lab. </span>
 </div>
 
 <p>&nbsp;</p>
