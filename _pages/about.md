@@ -30,7 +30,14 @@ News
     	</colgroup>
 	
 	
-	   <tr>
+	   
+	   
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
+    		<td style = "border: none;font-size:17px;"> Presented my final year thesis project to the <a href="https://ece.au.dk/en/research/research-centres/center-for-ear-eeg"><b>Center for Ear EEG</b></a> at Aarhus University, Denmark.</td> 	
+	</tr>   
+	   
+	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
     		<td style = "border: none;font-size:17px;"> Presented my final year thesis project at the exhibition session in  <a href="https://ccaim.cam.ac.uk/exhibition/"><b>"AI and Machine Learning in Healthcare Summer School"</b></a> by CCAIM.</td> 	
 	</tr>
