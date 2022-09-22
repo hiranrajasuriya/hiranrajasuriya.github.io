@@ -22,14 +22,19 @@ I'm a Post-Baccalaureate Research Fellow in the Center for Advanced Imaging at H
 
 
 
-<img src="https://user-images.githubusercontent.com/52663918/191789543-7665c2c0-e6e9-4f45-8a2e-5d08b2ec1d9b.png" width="100"/>
+<img src="https://user-images.githubusercontent.com/52663918/191789543-7665c2c0-e6e9-4f45-8a2e-5d08b2ec1d9b.png" width="200"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="190"/> <img src="https://user-images.githubusercontent.com/52663918/191796343-ca7c7d83-fe9d-425b-8062-6c9b921ce597.png" width="170"/>
+
+
+
+
 
 
 <p>&nbsp;</p>
 
 News
 ====
- <div style="height: 500px; overflow: auto; width: 800px;">
+ <div style="height: 500px; overflow: auto; w![237149619_2041424849347732_202933668616898933_n](https://user-images.githubusercontent.com/52663918/191795591-3ad8e2d3-7254-4906-87ea-c6bbe6165087.png)
+idth: 800px;">
    <table style = "border: none;width: 100%">
 	<colgroup>
        		<col span="1" style="width: 20%;">
