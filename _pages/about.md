@@ -28,6 +28,13 @@ News
        		<col span="1" style="width: 20%;">
        		<col span="1" style="width: 80%;">
     	</colgroup>
+	
+	
+	   <tr>
+    		<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
+    		<td style = "border: none;font-size:17px;"> Presented my final year thesis project at the exhibition session in  <a href="https://ccaim.cam.ac.uk/exhibition/"><b>"AI and Machine Learning in Healthcare Summer School"</b></a> by CCAIM.</td> 	
+	</tr>
+	   
 	   
 	   
 	<tr>
