@@ -22,7 +22,9 @@ I'm a Post-Baccalaureate Research Fellow in the Center for Advanced Imaging at H
 
 
 
-<img src="https://user-images.githubusercontent.com/52663918/191789543-7665c2c0-e6e9-4f45-8a2e-5d08b2ec1d9b.png" width="200"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="190"/> <img src="https://user-images.githubusercontent.com/52663918/191796343-ca7c7d83-fe9d-425b-8062-6c9b921ce597.png" width="170"/>
+<img src="https://user-images.githubusercontent.com/52663918/191789543-7665c2c0-e6e9-4f45-8a2e-5d08b2ec1d9b.png" width="200"/><img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="190"/><img src="https://user-images.githubusercontent.com/52663918/191796343-ca7c7d83-fe9d-425b-8062-6c9b921ce597.png" width="170"/><img src="https://user-images.githubusercontent.com/52663918/191803659-64c1bd60-9a5f-464f-b370-2a453ce7e8aa.jpeg" width="80"/><img src="https://user-images.githubusercontent.com/52663918/191805216-ddcac48d-142f-40a4-ace5-cd1f8cb9f004.jpg" width="57"/>
+
+
 
 
 
