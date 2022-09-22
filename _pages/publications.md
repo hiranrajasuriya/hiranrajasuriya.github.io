@@ -14,7 +14,7 @@ author_profile: true
 
 
 <b> Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers</b><br/>
-<b>Jathurshan Pradeepkumar\*,</b> Mithunjha Anandakumar\*, Vinith Kugathasan,  Dhinesh Suntharalingham, Simon L. Kappel, Anjula C. De Silva, and Chamira U. S. Edussooriya </br>
+<b>Jathurshan Pradeepkumar\*,</b> Mithunjha Anandakumar\*, Vinith Kugathasan,  Dhinesh Suntharalingham, Simon L. Kappel, Anjula C. De Silva, and Chamira U. S. Edussooriya <br/>
 Submitted for review 2021<br/>
 [[arxiv](https://arxiv.org/pdf/2208.06991)] [[code](https://github.com/Jathurshan0330/Cross-Modal-Transformer)]  
 &nbsp;
