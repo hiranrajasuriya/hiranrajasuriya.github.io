@@ -15,7 +15,7 @@ I'm a Post-Baccalaureate Research Fellow in the Center for Advanced Imaging at H
 	I completed my bachelor's degree specializing in biomedical engineering at University of Moratuwa, Sri Lanka.   My final year thesis project was on developing an "Interpretable Multi-Modal Sleep Monitoring System using Ear-EEG and EOG" under supervision of <a href="https://scholar.google.com.au/citations?user=q9fZXZMAAAAJ&hl=en"> Dr. Anjula De Silva </a> and <a href= "https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en&oi=ao">Dr. Chamira Edussooriya</a>, along with <a href="https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en"> Dr. Simon Lind Kappel</a> from Aarhus University. Previously, I worked as a remote visiting undergraduate research fellow in Center for Advanced Imaging at Harvard, under supervision of Dr. Dushan Wadduwage focusing on deep-learning based image reconstruction algorithms for microscopy. I did my remote research internship under supervision of <a href="https://scholar.google.com.au/citations?user=dgvZEqgAAAAJ&hl=en">Dr. Sam John</a> from University of Melbourne. Also, I got industrial exposure through research internship at Synergen Technology Labs (PVT) Ltd. 
 	
 <p>&nbsp;</p>
-	<span style="color:red"> Update: I'm applying for PhD positions for 2023 Fall intake. Please do get in touch if you think I'm a good fit for your lab. </span>
+	<span style="color:red"> Update: I'm applying for PhD positions for 2023 Fall intake.</span>
 </div>
 
 <p>&nbsp;</p>
