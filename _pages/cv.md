@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-<embed src="jathurshan0330.github.io\_talks\NeRF_Jathurshan.pdf" >
+<embed src="https://jathurshan0330.github.io/talks/EMBC_2021_Decoding%20of%20Hand%20Gestures%20from%20Electrocorticography%20with%20LSTM%20Based%20Deep%20Neural%20Network.pdf" >
 
-<embed src="jathurshan0330.github.io\_talks\NeRF_Jathurshan.pdf" width="500" height="375">
+<!-- <embed src="jathurshan0330.github.io\_talks\NeRF_Jathurshan.pdf" width="500" height="375"> -->
