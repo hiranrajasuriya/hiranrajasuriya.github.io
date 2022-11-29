@@ -46,7 +46,7 @@ idth: 800px;">
     	</colgroup>
 	
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
+    		<td style = "border: none;color:blue;font-size:17px;">October 2022</td>
     		<td style = "border: none;font-size:17px;"> A knowledge distillation framework for enhancing ear-eeg based sleep staging with scalp-eeg data preprint released.</td> 	
 	</tr>  
 	   
