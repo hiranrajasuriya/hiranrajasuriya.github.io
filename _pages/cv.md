@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-<embed src="jathurshan0330.github.io\_talks\NeRF_Jathurshan.pdf" type="application/pdf">
+<embed src="jathurshan0330.github.io\_talks\NeRF_Jathurshan.pdf" >
 
-
+<embed src="jathurshan0330.github.io\_talks\NeRF_Jathurshan.pdf" width="500" height="375">
