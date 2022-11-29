@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify; width: 800px">
-I'm a Post-Baccalaureate Research Fellow in the Center for Advanced Imaging at Harvard University, where I focus developing deep learning based tools for applications in microscopy, histopathology and protein structure modeling under supervision of <a href="https://scholar.google.com/citations?user=LHmeoN4AAAAJ&hl=en">Dr. Dushan Wadduwage</a> and <a href="https://scholar.google.com/citations?user=8KJ9gf4AAAAJ&hl=en">Dr. Sergey Ovchinnikov</a>. My interest lies in the fusion of deep learning and computer vision with medicine and biology for both problem solving and enabling new discoveries (mainly towards cancer and histopathology research). 
+I'm a Post-Baccalaureate Fellow at the Center for Advanced Imaging at Harvard University. I work on computational imaging and histopathology related research with <a href="https://scholar.google.com/citations?user=LHmeoN4AAAAJ&hl=en">Dr. Dushan Wadduwage</a> and protein engineering with <a href="https://scholar.google.com/citations?user=8KJ9gf4AAAAJ&hl=en">Dr. Sergey Ovchinnikov</a>. My interest lies in the nexus of machine learning and oncology, medicine and biology for both problem solving and enabling new discoveries (specifically towards cancer research). 
 
 <p>&nbsp;</p>
 	
-	I completed my bachelor's degree specializing in biomedical engineering at University of Moratuwa, Sri Lanka.   My final year thesis project was on developing an "Interpretable Multi-Modal Sleep Monitoring System using Ear-EEG and EOG" under supervision of <a href="https://scholar.google.com.au/citations?user=q9fZXZMAAAAJ&hl=en"> Dr. Anjula De Silva </a> and <a href= "https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en&oi=ao">Dr. Chamira Edussooriya</a>, along with <a href="https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en"> Dr. Simon Lind Kappel</a> from Aarhus University. Previously, I worked as a remote visiting undergraduate research fellow in Center for Advanced Imaging at Harvard, under supervision of Dr. Dushan Wadduwage focusing on deep-learning based image reconstruction algorithms for microscopy. I did my remote research internship under supervision of <a href="https://scholar.google.com.au/citations?user=dgvZEqgAAAAJ&hl=en">Dr. Sam John</a> from University of Melbourne. Also, I got industrial exposure through research internship at Synergen Technology Labs (PVT) Ltd. 
+	I completed my undergraduate engineering degree with First Class honors specializing in Biomedical Engineering (BME) at the Department of Electronic and Telecommunication Engineering (ENTC), University of Moratuwa, Sri Lanka. My final year thesis project was on developing an "Interpretable Multi-Modal Sleep Monitoring System using Ear-EEG and EOG" under supervision of <a href="https://scholar.google.com.au/citations?user=q9fZXZMAAAAJ&hl=en"> Dr. Anjula De Silva </a> and <a href= "https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en&oi=ao">Dr. Chamira Edussooriya</a>, along with <a href="https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en"> Dr. Simon Lind Kappel</a> from Aarhus University. In my final year, I also contribute to Harvard-MIT collaborative research as a remote undergraduate research fellow at Harvard University. During this time I developed a forward model agnostic image reconstruction using physics augmented u-net for DEEP Temporal Focusing Microscope (DEEP-TFM) and other Structured Illumination Microscopes (SIM). I pursued my remote research internship at the University of Melbourne, Australia with <a href="https://scholar.google.com.au/citations?user=dgvZEqgAAAAJ&hl=en">Dr. Sam John</a>, where contributed to a study on Parkinson's disease using mice models by developing a segmentation software to accurately segment retinal layers from OCT images. 
+	
+	
 	
 <p>&nbsp;</p>
 	<span style="color:red"> Update: I'm applying for PhD positions for 2023 Fall intake.</span>
@@ -43,7 +45,10 @@ idth: 800px;">
        		<col span="1" style="width: 80%;">
     	</colgroup>
 	
-	
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
+    		<td style = "border: none;font-size:17px;"> A knowledge distillation framework for enhancing ear-eeg based sleep staging with scalp-eeg data preprint released.</td> 	
+	</tr>  
 	   
 	   
 	<tr>
