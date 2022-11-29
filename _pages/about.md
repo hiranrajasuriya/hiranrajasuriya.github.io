@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify; width: 800px">
-I'm a Post-Baccalaureate Fellow at the Center for Advanced Imaging at Harvard University. I work on computational imaging and histopathology related research with <a href="https://scholar.google.com/citations?user=LHmeoN4AAAAJ&hl=en">Dr. Dushan Wadduwage</a> and protein engineering with <a href="https://scholar.google.com/citations?user=8KJ9gf4AAAAJ&hl=en">Dr. Sergey Ovchinnikov</a>. My interest lies in the nexus of machine learning and oncology, medicine and biology for both problem solving and enabling new discoveries (specifically towards cancer research). 
+I'm a Post-Baccalaureate Fellow at the Center for Advanced Imaging at Harvard University. I work on computational imaging and histopathology related research with <a href="https://wadduwagelab.github.io/">Dr. Dushan Wadduwage</a> and protein engineering with <a href="https://www.solab.org/">Dr. Sergey Ovchinnikov</a>. My interest lies in the nexus of machine learning and oncology, medicine and biology for both problem solving and enabling new discoveries (specifically towards cancer research). 
 
 <p>&nbsp;</p>
 	
