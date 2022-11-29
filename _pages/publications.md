@@ -15,7 +15,7 @@ author_profile: true
 
 <b> Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers</b><br/>
 <b>Jathurshan Pradeepkumar\*,</b> Mithunjha Anandakumar\*, Vinith Kugathasan,  Dhinesh Suntharalingham, Simon L. Kappel, Anjula C. De Silva, and Chamira U. S. Edussooriya <br/>
-Submitted for review 2021<br/>
+Under review<br/>
 [[arxiv](https://arxiv.org/pdf/2208.06991)] [[code](https://github.com/Jathurshan0330/Cross-Modal-Transformer)]  
 &nbsp;
 
@@ -25,6 +25,10 @@ Submitted for review 2021<br/>
 [[biorxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470743v1)] 
 &nbsp;
 
+<b> A Knowledge Distillation Framework for Enhancing Ear-EEG based Sleep Staging with Scalp-EEG Data</b><br/>
+Mithunjha Anandakumar\*, <b>Jathurshan Pradeepkumar\*,</b>  Vinith Kugathasan,  Dhinesh Suntharalingham, Simon L. Kappel, Anjula C. De Silva, and Chamira U. S. Edussooriya <br/>
+Under review<br/>
+[[arxiv](https://arxiv.org/pdf/2211.02638.pdf)] [[code](https://github.com/Mithunjha/EarEEG_KnowledgeDistillation)] 
 
 
 
