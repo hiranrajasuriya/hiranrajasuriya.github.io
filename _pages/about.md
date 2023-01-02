@@ -219,6 +219,6 @@ idth: 800px;">
 
 <h3>Mentoring</h3>
 <div style="text-align: justify; width: 800px">
-It would be my pleasure to help undergraduate students in their academic and personal growth. Whether you are seeking guidance on course selection, advice on research opportunities, or support navigating the challenges of university life, I am here to help. If you believe that my mentorship or guidance could be of benefit to you, please do not hesitate to reach out and schedule a one-time, 30-minute meeting. I would be more than happy to answer any questions you may have and offer my support to the best of my ability.
+It would be my pleasure to help undergraduate students in their academic and personal growth. Whether you are seeking guidance on course selection, advice on research, or support navigating the challenges of university life, I am here to help. If you believe that my mentorship or guidance could be of benefit to you, please do not hesitate to reach out and schedule a one-time, 30-minute meeting. I would be more than happy to answer any questions you may have and offer my support to the best of my ability.
 <p>&nbsp;</p>
 <a href="https://www.solab.org/">https://forms.gle/hzXo8Bdwqed47trPA</a>
