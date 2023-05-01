@@ -15,11 +15,11 @@ I'm a Post-Baccalaureate Fellow at the Center for Advanced Imaging at Harvard Un
 	
 	
 	
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p>
 	<span style="color:red"> Update: I'm applying for PhD positions for 2023 Fall intake.</span>
 </div>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
 
 
