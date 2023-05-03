@@ -22,8 +22,11 @@ I'm a Post-Baccalaureate Fellow at the Center for Advanced Imaging at Harvard Un
 
 
 
-News
-====
+<p>&nbsp;</p>
+
+## News
+
+	
  <div style="height: 500px; overflow: auto; w![237149619_2041424849347732_202933668616898933_n](https://user-images.githubusercontent.com/52663918/191795591-3ad8e2d3-7254-4906-87ea-c6bbe6165087.png)
 idth: 800px;">
    <table style = "border: none;width: 100%">
@@ -205,8 +208,8 @@ idth: 800px;">
  </div>
 
 
-Mentoring
-====
+## Mentoring
+
 <div style="text-align: justify; width: 800px">
 I would be happy to help undergraduate students in their academic and personal growth. Whether you are seeking guidance on course selection, advice on research, or support navigating the challenges of university life, I am here to help. If you believe that my mentorship or guidance could be of benefit to you, please do not hesitate to reach out and schedule a one-time, 30-minute meeting. I would be more than happy to answer any questions you may have and offer my support to the best of my ability.
 <!-- <p>&nbsp;</p> -->
