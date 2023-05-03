@@ -22,13 +22,6 @@ I'm a Post-Baccalaureate Fellow at the Center for Advanced Imaging at Harvard Un
 
 
 
-
-
-
-
-
-<p>&nbsp;</p>
-
 News
 ====
  <div style="height: 500px; overflow: auto; w![237149619_2041424849347732_202933668616898933_n](https://user-images.githubusercontent.com/52663918/191795591-3ad8e2d3-7254-4906-87ea-c6bbe6165087.png)
