@@ -12,12 +12,7 @@ I'm a Post-Baccalaureate Fellow at the Center for Advanced Imaging at Harvard Un
 <p>&nbsp;</p>
 	
 	I completed my undergraduate engineering degree with First Class honors specializing in Biomedical Engineering (BME) at the Department of Electronic and Telecommunication Engineering (ENTC), University of Moratuwa, Sri Lanka. My final year thesis project was on developing an "Interpretable Multi-Modal Sleep Monitoring System using Ear-EEG and EOG" under supervision of <a href="https://scholar.google.com.au/citations?user=q9fZXZMAAAAJ&hl=en"> Dr. Anjula De Silva </a> and <a href= "https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en&oi=ao">Dr. Chamira Edussooriya</a>, along with <a href="https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en"> Dr. Simon Lind Kappel</a> from Aarhus University. In my final year, I also contribute to Harvard-MIT collaborative research as a remote undergraduate research fellow at Harvard University. During this time I developed a forward model agnostic image reconstruction using physics augmented u-net for DEEP Temporal Focusing Microscope (DEEP-TFM) and other Structured Illumination Microscopes (SIM). I pursued my remote research internship at the University of Melbourne, Australia with <a href="https://scholar.google.com.au/citations?user=dgvZEqgAAAAJ&hl=en">Dr. Sam John</a>, where contributed to a study on Parkinson's disease using mice models by developing a segmentation software to accurately segment retinal layers from OCT images. 
-	
-	
-	
-<!-- <p>&nbsp;</p>
-	<span style="color:red"> Update: I'm applying for PhD positions for 2023 Fall intake.</span>
-</div> -->
+
 
 <p>&nbsp;</p> 
 
