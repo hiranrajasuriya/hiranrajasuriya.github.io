@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jathurshan Pradeepkumar"
+title                    : "Tharindu Wickremasinghe"
 title_separator          : "-"
-name                     : &name "Jathurshan Pradeepkumar"
-description              : &description "Post Baccalaureate Research Fellow in the Center for Advanced Imaging at Harvard University"
-url                      : #https://jathurshan0330.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tharindu Wickremasinghe"
+description              : &description "Visiting Instructor, University of Moratuwa"
+url                      : #https://tharindu-nirmal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jathurshan0330/jathurshan0330.github.io"
+repository               : "Tharindu-Nirmal/Tharindu-Nirmal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jathurshan Pradeepkumar"
+  name             : "Tharindu Wickremasinghe"
   avatar           : "avatar_2.jpeg"
-  bio              : "Post Baccalaureate Fellow,
-                      Center for Advanced Imaging,
-                      Harvard University"
-  location         : "Harvard University, Cambridge, MA"
+  bio              : "Visiting Instructor,
+                      University of Moratuwa"
+  location         : "Colombo, Sri Lanka"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.au/citations?hl=en&pli=1&user=muYswsUAAAAJ"
-  email            : "jathurshanpradeepkumar@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DBAH8C0AAAAJ"
+  email            : "tharindu.ncr@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jathurshan0330"
+  github           : "Tharindu-Nirmal"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jathurshan-pradeepkumar-319b52104"
+  linkedin         : "tharinduwickremasinghe-319b52104"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JathuPradeep"
+  twitter          : "TharinduWickr"
   vine             :
   weibo            :
   xing             :
