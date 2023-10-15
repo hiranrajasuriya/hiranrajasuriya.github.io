@@ -11,7 +11,7 @@ redirect_from:
 I'm a Visiting Instructor at the University of Moratuwa, Sri Lanka. I work on computational imaging and deep learning-based image reconstruction research with <a href="https://wadduwagelab.github.io/">Dr. Dushan Wadduwage</a> and more broadly on signal processing, with <a href="https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en">Dr. Chamira Edussooriya</a>. I have a keen interest in sparse signal analysis, and on the mathematical underpinnings of machine learning models. 
 <p>&nbsp;</p>
 
-	I completed my undergraduate engineering degree with First Class honors with the gold medal for my cohort at the Department of Electronic and Telecommunication Engineering (ENTC), University of Moratuwa, Sri Lanka. My final year thesis project was on "Optical microscopy optimisation through compressive sensing and reconstruction" under the supervision of <"https://centerforadvancedimaging.harvard.edu/people/dushan-wadduwage-phd">Dr. Dushan Wadduwage</a> and <a href= "https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en&oi=ao">Dr. Chamira Edussooriya</a>. This research project was a part of a collaboration with the <a href="https://wadduwagelab.github.io/">Wadduwage lab</a> at the Centre for advanced imaging at harvard university. I have worked in physics-based human motion prediction in the University of Sydney, Australia during my internship with <a href= "https://scholar.google.com.sg/citations?user=y17ckyIAAAAJ&hl=en">Dr. Anusha Withana</a>.
+	I completed my undergraduate engineering degree with First Class honors with the gold medal for my cohort at the Department of Electronic and Telecommunication Engineering (ENTC), University of Moratuwa, Sri Lanka. My final year thesis project was on "Optical microscopy optimisation through compressive sensing and reconstruction" under the supervision of <"https://centerforadvancedimaging.harvard.edu/people/dushan-wadduwage-phd/">Dr. Dushan Wadduwage</a> and <a href= "https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en&oi=ao">Dr. Chamira Edussooriya</a>. This research project was a part of a collaboration with the <a href="https://wadduwagelab.github.io/">Wadduwage lab</a> at the Centre for advanced imaging at harvard university. I have worked in physics-based human motion prediction in the University of Sydney, Australia during my internship with <a href= "https://scholar.google.com.sg/citations?user=y17ckyIAAAAJ&hl=en">Dr. Anusha Withana</a>.
 
 
 <p>&nbsp;</p> 
@@ -54,16 +54,6 @@ idth: 800px;">
 	   
 	   
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">August 2022</td>
-    		<td style = "border: none;font-size:17px;"> <b>"Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers"</b> preprint released.</td> 	
-	</tr>
-	   
-	 <tr>
-    		<td style = "border: none;color:blue;font-size:17px;">August 2022</td>
-    		<td style = "border: none;font-size:17px;"> Served as a <b>reviewer</b> at <b>ECCV 2022: L2ID Workshop.</b></td> 	
-	</tr>
-	   
-	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
     		<td style = "border: none;font-size:17px;"> Joined Center for Advanced Imaging at <b>Harvard University</b> as a <b>Post-Baccalaureate Research Fellow.</b></td> 	
 	</tr>
@@ -74,24 +64,11 @@ idth: 800px;">
 	</tr>
 
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">October 2021</td>
-    		<td style = "border: none;font-size:17px;"> Virtually attended and presented our ECoG paper EMBC 2021.</td> 	
+    		<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
+    		<td style = "border: none;font-size:17px;"> Virtually attended ICASSP 2021 to defend our solution to the Signal Processing Cup. Won the global chanpionship</td> 	
 	</tr>
 
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">September 2021</td>
-    		<td style = "border: none;font-size:17px;"> Virtually attended International Conference for Image Processing (ICIP) 2021, Anchorage, Alaska, USA.</td> 	
-	</tr>
 
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">September 2021</td>
-    		<td style = "border: none;font-size:17px;"> Our team NFP_Undercover emerged <b> second runners-up </b> at <b> Video and Image Processing (VIP) Cup 2021 </b> in International Conference for Image Processing (ICIP) 2021, Anchorage, Alaska, USA.</td> 	
-	</tr>
-
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">August 2021</td>
-    		<td style = "border: none;font-size:17px;"> Our team NFP_Undercover was qualified to the finals of <b> Video and Image Processing (VIP) Cup 2021 </b> at International Conference for Image Processing (ICIP) 2021, Anchorage, Alaska, USA.</td> 	
-	</tr>
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
