@@ -13,22 +13,13 @@ author_profile: true
 ## Preprints
 
 
-<b> Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers</b><br/>
-<b>Jathurshan Pradeepkumar\*,</b> Mithunjha Anandakumar\*, Vinith Kugathasan,  Dhinesh Suntharalingham, Simon L. Kappel, Anjula C. De Silva, and Chamira U. S. Edussooriya <br/>
+<b> MOSAIC: Masked Optimization with Selective Attention for Image Reconstruction</b><br/>
+ P. Somarathne, <b>T. Wickremasinghe<b>, A.Niwarthana, A. Thieshanthan, C. Edussooriya, D. Wadduwage <br/>
 Under review<br/>
 [[arxiv](https://arxiv.org/pdf/2208.06991)] [[code](https://github.com/Jathurshan0330/Cross-Modal-Transformer)]  
 &nbsp;
 
-<b> Physics Augmented U-Net: A High-Frequency Aware Generative Prior for Microscopy </b><br/>
-<b>Jathurshan Pradeepkumar\*,</b> Mithunjha Anandakumar\*, Vinith Kugathasan\*, Andrew Seeber, Dushan N. Wadduwage<br/>
-Submitted for review 2021<br/>
-[[biorxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470743v1)] 
-&nbsp;
 
-<b> A Knowledge Distillation Framework for Enhancing Ear-EEG based Sleep Staging with Scalp-EEG Data</b><br/>
-Mithunjha Anandakumar\*, <b>Jathurshan Pradeepkumar\*,</b>  Vinith Kugathasan,  Dhinesh Suntharalingham, Simon L. Kappel, Anjula C. De Silva, and Chamira U. S. Edussooriya <br/>
-Under review<br/>
-[[arxiv](https://arxiv.org/pdf/2211.02638.pdf)] [[code](https://github.com/Mithunjha/EarEEG_KnowledgeDistillation)] 
 
 
 
@@ -36,14 +27,14 @@ Under review<br/>
 
 ## Peer-reviewed Conference Papers
 
-<b> Towards Accurate Cross-Domain In-Bed Human Pose Estimation </b><br/>
-Mohamed Afham\*, Udith Haputhanthri\*, <b>Jathurshan Pradeepkumar\*,</b> Mithunjha Anandakumar, Ashwin De Silva and Chamira Edussooriya<br/>
-Accepted at ICASSP 2022.<br/>
-[[arxiv](https://arxiv.org/abs/2110.03578)] [[code](https://github.com/MohamedAfham/CD_HPE)]
+<b> HPGNN: Using Hierarchical Graph Neural Networks for Outdoor Point Cloud Processing </b><br/>
+A. Thieshanthan, A. Niwarthana, P. Somarathne,<b> T. Wickremasinghe<b> and R. Rodrigo<br/>
+Accepted at ICPR 2022.<br/>
+[[proceedings](https://www.computer.org/csdl/proceedings-article/icpr/2022/09956238/1IHpg8unl4c)]
 
 
-<b> Decoding of Hand Gestures from Electrocorticography with LSTM Based Deep Neural Network </b><br/>
-<b> Jathurshan Pradeepkumar,</b> Mithunjha Anandakumar, Vinith Kugathasan, Thilina D. Lalitharatne, Anjula C. De Silva and Simon L. Kappel<br/>
-43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),2021<br/>
-[[paper](https://ieeexplore.ieee.org/document/9630958)][[pubmed](https://pubmed.ncbi.nlm.nih.gov/34891323/)][[code](https://github.com/Jathurshan0330/Decoding-of-Hand-Gestures-from-Electrocorticography-with-LSTM-Based-Deep-Neural-Network)][[slides](https://jathurshan0330.github.io/talks/EMBC_2021_Decoding%20of%20Hand%20Gestures%20from%20Electrocorticography%20with%20LSTM%20Based%20Deep%20Neural%20Network.pdf)]
+<b> Towards Real-time Traffic Sign and Traffic Light Detection on Embedded Systems </b><br/>
+O. Jayasinghe, S. Hemachandra, D.Anhettigama, S. Kariyawasam, <b>T. Wickremasinghe<b>, C. Ekanayaka, R. Rodrigo, P.Jayasekara<br/>
+2022 IEEE Intelligent Vehicles Symposium (IV)<br/>
+[[proceedings](https://ieeexplore.ieee.org/abstract/document/9827355)]
 
