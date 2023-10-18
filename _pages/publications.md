@@ -16,7 +16,7 @@ author_profile: true
 <b> MOSAIC: Masked Optimization with Selective Attention for Image Reconstruction</b><br/>
  P. Somarathne, <b>T. Wickremasinghe</b>, A.Niwarthana, A. Thieshanthan, C. Edussooriya, D. Wadduwage <br/>
 Under review<br/>
-[[arxiv](https://arxiv.org/pdf/2208.06991)] [[code](https://github.com/Jathurshan0330/Cross-Modal-Transformer)]  
+[[arxiv](https://arxiv.org/abs/2306.00906)]
 &nbsp;
 
 
