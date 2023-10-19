@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Presentations"
+title: "Featured"
 permalink: /Talks/
 author_profile: true
 ---
