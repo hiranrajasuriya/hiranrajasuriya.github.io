@@ -29,7 +29,7 @@ Under review<br/>
 
 <b> HPGNN: Using Hierarchical Graph Neural Networks for Outdoor Point Cloud Processing </b><br/>
 A. Thieshanthan, A. Niwarthana, P. Somarathne,<b> T. Wickremasinghe</b> and R. Rodrigo<br/>
-Accepted at ICPR 2022.<br/>
+2022 IEEE International Conference on Pattern Recognition (ICPR).<br/>
 [[proceedings](https://www.computer.org/csdl/proceedings-article/icpr/2022/09956238/1IHpg8unl4c)]
 
 
