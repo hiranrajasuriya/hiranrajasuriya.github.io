@@ -5,17 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 
 ## Preprints
 
-
 <b> MOSAIC: Masked Optimization with Selective Attention for Image Reconstruction</b><br/>
  P. Somarathne, <b>T. Wickremasinghe</b>, A.Niwarthana, A. Thieshanthan, C. Edussooriya, D. Wadduwage <br/>
-2023. Under review<br/>
+2023 Under review. <br/>
 [[arxiv](https://arxiv.org/abs/2306.00906)]
 &nbsp;
 
