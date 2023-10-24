@@ -7,10 +7,13 @@ author_profile: True
 
 <!-- You can also find my articles on my <a href="https://scholar.google.com/citations?user=JAq7DWcAAAAJ&hl=en">Google Scholar profile</a>. -->
 
-# 2022
+# Articles
 
 <div>
-<strong><a href="https://arxiv.org/pdf/2207.00164.pdf">Deep Optical Coding Design in Computational Imaging.</a></strong><br>Henry Arguello, Jorge Bacca, Hasindu Kariyawasam, Edwin Vargas, Miguel Marquez, Ramith Hettiarachchi, Hans Garcia, <b>Kithmini Herath</b>, Udith Haputhanthri, Balpreet S. Ahluwalia, Peter So, Dushan N. Wadduwage, Chamira U. S. Edussooriya. To appear in IEEE Signal Processing Magazine Special Issue on Physics-Driven Machine Learning for Computational Imaging Jan 2023.
+<b> Configuring an Intelligent Reflecting Surface for Wireless Communications: </b> <br />
+by Emil Bjornson, Lucio Marcerano: Highlights from the 2021 IEEE Signal Processing Cup student competition <br />
+IEEE Signal Processing Magazine,Volume 39,Issue 1, January 2022, pp 126-131. <br />
+<a href="https://ieeexplore.ieee.org/document/9664611">[article]</a> <br />
 </div>
 <hr>
 
@@ -18,3 +21,6 @@ author_profile: True
 <strong><a href="https://arxiv.org/abs/2203.14944">Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope.</a></strong><br><b>Kithmini Herath</b>, Udith Haputhanthri, Ramith Hettiarachchi, Hasindu Kariyawasam, Raja N. Ahmad, Azeem Ahmad, Balpreet S. Ahluwalia, Chamira U. S. Edussooriya, Dushan Wadduwage. arXiv, 2022.
 </div>
 <hr>
+
+# Presentations
+
