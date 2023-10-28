@@ -34,53 +34,61 @@ idth: 800px;">
        		<col span="1" style="width: 20%;">
        		<col span="1" style="width: 80%;">
     	</colgroup>
-	
+
+     	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
+    		<td style = "border: none;font-size:17px;"> Joined the <b>University of Moratuwa</b> as a <b>Visiting Instructor.</b></td> 	
+	</tr>
+
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">August 2022</td>
+    		<td style = "border: none;font-size:17px;"> Invited to participate in in  <a href="https://cmmrs.mpi-sws.org/"><b>"Cornell-Maryland-MaxPLanck Research School"</b></a> by at MPI Saarbruecken, Germany.</td> 	
+	</tr>
+    
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">June 2023</td>
+    		<td style = "border: none;font-size:17px;"> Presented my final year thesis project to the <a href="https://ent.uom.lk/"><b>Department of Electronic and Telecommunications Engineering</b></a> at the University of Moratuwa.</td> 	
+	</tr>
+
+
+    
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">May 2023</td>
     		<td style = "border: none;font-size:17px;"> "MOSAIC: Masked Optimisation with Selective Attention for Image reconstruction" is submitted for NeuRIPS2023 review.</td> 	
 	</tr>  
-	   
-	   
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">June 2023</td>
-    		<td style = "border: none;font-size:17px;"> Presented my final year thesis project to the <a href="https://ent.uom.lk/"><b>Department of Electronic and Telecommunications Engineering</b></a> at the University of Moratuwa.</td> 	
-	</tr>   
-	   
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
-    		<td style = "border: none;font-size:17px;"> Presented my final year thesis project at the exhibition session in  <a href="https://ccaim.cam.ac.uk/exhibition/"><b>"AI and Machine Learning in Healthcare Summer School"</b></a> by CCAIM.</td> 	
-	</tr>
-	   
-	   
-	   
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
-    		<td style = "border: none;font-size:17px;"> Joined Center for Advanced Imaging at <b>Harvard University</b> as a <b>Post-Baccalaureate Research Fellow.</b></td> 	
-	</tr>
-	   
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
-    		<td style = "border: none;font-size:17px;"> Joint first authored paper accepted at <b>ICASSP 2022.</b></td> 	
-	</tr>
-
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
-    		<td style = "border: none;font-size:17px;"> Virtually attended ICASSP 2021 to defend our solution to the Signal Processing Cup. Won the global chanpionship</td> 	
-	</tr>
-
-
-
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
-    		<td style = "border: none;font-size:17px;"> Joined <b> Centre for Advanced Imaging at Harvard University </b> as a <b> Remote Visiting Undergraduate Research Fellow </b>, under supervision of <b> Dr. Dushan. N. Wadduwage</b> from Wadduwage Lab, focusing on deep learning based image reconstruction algorithms for microscopy.</td> 	
+ 
+	
+ 	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">November 2022</td>
+    		<td style = "border: none;font-size:17px;"> Joined <b> Centre for Advanced Imaging at Harvard University </b> as a <b> Remote Undergraduate Research Fellow </b>, under supervision of <b> Dr. Dushan. N. Wadduwage</b> from Wadduwage Lab, focusing on deep learning based image reconstruction algorithms for microscopy.</td> 	
 	</tr>	
 
-	
 
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">May 2020</td>
+    		<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
+    		<td style = "border: none;font-size:17px;"> co-authored paper: HPGNN accepted at <b>ICPR 2022.</b></td> 	
+	</tr>
+
+    
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">December 2021</td>
+    		<td style = "border: none;font-size:17px;"> Joined the School of Computer Science, <b>University of Sydney</b> as a <b>Research Intern.</b></td> 	
+	</tr>
+	   
+	   
+	   
+	
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
+    		<td style = "border: none;font-size:17px;"> Virtually attended ICASSP 2021 to defend our solution to the Signal Processing Cup, and Won the global chanpionship</td> 	
+	</tr>
+
+
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">May 2021</td>
     		<td style = "border: none;font-size:17px;"> Appointed as <b> Assitant Manager </b> of the Knowledge Hub of the Electronic Club.</td> 	
 	</tr>
+	
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">October 2018</td>
