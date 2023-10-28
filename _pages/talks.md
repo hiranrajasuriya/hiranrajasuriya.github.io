@@ -17,10 +17,5 @@ IEEE Signal Processing Magazine,Volume 39,Issue 1, January 2022, pp 126-131. <br
 </div>
 <hr>
 
-<div>
-<strong><a href="https://arxiv.org/abs/2203.14944">Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope.</a></strong><br><b>Kithmini Herath</b>, Udith Haputhanthri, Ramith Hettiarachchi, Hasindu Kariyawasam, Raja N. Ahmad, Azeem Ahmad, Balpreet S. Ahluwalia, Chamira U. S. Edussooriya, Dushan Wadduwage. arXiv, 2022.
-</div>
-<hr>
-
 # Presentations
 
