@@ -35,14 +35,16 @@ idth: 800px;">
        		<col span="1" style="width: 80%;">
     	</colgroup>
 
-     	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
-    		<td style = "border: none;font-size:17px;"> Joined the <b>University of Moratuwa</b> as a <b>Visiting Instructor.</b></td> 	
-	</tr>
+     	
 
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">August 2022</td>
+    		<td style = "border: none;color:blue;font-size:17px;">August 2023</td>
     		<td style = "border: none;font-size:17px;"> Invited to participate in in  <a href="https://cmmrs.mpi-sws.org/"><b>"Cornell-Maryland-MaxPLanck Research School"</b></a> by at MPI Saarbruecken, Germany.</td> 	
+	</tr>
+
+ 	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">July 2023</td>
+    		<td style = "border: none;font-size:17px;"> Joined the <b>University of Moratuwa</b> as a <b>Visiting Instructor.</b></td> 	
 	</tr>
     
 	<tr>
@@ -66,7 +68,7 @@ idth: 800px;">
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
-    		<td style = "border: none;font-size:17px;"> co-authored paper: HPGNN accepted at <b>ICPR 2022.</b></td> 	
+    		<td style = "border: none;font-size:17px;"> co-authored paper: <a href="https://www.computer.org/csdl/proceedings-article/icpr/2022/09956238/1IHpg8unl4c"><b>HPGNN: Hierarchical Point GNN for Outdoor Point Cloud processing</b></a> accepted at <b>ICPR 2022.</b></td> 	
 	</tr>
 
     
@@ -80,7 +82,7 @@ idth: 800px;">
 	
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
-    		<td style = "border: none;font-size:17px;"> Virtually attended ICASSP 2021 to defend our solution to the Signal Processing Cup, and Won the global chanpionship</td> 	
+    		<td style = "border: none;font-size:17px;"> Virtually attended ICASSP 2021 to defend our solution to the <a href="https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2021"><b>IEEE Signal Processing Cup</b></a>, and Won the global chanpionship</td> 	
 	</tr>
 
 
