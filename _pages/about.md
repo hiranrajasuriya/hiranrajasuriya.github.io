@@ -36,7 +36,7 @@ idth: 800px;">
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">August 2023</td>
-    		<td style = "border: none;font-size:17px;"> Invited to participate in in  <a href="https://cmmrs.mpi-sws.org/"><b>"Cornell-Maryland-MaxPlanck Research School"</b></a> by at MPI Saarbruecken, Germany.</td> 	
+    		<td style = "border: none;font-size:17px;"> Invited to participate in the <a href="https://cmmrs.mpi-sws.org/"><b>"Cornell-Maryland-MaxPlanck Research School"</b></a> by at MPI Saarbruecken, Germany.</td> 	
 	</tr>
 
  	<tr>
