@@ -31,7 +31,9 @@ An online tutoring platform in which I tutored remotely.
 While following these modules and gaining theoretical knowledge, I have experience projects and publications in related research. Gradually I discovered my passion for underlying stochastic processes and in the theory of machine learning. 
 
 ### Advanced Courses
-* EN4573 Pattern Recognition and Machine Intelligence
+* EN4573 Pattern Recognition and Machine Intelligence:
+  - Covered Random Vectors and Matrices, Multivariate Gaussian Density, Goals of Learning, Randomness of the Generalization error, Inductive bias, Density estimation, Concentration inequalities, Introduction to PAC inequalities. Mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky.</a>
+
 * EN4583 Advances in Machine Vision
   
 ### Mathematical fundamentals
