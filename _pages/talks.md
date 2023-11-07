@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Articles"
+title: "Featured content"
 permalink: /talks/
 author_profile: True
 ---
