@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Featured learning and teaching"
+title: "Featured teaching and learning"
 permalink: /teaching/
 author_profile: True
 ---
@@ -8,18 +8,21 @@ author_profile: True
 <!-- You can also find my articles on my <a href="https://scholar.google.com/citations?user=JAq7DWcAAAAJ&hl=en">Google Scholar profile</a>. -->
 
 # Teaching
-## Visiting Instructor- University of Moratuwa
-I assist the lecturers in assignment preparation, marking, and laboratory work, and invigilation of examinations.
-Additionally I conduct reviews on problem sets, and conduct extra sessions when students request additional help and tutoring.
+### Visiting Instructor- University of Moratuwa
+I assist the lecturers in assignment preparation, evaluations, laboratory work, and invigilation of examinations.
+Additionally I conduct reviews on problem sets, and conduct extra sessions when students request additional help or tutoring.
 * EN4553 Machine Vision, Fall 2023
 * EN3551 Digital Signal Processing, Fall 2023
 * EN3160 Fundamentals of Image Processing and Machine Vision,  Fall 2023
 * EN2412 Electronic Control Systems, Fall 2022
 * EN2091 Laboratory practise and projects, Fall 2022
 
+### Tutor- Skill Surf
+An online tutoring platform in which I tutored remotely.
+* <a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=14&coid=44388"> STAT/CSE4340</a> Statistical Methods for Engineers, Fall 2022
+*<a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=14&coid=45563">MATH3304</a> Introduction to Linear Algebra, Spring 2023  
 
-
-# Modules
+# Learning
 ## A Selection of Undergraduate Modules
 While following these modules and gaining theoretical knowledge, I have experience projects and publications in related research. Gradually I discovered my passion for underlying stochastic processes and in the theory of machine learning. 
 
