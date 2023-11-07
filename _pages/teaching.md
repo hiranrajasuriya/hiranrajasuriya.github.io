@@ -32,7 +32,7 @@ While following these modules and gaining theoretical knowledge, I have experien
 
 ### Advanced Courses
 * EN4573 Pattern Recognition and Machine Intelligence:
-  - Covered Random Vectors and Matrices, Multivariate Gaussian Density, Goals of Learning, Randomness of the Generalization error, Inductive bias, Density estimation, Concentration inequalities, Introduction to PAC inequalities. Mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky.</a>
+  - Covered Random Matrices, Multivariate Gaussian Density, Concentration of Measure in high dimensions, Goals of Learning, Randomness of the Generalization error, Inductive bias, Density estimation, Concentration inequalities, Introduction to PAC inequalities. Mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky.</a>
 
 * EN4583 Advances in Machine Vision
   
