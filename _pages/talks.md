@@ -17,5 +17,13 @@ IEEE Signal Processing Magazine,Volume 39,Issue 1, January 2022, pp 126-131. <br
 </div>
 <hr>
 
+<div>
+<b> Student Spotlight: </b> <br />
+by Dusara Gamindu: An article highlighting a top performer in the graduating cohort of 2023. <br />
+October 2023 issue, E-career magazine: the periodical issued by the department of Electronics and Telecommunications Enigneering, University of Moratuwa. <br />
+<a href="https://ent.uom.lk/e-carrier-magazine/">[article]</a> <br />
+</div>
+<hr>
+
 # Presentations
 
