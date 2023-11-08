@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Featured teaching and learning"
-permalink: /teaching/
+title: "Teaching and learning"
+permalink: /academics/
 author_profile: True
 ---
 
