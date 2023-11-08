@@ -18,7 +18,6 @@ Additionally I conduct reviews on problem sets, and conduct extra sessions when 
 * EN2091 Laboratory practise and projects, Fall 2022
 
 ### Tutor- <a href="https://www.skillsurf.lk/program-catalog"> Skill Surf</a>
-An online tutoring platform in which I tutored remotely.
 * <a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=14&coid=44388"> STAT/CSE4340</a> Statistical Methods for Engineers, Fall 2022
 * <a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=14&coid=45563">MATH3304</a> Introduction to Linear Algebra, Spring 2023  
 
