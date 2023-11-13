@@ -26,4 +26,11 @@ October 2023 issue, E-career magazine: the periodical issued by the department o
 <hr>
 
 # Presentations
+<b> Configuring an Intelligent Reflecting Surface for Wireless Communications: </b> <br />
+by Team T-Cubed at <a href="https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/index.html">[ICASSP 2021]</a> <br />
+at the grand finale of the 2021 IEEE Signal Processing Cup student competition <br />
+IEEE Signal Processing Magazine,Volume 39,Issue 1, January 2022, pp 126-131. <br />
+<a href="https://www.youtube.com/watch?v=oB2V-RE2qoI&list=PLTv48TzNRhaIs9JZ1RqxTVdBjCMUYGdki&index=5&t=93s">[video]</a> <br />
+</div>
+<hr>
 
