@@ -34,3 +34,12 @@ IEEE Signal Processing Magazine,Volume 39,Issue 1, January 2022, pp 126-131. <br
 </div>
 <hr>
 
+<div>
+<b> Extended abstract: </b> <br />
+T. Wickremasinghe, A.Niwarthana, P. Somarathne, A. Thieshanthan, B. Weissbourd, C. Edussooriya, D.Wadduwage: <br />
+Lost in Translation: The Critical Role of Attention in Adaptive Image Reconstruction, <br />
+OSA Optica Imaging Congress, Cambridge, MA, 2023 <br />
+<a href="https://ent.uom.lk/e-carrier-magazine/">[abstract]</a> <br />
+</div>
+<hr>
+
