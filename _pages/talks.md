@@ -35,9 +35,8 @@ IEEE Signal Processing Magazine,Volume 39,Issue 1, January 2022, pp 126-131. <br
 </div>
 <hr>
 
-
-<b> Extended abstract: </b> <br />
 <div>
+<b> Extended abstract: </b> <br />
 T. Wickremasinghe, A.Niwarthana, P. Somarathne, A. Thieshanthan, B. Weissbourd, C. Edussooriya, D.Wadduwage: <br />
 Lost in Translation: The Critical Role of Attention in Adaptive Image Reconstruction, <br />
 At Computational Optical Sensing and Imaging track, <a href="https://www.optica.org/events/congress/imaging_and_applied_optics_congress/program/computational_optical_sensing_and_imaging/">[COSI]</a> <br />
