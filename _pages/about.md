@@ -82,7 +82,7 @@ idth: 800px;">
 	
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">October 2018</td>
-    		<td style = "border: none;font-size:17px;"> Started my undergraduate degree in Electronic and Telecommunications Engineering at University of Moratuwa, Sri Lanka.</td> 	
+    		<td style = "border: none;font-size:17px;"> Started my Bachelors degree in Biomedical Engineering at University of Moratuwa, Sri Lanka.</td> 	
 	</tr>
    </table> 
  </div>
