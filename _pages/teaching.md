@@ -8,18 +8,14 @@ author_profile: True
 <!-- You can also find my articles on my <a href="https://scholar.google.com/citations?user=JAq7DWcAAAAJ&hl=en">Google Scholar profile</a>. -->
 
 # Teaching
-### Visiting Instructor- <a href="https://ent.uom.lk/"> ENTC, University of Moratuwa</a>
-I assist the lecturers in assignment preparation, evaluations, laboratory work, and invigilation of examinations.
-Additionally I conduct reviews on problem sets, and conduct extra sessions when students request additional help or tutoring.
-* EN4553 Machine Vision, Fall 2023
-* EN3551 Digital Signal Processing, Fall 2023
-* EN3160 Fundamentals of Image Processing and Machine Vision,  Fall 2023
-* EN2412 Electronic Control Systems, Fall 2022
-* EN2091 Laboratory practise and projects, Fall 2022
-
-### Tutor- <a href="https://www.skillsurf.lk/program-catalog"> Skill Surf</a>
-* <a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=14&coid=44388"> STAT/CSE4340</a> Statistical Methods for Engineers, Fall 2022
-* <a href="https://catalog.smu.edu/preview_course_nopop.php?catoid=14&coid=45563">MATH3304</a> Introduction to Linear Algebra, Spring 2023  
+### Visiting Instructor/ Teaching Assistant - <a href="https://ent.uom.lk/"> ENTC, University of Moratuwa</a>
+I assisted the lecturers in assignment preparation, evaluations, and laboratory work.
+* BM4151 Biosignal Processing, UoM, Sri Lanka (Fall 2023)
+* EN4553 Machine Vision, UoM, Sri Lanka (Fall 2023)
+* BM3122 Medical Imaging, UoM, Sri Lanka (Fall 2023)
+* EN3160 Image Processing and Machine Vision, UoM, Sri Lanka (Fall 2023)
+* EN3551 Digital Signal Processing, UoM, Sri Lanka (Fall 2023)
+* BM2012 Anatomy and Physiology for Engineers, UoM, Sri Lanka (Fall 2023)
 
 
 &nbsp;  
