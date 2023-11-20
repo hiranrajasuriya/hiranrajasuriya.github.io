@@ -56,7 +56,7 @@ idth: 800px;">
 	</tr>  
 
 	<tr>
-			<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
+			<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
     		<td style = "border: none;font-size:17px;"> <b>CAMSAT</b>: Paediatric Anaesthesia Monitoring System won the <b>1st runners-up</b> award at the <a href="https://ent.uom.lk/spark-at-uom/spark-challenge-2021-22-results/"><b>SPARK Challenge 2021/22</b></a>.</td>
 
 	</tr>
