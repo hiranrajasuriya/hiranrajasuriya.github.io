@@ -84,7 +84,7 @@ idth: 800px;">
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">September 2020</td>
-    		<td style = "border: none;font-size:17px;"> Appointed as the<b> Vice President </b>of the <b>Mathematics Society</b> of the University of Moratuwa, Sri Lanka.</td> 	
+    		<td style = "border: none;font-size:17px;"> Appointed as the<b> Vice President </b>of the <b>Mathematics Society</b> of University of Moratuwa, Sri Lanka.</td> 	
 	</tr>
 	
 
