@@ -59,27 +59,14 @@ idth: 800px;">
 	</tr>
 
 	<tr>
-			<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
-    		<td style = "border: none;font-size:17px;"> Pulished the researchgate preprint of the co-authored paper:<a href="https://www.researchgate.net/publication/368642404_Rethinking_Object_Detection_in_terms_of_Classification_and_Localization_through_Parallel_Deep_Learning_Models"><b>Rethinking Object Detection in terms of Classification and Localization through Parallel Deep Learning Models</b></a>.</td>
+			<td style = "border: none;color:blue;font-size:17px;">June 2022</td>
+    		<td style = "border: none;font-size:17px;"> Pulished the researchgate preprint of the co-authored paper: <a href="https://www.researchgate.net/publication/368642404_Rethinking_Object_Detection_in_terms_of_Classification_and_Localization_through_Parallel_Deep_Learning_Models"><b>Rethinking Object Detection in terms of Classification and Localization through Parallel Deep Learning Models</b></a>.</td>
 
 	</tr>
- 
-	
- 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">November 2022</td>
-    		<td style = "border: none;font-size:17px;"> Joined <b> Centre for Advanced Imaging at Harvard University </b> as a <b> Remote Undergraduate Research Fellow </b>, under supervision of <b> Dr. Dushan. N. Wadduwage</b> from Wadduwage Lab, focusing on deep learning based image reconstruction algorithms for microscopy.</td> 	
-	</tr>	
-
-
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
-    		<td style = "border: none;font-size:17px;"> co-authored paper: <a href="https://www.computer.org/csdl/proceedings-article/icpr/2022/09956238/1IHpg8unl4c"><b>HPGNN: Hierarchical Point GNN for Outdoor Point Cloud processing</b></a> accepted at <b>ICPR 2022.</b></td> 	
-	</tr>
-
     
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">December 2021</td>
-    		<td style = "border: none;font-size:17px;"> Joined the School of Computer Science, <b>University of Sydney</b> as a <b>Research Intern.</b></td> 	
+    		<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
+    		<td style = "border: none;font-size:17px;"> Joined <b>Effective Solutions (Pvt) Ltd.</b>, Sri Lanka as a <b>Research Intern</b> in Biomedical Engineering.</td> 	
 	</tr>
 	   
 	   
