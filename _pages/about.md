@@ -32,11 +32,11 @@ idth: 800px;">
     	</colgroup>
 
      	
-
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">August 2023</td>
-    		<td style = "border: none;font-size:17px;"> Invited to participate in the <a href="https://cmmrs.mpi-sws.org/"><b>"Cornell-Maryland-MaxPlanck Research School"</b></a> by at MPI Saarbruecken, Germany.</td> 	
+    		<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
+    		<td style = "border: none;font-size:17px;"> Joined the <b>Bioinformatics Institute</b>, A*STAR, Singapore as a <b>Graduate Research Intern</b>.</td> 	
 	</tr>
+	
 
  	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2023</td>
