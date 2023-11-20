@@ -23,13 +23,12 @@ I assisted the lecturers in assignment preparation, evaluations, and laboratory 
 
 # Learning
 ## A Selection of Undergraduate Modules
-While following these modules and gaining theoretical knowledge, I have experience projects and publications in related research. Gradually I discovered my passion for underlying stochastic processes and in the theory of machine learning. 
+Up until the last semester as an undergraduate, I was involved in deep-learning research based on heuristic approaches. However, the ‘Pattern Recognition and Machine Intelligence’ module delivered by <a href = 'https://scholar.google.com/citations?user=4-S204cAAAAJ&hl=en'><b>Dr. Prathapasinghe Dharmawansa</b></a> made me realize the power and versatility of statistical machine learning and it catalyzed a passion to explore statistical approaches in medical image analysis. 
 
 ### Advanced Courses
 * EN4573 Pattern Recognition and Machine Intelligence:
-  - Covered Random Matrices, Multivariate Gaussian Density, Concentration of Measure in high dimensions, Goals of Learning, Randomness of the Generalization error, Inductive bias, Density estimation, Concentration inequalities, Introduction to PAC inequalities. Mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky.</a>
+  - Course content includes Multivariate Gaussian Density, Concentration of Measure in High Dimensions, Goals of Learning, Randomness of the Generalization Error, Inductive Bias, Density Estimation, Concentration Inequalities, Introduction to PAC Inequalities. (Reference materials are mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky</a>.)
 
-* EN4583 Advances in Machine Vision
   
 ### Mathematical fundamentals
 * MA4033 Time Series and Stochastic Processes
