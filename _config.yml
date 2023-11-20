@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tharindu Wickremasinghe"
+title                    : "Dasun Premathilaka"
 title_separator          : "-"
-name                     : &name "Tharindu Wickremasinghe"
-description              : &description "Visiting Instructor, University of Moratuwa"
-url                      : #https://tharindu-nirmal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dasun Premathilaka"
+description              : &description "Graduate Research Intern at the Bioinformatics Institute, A*STAR, Singapore"
+url                      : #https://dasun07.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Tharindu-Nirmal/Tharindu-Nirmal.github.io"
+repository               : "dasun07/dasun07.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tharindu Wickremasinghe"
-  avatar           : "myphoto.jpeg"
-  bio              : "Visiting Instructor,
-                      University of Moratuwa"
-  location         : "Colombo, Sri Lanka"
+  name             : "Dasun Premathilaka"
+  avatar           : "Dasun.jpg"
+  bio              : "Graduate Research Intern,
+                      Computer Vision and Pattern Discovery for Bioimages Group,
+                      Bioinformatics Institute, A*STAR"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DBAH8C0AAAAJ"
-  email            : "tharindu.ncr@gmail.com"
+  googlescholar    : # "https://scholar.google.com/citations?hl=en&user=DBAH8C0AAAAJ"
+  email            : "dasunpremethilake@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Tharindu-Nirmal"
+  github           : "dasun07"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tharinduwickremasinghe"
+  linkedin         : "dasun07"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TharinduWickr"
+  twitter          : # "TharinduWickr"
   vine             :
   weibo            :
   xing             :
