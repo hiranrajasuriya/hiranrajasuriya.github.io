@@ -36,7 +36,6 @@ idth: 800px;">
     		<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
     		<td style = "border: none;font-size:17px;"> Joined the <b>Bioinformatics Institute</b>, A*STAR, Singapore as a <b>Graduate Research Intern</b>.</td> 	
 	</tr>
-	
 
  	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2023</td>
@@ -48,8 +47,6 @@ idth: 800px;">
     		<td style = "border: none;font-size:17px;"> Presented the undergraduate thesis project to the <a href="https://ent.uom.lk/"><b>Department of Electronic and Telecommunications Engineering</b></a> at the University of Moratuwa, Sri Lanka.</td> 	
 	</tr>
 
-
-    
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
     		<td style = "border: none;font-size:17px;"> Placed among the <b>top 5</b> solutions at the IEEE Video and Image Processing Cup (<b>VIPCUP 2022 - Open Competition</b>).</td> 	
@@ -58,6 +55,12 @@ idth: 800px;">
 	<tr>
 			<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
     		<td style = "border: none;font-size:17px;"> <b>CAMSAT</b>: Paediatric Anaesthesia Monitoring System won the <b>1st runners-up</b> award at the <a href="https://ent.uom.lk/spark-at-uom/spark-challenge-2021-22-results/"><b>SPARK Challenge 2021/22</b></a>.</td>
+
+	</tr>
+
+	<tr>
+			<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
+    		<td style = "border: none;font-size:17px;"> Pulished the researchgate preprint of the co-authored paper:<a href="https://www.researchgate.net/publication/368642404_Rethinking_Object_Detection_in_terms_of_Classification_and_Localization_through_Parallel_Deep_Learning_Models"><b>Rethinking Object Detection in terms of Classification and Localization through Parallel Deep Learning Models</b></a>.</td>
 
 	</tr>
  
