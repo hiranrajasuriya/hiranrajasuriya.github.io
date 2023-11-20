@@ -8,7 +8,7 @@ author_profile: True
 <!-- You can also find my articles on my <a href="https://scholar.google.com/citations?user=JAq7DWcAAAAJ&hl=en">Google Scholar profile</a>. -->
 
 # Teaching
-### Visiting Instructor/ Teaching Assistant - <a href="https://ent.uom.lk/"> ENTC, University of Moratuwa</a>
+## Visiting Instructor/ Teaching Assistant - <a href="https://ent.uom.lk/"> ENTC, University of Moratuwa</a>
 I assisted the lecturers in assignment preparation, evaluations, and laboratory work.
 * BM4151 Biosignal Processing, UoM, Sri Lanka (Fall 2023)
 * EN4553 Machine Vision, UoM, Sri Lanka (Fall 2023)
@@ -27,7 +27,7 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
 
 ### Advanced Courses
 * EN4573 Pattern Recognition and Machine Intelligence:
-  - Course content includes Multivariate Gaussian Density, Concentration of Measure in High Dimensions, Goals of Learning, Randomness of the Generalization Error, Inductive Bias, Density Estimation, Concentration Inequalities, Introduction to PAC Inequalities. (Reference materials are mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky</a>.)
+  - Course content includes Multivariate Gaussian Density, Concentration of Measure in High Dimensions, Goals of Learning, Randomness of the Generalization Error, Inductive Bias, Density Estimation, Concentration Inequalities, Introduction to PAC Inequalities. (Reference materials are mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky</a>).
 
   
 ### Mathematical fundamentals
