@@ -2,15 +2,17 @@
 main:
   # - title: "Publications"
   #   url: /publications/
+  - title: "Academics"
+    url: /academics/  
 
+    
   - title: "CV"
     url: /cv/
     
   # - title: "Featured"
   #   url: /talks/    
 
-  - title: "Academics"
-    url: /academics/    
+  
     
   # - title: "Portfolio"
   #   url: /portfolio/

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching and learning"
+title: "Teaching and Learning"
 permalink: /academics/
 author_profile: True
 ---
