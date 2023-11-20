@@ -52,8 +52,14 @@ idth: 800px;">
     
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
-    		<td style = "border: none;font-size:17px;"> Placed among the <b>top 5</b> solutions at the IEEE Video and Image Processing Cup (<b>VIPCUP 2022 - Open Competition</b>), Organized by the University of Naples Federico II and NVIDIA</td> 	
+    		<td style = "border: none;font-size:17px;"> Placed among the <b>top 5</b> solutions at the IEEE Video and Image Processing Cup (<b>VIPCUP 2022 - Open Competition</b>).</td> 	
 	</tr>  
+
+	<tr>
+			<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
+    		<td style = "border: none;font-size:17px;"> <b>CAMSAT</b>: Paediatric Anaesthesia Monitoring System won the <b>1st runners-up</b> award at the <a href="https://ent.uom.lk/spark-at-uom/spark-challenge-2021-22-results/"><b>SPARK Challenge 2021/22</b></a>.</td>
+
+	</tr>
  
 	
  	<tr>
