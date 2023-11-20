@@ -22,7 +22,7 @@ I assisted the lecturers in assignment preparation, evaluations, and laboratory 
 
 
 # Learning
-## A Selection of Undergraduate Modules
+## Selected Undergraduate Modules
 Up until the last semester as an undergraduate, I was involved in deep-learning research based on heuristic approaches. However, the ‘Pattern Recognition and Machine Intelligence’ module delivered by <a href = 'https://scholar.google.com/citations?user=4-S204cAAAAJ&hl=en'><b>Dr. Prathapasinghe Dharmawansa</b></a> made me realize the power and versatility of statistical machine learning and it catalyzed a passion to explore statistical approaches in medical image analysis. 
 
 ### Advanced Courses
