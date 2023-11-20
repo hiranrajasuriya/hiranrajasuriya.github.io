@@ -40,7 +40,7 @@ idth: 800px;">
 
  	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2023</td>
-    		<td style = "border: none;font-size:17px;"> Joined the <b>University of Moratuwa</b> as a <b>Visiting Instructor.</b></td> 	
+    		<td style = "border: none;font-size:17px;"> Joined the <b>University of Moratuwa</b>, Sri Lanka as a <b>Visiting Instructor.</b></td> 	
 	</tr>
     
 	<tr>
