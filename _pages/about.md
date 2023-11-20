@@ -69,7 +69,11 @@ idth: 800px;">
     		<td style = "border: none;font-size:17px;"> Joined <b>Effective Solutions (Pvt) Ltd.</b>, Sri Lanka as a <b>Research Intern</b> in Biomedical Engineering.</td> 	
 	</tr>
 	   
-	   
+	<tr>
+			<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
+    		<td style = "border: none;font-size:17px;"> Won the <b>1st runners-up</b> award at the <a href="https://uom.lk/elect/news_events/team-stimulus-university-moratuwa-wins-first-prize-3rd-regional-association"> 3rd International Energy and Electricity Market Business Decision
+			Simulation Competition</a>.</td>
+	</tr>   
 	   
 	
 	<tr>
