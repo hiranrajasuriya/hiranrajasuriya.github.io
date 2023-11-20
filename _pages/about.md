@@ -70,7 +70,7 @@ idth: 800px;">
 	</tr>
 	   
 	<tr>
-			<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
+			<td style = "border: none;color:blue;font-size:17px;">November 2021</td>
     		<td style = "border: none;font-size:17px;"> Won the <b>1st runners-up</b> award at the <a href="https://uom.lk/elect/news_events/team-stimulus-university-moratuwa-wins-first-prize-3rd-regional-association"> 3rd International Energy and Electricity Market Business Decision
 			Simulation Competition</a>.</td>
 	</tr>   
@@ -83,8 +83,8 @@ idth: 800px;">
 
 
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">May 2021</td>
-    		<td style = "border: none;font-size:17px;"> Appointed as <b> Assitant Manager </b> of the Knowledge Hub of the Electronic Club.</td> 	
+    		<td style = "border: none;color:blue;font-size:17px;">September 2020</td>
+    		<td style = "border: none;font-size:17px;"> Appointed as the<b> Vice President </b>of the <b>Mathematics Society</b> of the University of Moratuwa, Sri Lanka.</td> 	
 	</tr>
 	
 
