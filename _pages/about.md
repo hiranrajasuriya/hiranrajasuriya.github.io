@@ -45,14 +45,14 @@ idth: 800px;">
     
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">June 2023</td>
-    		<td style = "border: none;font-size:17px;"> Presented my final year thesis project to the <a href="https://ent.uom.lk/"><b>Department of Electronic and Telecommunications Engineering</b></a> at the University of Moratuwa.</td> 	
+    		<td style = "border: none;font-size:17px;"> Presented the undergraduate thesis project to the <a href="https://ent.uom.lk/"><b>Department of Electronic and Telecommunications Engineering</b></a> at the University of Moratuwa, Sri Lanka.</td> 	
 	</tr>
 
 
     
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">May 2023</td>
-    		<td style = "border: none;font-size:17px;"> "MOSAIC: Masked Optimisation with Selective Attention for Image reconstruction" is submitted for NeuRIPS2023 review.</td> 	
+    		<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
+    		<td style = "border: none;font-size:17px;"> Placed among the <b>top 5</b> solutions at the IEEE Video and Image Processing Cup (<b>VIPCUP 2022 - Open Competition</b>), Organized by the University of Naples Federico II and NVIDIA</td> 	
 	</tr>  
  
 	
