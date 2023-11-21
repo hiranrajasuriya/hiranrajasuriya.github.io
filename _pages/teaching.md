@@ -68,28 +68,28 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
 * ME1822 Basic Engineering Thermodynamics
 
 ## MOOCs 
-* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/M3RANNZQC3Q8'>TensorFlow Advanced Techniques</a> : 4-Course Specialization - DeepLearning.AI (Coursera) March 2022
+* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/M3RANNZQC3Q8'>TensorFlow Advanced Techniques</a> : <b>4-Course Specialization</b> - DeepLearning.AI (Coursera) March 2022
   - Custom Models, Layers, and Loss Functions with TensorFlow
   - Custom and Distributed Training with TensorFlow
   - Advanced Computer Vision with TensorFlow
   - Generative Deep Learning with TensorFlow
-* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/D4MLKAHSF2VH'>MATLAB Programming for Engineers and Scientists</a> : 3-Course Specialization - Vanderbilt University (Coursera) November 2020
+* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/D4MLKAHSF2VH'>MATLAB Programming for Engineers and Scientists</a> : <b>3-Course Specialization</b> - Vanderbilt University (Coursera) November 2020
   - Introduction to Programming with MATLAB
   - Mastering Programming with MATLAB
   - Introduction to Data, Signal, and Image Analysis with MATLAB
-* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/NFRTDHJAJ3NC'>DeepLearning.AI Tensorflow Developer</a> : 4-Course Professional Certificate - DeepLearning.AI (Coursera) September 2020
+* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/NFRTDHJAJ3NC'>DeepLearning.AI Tensorflow Developer</a> : <b>4-Course Professional Certificate</b> - DeepLearning.AI (Coursera) September 2020
   - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
   - Convolutional Neural Networks in TensorFlow
   - Natural Language Processing in TensorFlow
   - Sequences, Time Series and Prediction
 * <a href = 'https://www.coursera.org/account/accomplishments/certificate/WM9LGNA8JQUX'>AI for Medical Diagnosis</a> - DeepLearning.AI (Coursera) September 2020
 * <a href = 'https://www.coursera.org/account/accomplishments/certificate/CKH6JX4DTB7J'>Python Classes and Inheritance</a> - University of Michigan (Coursera) September 2020
-* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/SYMCXBA626HE'>Anatomy</a> : 4-Course Specialization - University of Michigan (Coursera) August 2020
+* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/SYMCXBA626HE'>Anatomy</a> : <b>4-Course Specialization</b> - University of Michigan (Coursera) August 2020
   - Anatomy: Musculoskeletal and Integumentary Systems
   - Anatomy: Cardiovascular, Respiratory and Urinary Systems
   - Anatomy: Human Neuroanatomy
   - Anatomy: Gastrointestinal, Reproductive and Endocrine Systems
-* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/UVT4K788MXAV'>Deep Learning</a> : 5-Course Specialization - DeepLearning.AI (Coursera) June 2020
+* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/UVT4K788MXAV'>Deep Learning</a> : <b>5-Course Specialization</b> - DeepLearning.AI (Coursera) June 2020
   - Neural Networks and Deep Learning
   - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
   - Structuring Machine Learning Projects
