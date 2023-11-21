@@ -13,5 +13,11 @@ In the above diagram, V<sub>1</sub>,V<sub>21</sub> and V<sub>22</sub> are the me
 By solving the differential equations with the given nodal and boundary conditions, steady-state voltage profile in each branch could be determined. 
 
 ## Properties of the Hodgkin-Huxley equations
-Many of the properties of the propagating action potential are similar, if not identical, to the membrane action potential. The features; <b>threshold, refractoriness</b> (absolute and relative),<b>repetitive activity, temperature dependence</b> that are observed physiologically, were simulated using the Hodgkin-Huxley equations.
+Many of the properties of the propagating action potential are similar to the membrane action potential. The features; <b>threshold, refractoriness</b> (absolute and relative), <b>repetitive activity, temperature dependence</b> that are observed physiologically, were simulated using the Hodgkin-Huxley equations.
 <p align="center"><img src="../images/hh.png" width="450"/></p>
+
+## Mathematical Modelling of Compartmental Systems
+Many compartmental systems can be represented by a series of first-order differential equations.
+* Bolies Glucose/ Insulin Model
+* Riggs Model for Iodine Metabolism
+<p align="center"><img src="../images/cs.png" width="450"/><img src="../images/gi.png" width="400"/></p>
