@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: ""
+title: "Simulations"
 permalink: /simulations/
 author_profile: True
 ---
