@@ -70,14 +70,14 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
 ## MOOCs 
 * <a href = 'https://www.coursera.org/account/accomplishments/certificate/WM9LGNA8JQUX'>AI for Medical Diagnosis</a> - DeepLearning.AI (Coursera) September 2020
 * <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/SYMCXBA626HE'>Anatomy</a> : 4-Course Specialization - University of Michigan (Coursera) August 2020
-  ** Anatomy: Musculoskeletal and Integumentary Systems
-  ** Anatomy: Cardiovascular, Respiratory and Urinary Systems
-  ** Anatomy: Human Neuroanatomy
-  ** Anatomy: Gastrointestinal, Reproductive and Endocrine Systems
+  - Anatomy: Musculoskeletal and Integumentary Systems
+  - Anatomy: Cardiovascular, Respiratory and Urinary Systems
+  - Anatomy: Human Neuroanatomy
+  - Anatomy: Gastrointestinal, Reproductive and Endocrine Systems
 * <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/UVT4K788MXAV'>Deep Learning</a> : 5-Course Specialization - DeepLearning.AI (Coursera) June 2020
-  ** Neural Networks and Deep Learning
-  ** Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-  ** Structuring Machine Learning Projects
-  ** Convolutional Neural Networks
-  ** Sequence Models
+  - Neural Networks and Deep Learning
+  - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+  - Structuring Machine Learning Projects
+  - Convolutional Neural Networks
+  - Sequence Models
 * Machine Learning - Stanford University (Coursera) June 2020
