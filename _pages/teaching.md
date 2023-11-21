@@ -73,7 +73,7 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
   - Custom and Distributed Training with TensorFlow
   - Advanced Computer Vision with TensorFlow
   - Generative Deep Learning with TensorFlow
-* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/D4MLKAHSF2VH'>MATLAB Programming for Engineers and Scientists</a> 3-Course Specialization - Vanderbilt University (Coursera) November 2020
+* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/D4MLKAHSF2VH'>MATLAB Programming for Engineers and Scientists</a> : 3-Course Specialization - Vanderbilt University (Coursera) November 2020
   - Introduction to Programming with MATLAB
   - Mastering Programming with MATLAB
   - Introduction to Data, Signal, and Image Analysis with MATLAB
