@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Undergraduate Course Simulations"
+title: "Selected Course Simulations"
 permalink: /simulations/
 author_profile: True
 ---
