@@ -68,6 +68,11 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
 * ME1822 Basic Engineering Thermodynamics
 
 ## MOOCs 
+* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/NFRTDHJAJ3NC'>DeepLearning.AI Tensorflow Developer</a> : 4-Course Professional Certificate - DeepLearning.AI (Coursera) September 2020
+  - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+  - Convolutional Neural Networks in TensorFlow
+  - Natural Language Processing in TensorFlow
+  - Sequences, Time Series and Prediction
 * <a href = 'https://www.coursera.org/account/accomplishments/certificate/WM9LGNA8JQUX'>AI for Medical Diagnosis</a> - DeepLearning.AI (Coursera) September 2020
 * <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/SYMCXBA626HE'>Anatomy</a> : 4-Course Specialization - University of Michigan (Coursera) August 2020
   - Anatomy: Musculoskeletal and Integumentary Systems
