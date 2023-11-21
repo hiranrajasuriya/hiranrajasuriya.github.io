@@ -68,6 +68,15 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
 * ME1822 Basic Engineering Thermodynamics
 
 ## MOOCs 
+* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/M3RANNZQC3Q8'>TensorFlow Advanced Techniques</a> : 4-Course Specialization - DeepLearning.AI (Coursera) March 2022
+  - Custom Models, Layers, and Loss Functions with TensorFlow
+  - Custom and Distributed Training with TensorFlow
+  - Advanced Computer Vision with TensorFlow
+  - Generative Deep Learning with TensorFlow
+* <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/D4MLKAHSF2VH'>MATLAB Programming for Engineers and Scientists</a> 3-Course Specialization - Vanderbilt University (Coursera) November 2020
+  - Introduction to Programming with MATLAB
+  - Mastering Programming with MATLAB
+  - Introduction to Data, Signal, and Image Analysis with MATLAB
 * <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/NFRTDHJAJ3NC'>DeepLearning.AI Tensorflow Developer</a> : 4-Course Professional Certificate - DeepLearning.AI (Coursera) September 2020
   - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
   - Convolutional Neural Networks in TensorFlow
@@ -85,4 +94,4 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
   - Structuring Machine Learning Projects
   - Convolutional Neural Networks
   - Sequence Models
-* Machine Learning - Stanford University (Coursera) June 2020
+* <a href = 'https://www.coursera.org/account/accomplishments/certificate/VVPG9TKNVZ4D'>Machine Learning</a> - Stanford University (Coursera) June 2020
