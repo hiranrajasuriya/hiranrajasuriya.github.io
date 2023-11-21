@@ -30,33 +30,42 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
   - Course content includes Multivariate Gaussian Density, Concentration of Measure in High Dimensions, Goals of Learning, Randomness of the Generalization Error, Inductive Bias, Density Estimation, Concentration Inequalities, Introduction to PAC Inequalities. (Reference materials are mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky</a>).
 
   
-### Mathematical fundamentals
-* MA4033 Time Series and Stochastic Processes
-* MA4013 Linear Models and Multivarariate Statistics
+### Mathematics
+* MA4043 Neural Network and Fuzzy Logic
+* MA4023 Operational Research
+* MA4013 Linear Models and Multivariate Statistics
 * MA3023 Numerical Methods
 * MA3013 Applied Statistics
 * MA2053 Graph Theory
 * MA2033 Linear Algebra 
 * MA2023 Calculus
 * MA2013 Differential Equations
+* MA1023 Methods of Mathematics
   
-### Signal/Image Processing and Telecommunications
+### Signal/ Image Processing
+* BM4151 Biosignal Processing
 * EN4553 Machine Vision
-* EN4053 Digital Communications II
-* EN3053 Digital Communications I
+* BM3121 Medical Imaging
 * EN2570 Digital Signal Processing
 * EN2550 Fundamentals of Image Processing and Machine Vision
-* EN2083 Electromagnetics
 * EN2040 Random Signals and Processes
 * EN1060 Signals and Systems
-  
 
+### Biology 
+* BM4620 Biotechnology
+* BM2101 Analysis of Physiological Systems
+* BM2020 Human Anatomy and Physiology II
+* BM2011 Human Anatomy and Physiology I
+  
 ### Computer Engineering
 * EN3240 Embedded Systems Engineering
 * EN3143 Electronic Control Systems
 * EN3030 Circuits and System Design
 * EN2030 Fundamentals of Computer Organization and Design
 
+### Fundamentals of Other Fields
+* EN2083 Electromagnetics
+* ME1822 Basic Engineering Thermodynamics
 
 ## MOOCs
 * Mathematics for Machine Learning- Imperial College London- (Coursera) August 2020
