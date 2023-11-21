@@ -83,6 +83,7 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
   - Natural Language Processing in TensorFlow
   - Sequences, Time Series and Prediction
 * <a href = 'https://www.coursera.org/account/accomplishments/certificate/WM9LGNA8JQUX'>AI for Medical Diagnosis</a> - DeepLearning.AI (Coursera) September 2020
+* <a href = 'https://www.coursera.org/account/accomplishments/certificate/CKH6JX4DTB7J'>Python Classes and Inheritance</a> - University of Michigan (Coursera) September 2020
 * <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/SYMCXBA626HE'>Anatomy</a> : 4-Course Specialization - University of Michigan (Coursera) August 2020
   - Anatomy: Musculoskeletal and Integumentary Systems
   - Anatomy: Cardiovascular, Respiratory and Urinary Systems
