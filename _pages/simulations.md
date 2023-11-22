@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Course Simulations"
+title: "Selected Course Projects/ Simulations"
 permalink: /simulations/
 author_profile: True
 ---
@@ -21,3 +21,11 @@ Many compartmental systems can be represented by a series of first-order differe
 * Bolies Glucose/ Insulin Model
 * Riggs Model for Iodine Metabolism
 <p align="center"><img src="../images/cs.png" width="450"/><img src="../images/gi.png" width="400"/></p>
+
+## Object Counting on a Moving Conveyor Belt
+Hexagonal nuts on a moving conveyor belt were detected and localized from a video stream using a conventional image processing pipeline including;
+* Otsu Thresholding
+* Morphological Closing
+* Connected Component Analysis
+* Contour Analysis
+<p align="center"><img src="../images/com_vision.png" width="450"/></p>
