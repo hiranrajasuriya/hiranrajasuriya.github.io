@@ -22,6 +22,8 @@ Implemented the following digital filters on MATLAB and filtered biomedical sign
   - Butterworth LPF
 <p align="center"><img src="../images/ecg_filt_1.png" width="800"/></p>
 
+For more details: <a href = 'https://drive.google.com/file/d/1GRp5eKdRQ7RfSJI6jinCFlwDzy3G_77w/view?usp=sharing'>Report</a>
+
 
 ## Branched Cylinders: Dendritic Tree Approximations
 Explored some of the time independent electrical properties of single branched cables. Branched cables are an important means of modelling the passive electrical properties of axonal and dendritic trees. For convenience, trees exhibiting only one order of branching were considered. Nevertheless, the principles could be easily extended to higher order trees.
