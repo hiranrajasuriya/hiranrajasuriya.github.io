@@ -5,6 +5,24 @@ permalink: /simulations/
 author_profile: True
 ---
 
+## Digital Filters for Biosignal Processing
+Implemented the following digital filters on MATLAB and filtered biomedical signals, specifically noisy ECG signals. 
+* Smoothing Filters
+  - Moving average filters
+  - Savitzky-Golay filters
+* Ensemble Averaging
+* FIR Derivative Filters
+* FIR Filters based on Windows
+  - Rectangular window
+  - Hanning window
+  - Hamming window
+  - Blackman window
+  - Kaiser window
+* IIR Filters
+  - Butterworth LPF
+<p align="center"><img src="../images/ecg_filt_1.png" width="450"/>
+
+
 ## Branched Cylinders: Dendritic Tree Approximations
 Explored some of the time independent electrical properties of single branched cables. Branched cables are an important means of modelling the passive electrical properties of axonal and dendritic trees. For convenience, trees exhibiting only one order of branching were considered. Nevertheless, the principles could be easily extended to higher order trees.
 <p align="center"><img src="../images/dendritic.png" width="450"/><img src="../images/ss.png" width="400"/></p>
