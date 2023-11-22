@@ -73,7 +73,7 @@ Many compartmental systems can be represented by a series of first-order differe
 For more details: <a href = 'https://drive.google.com/file/d/1D8cFy-ad_XFkPkeByfzMhiE7XNZY3Tkx/view?usp=sharing'>Report</a>
 
 ## Image Downsampling Processor
-Designed and simulated/implemented a processor that could down-sample an input image using Vivado Design Suite. The input image was transmitted to the processor where the image is down-sampled and once finished, the results were sent back for display purposes.
+Designed and simulated/implemented a processor that could down-sample an input image using Vivado Design Suite. The input image was transmitted to the processor where the image was down-sampled and once finished, the results were sent back for display purposes.
 <p align="center"><img src="../images/downsample_proc.png" width="800"/></p>
 <p align="center"><img src="../images/image_cameraman.jpg" width="350"/>      <img src="../images/cameraman_downsampled.jpg" width="175"/></p>
 <p align="center">Original and Downsampled Image</p>
