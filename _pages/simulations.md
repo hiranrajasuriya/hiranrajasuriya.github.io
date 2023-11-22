@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Course Projects/ Simulations"
+title: "Selected Projects/ Simulations"
 permalink: /simulations/
 author_profile: True
 ---
