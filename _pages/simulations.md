@@ -24,8 +24,10 @@ Many compartmental systems can be represented by a series of first-order differe
 
 ## Image Downsampling Processor
 Design and simulated/implemented a processor that could down-sample a given 256x256 image by a factor of 2. That is, to obtain a 128x128 image from the input image. The input image was transmitted to the processor where the image is down-sampled and once finished, the results were sent back for display purposes.
-<p align="center"><img src="../images/com_vision.png" width="1050"/></p>
-<p align="center"><img src="../images/image_cameraman.jpg" width="450"/> <img src="../images/cameraman_downsampled.jpg" width="225"/></p>
+<p align="center"><img src="../images/downsample_proc.png" width="1050"/></p>
+<p align="center"><img src="../images/image_cameraman.jpg" width="450"/>      <img src="../images/cameraman_downsampled.jpg" width="225" alt>
+    <em>Original Image and Downsampled Image</em>/></p>
+Original Image
 
 
 ## Object Counting on a Moving Conveyor Belt
