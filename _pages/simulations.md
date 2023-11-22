@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Signal/ Image Processing Simulations"
+title: "Selected Simulations"
 permalink: /simulations/
 author_profile: True
 ---
