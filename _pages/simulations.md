@@ -20,7 +20,7 @@ Implemented the following digital filters on MATLAB and filtered biomedical sign
   - Kaiser window
 * IIR Filters
   - Butterworth LPF
-<p align="center"><img src="../images/ecg_filt_1.png" width="450"/>
+<p align="center"><img src="../images/ecg_filt_1.png" width="800"/></p>
 
 
 ## Branched Cylinders: Dendritic Tree Approximations
