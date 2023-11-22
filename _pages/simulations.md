@@ -40,6 +40,14 @@ When the signal and noise are non-stationary, we would have to apply filters tha
 
 For more details: <a href = 'https://drive.google.com/file/d/1o5V144nOX08O-X7uEo6TzVeLjodfKjWH/view?usp=sharing'>Report</a>
 
+## Continuous and Discrete Wavelet Transforms
+Implemented continuous and discrete wavelet transforms using built-in MATLAB functions and applied them for denoising and compression of different signals. 
+
+In the context of continuous wavelet transforms (CWT), there are many wavelet families defined such as Haar, Shannon, Mexican hat, Morlet, Daubechies, etc. depending on the application. However, the drawbacks of CWT include highly redundant computations which leads to the requirement of additional computational power and time consumption. Avoiding this, in discrete wavelet transform (DWT), the scaling and translation are performed in a discrete manner.
+<p align="center"><img src="../images/ecg_filt_3.png" width="800"/></p>
+
+For more details: <a href = 'https://drive.google.com/file/d/1ibvX1KQhU91rrmV9r5tyR29LXqCfo0OY/view?usp=sharing'>Report</a>
+
 
 ## Branched Cylinders: Dendritic Tree Approximations
 Explored some of the time independent electrical properties of single branched cables. Branched cables are an important means of modelling the passive electrical properties of axonal and dendritic trees. For convenience, trees exhibiting only one order of branching were considered. Nevertheless, the principles could be easily extended to higher order trees.
