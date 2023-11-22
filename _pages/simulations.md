@@ -24,6 +24,22 @@ Implemented the following digital filters on MATLAB and filtered biomedical sign
 
 For more details: <a href = 'https://drive.google.com/file/d/1GRp5eKdRQ7RfSJI6jinCFlwDzy3G_77w/view?usp=sharing'>Report</a>
 
+## Optimum and Adaptive Filters for Biosignal Processing
+Conventional FIR and IIR filters are designed based on limited information on temporal and spectral characteristics of the signal. Moreover, one might say that they are ad-hoc filters as trial-and-error method is used to determine the filter specifications. 
+
+On the other hand, optimum filters such as the Wiener filter could be employed for a given time series by considering the statistical characteristics of the signal and noise, under the following assumptions.
+* Signal and noise processes are independent
+* Signal and noise are stationary
+* Desired signal is known
+* Noise characteristics are known
+
+When the signal and noise are non-stationary, we would have to apply filters that are optimal as well as adaptive. Some examples for such filters are, 
+* Least Mean Square (LMS) method
+* Recursive Least Squares (RLS) method
+<p align="center"><img src="../images/ecg_filt_2.png" width="800"/></p>
+
+For more details: <a href = 'https://drive.google.com/file/d/1o5V144nOX08O-X7uEo6TzVeLjodfKjWH/view?usp=sharing'>Report</a>
+
 
 ## Branched Cylinders: Dendritic Tree Approximations
 Explored some of the time independent electrical properties of single branched cables. Branched cables are an important means of modelling the passive electrical properties of axonal and dendritic trees. For convenience, trees exhibiting only one order of branching were considered. Nevertheless, the principles could be easily extended to higher order trees.
