@@ -2,13 +2,13 @@
 main:
   # - title: "Publications"
   #   url: /publications/
-  - title: "Simulations"
-    url: /simulations/
     
   - title: "Academics"
     url: /academics/  
 
-    
+  - title: "Simulations"
+    url: /simulations/
+
   - title: "CV"
     url: /cv/
     
