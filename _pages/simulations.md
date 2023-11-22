@@ -28,4 +28,4 @@ Hexagonal nuts on a moving conveyor belt were detected and localized from a vide
 * Morphological Closing
 * Connected Component Analysis
 * Contour Analysis
-<p align="center"><img src="../images/com_vision.png" width="600"/></p>
+<p align="center"><img src="../images/com_vision.png" width="800"/></p>
