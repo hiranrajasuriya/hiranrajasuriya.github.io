@@ -42,3 +42,10 @@ author_profile: True
     + <a href = 'https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en'>Dr Rukshani Liyanaarachchi</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
 <p align="center"><img src="../images/icip.png" width="800"/></p>
 <p>&nbsp;</p>
+
+* **Analysis of a Vibrotactile P300 Brain-Computer Interface Dataset from a Patient with Locked-in Syndrome**
+  - *Virtual Hackathon, Spring School, G.tec Medical Engineering GmbH (2022)* [<a href = 'https://drive.google.com/file/d/1nFQiUXplHLS2WWsWD4tghbT-OT4DS-on/view?usp=sharing'>Presentation </a>][<a href = 'https://github.com/Sam54000/vibro-tactile-P300-lockedIn-patient'>Github</a>] 
+  - **Collaborator**: 
+    + <a href = 'https://scholar.google.com/citations?user=HCm1_UkAAAAJ&hl=fr'>Samuel Louviot</a> (PhD Student),  University of Lorraine, France
+<p align="center"><img src="../images/vipcup.png" width="800"/></p>
+<p>&nbsp;</p>
