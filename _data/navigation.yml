@@ -5,15 +5,15 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Simulations"
-    url: /simulations/
-
   - title: "Academics"
     url: /academics/  
 
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Simulations"
+    url: /simulations/
+
   # - title: "Featured"
   #   url: /talks/    
 
