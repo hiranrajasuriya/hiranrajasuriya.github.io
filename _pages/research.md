@@ -24,7 +24,6 @@ author_profile: True
 <p align ="center"><img src="../images/COMMODEL3.png" width="800"/></p>
 
   - *If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.*
-<p>&nbsp;</p>
 
 ## Past Projects
 * **Patchwise Localization of Neovascularization in Fundus Images Using Transfer Learning**
