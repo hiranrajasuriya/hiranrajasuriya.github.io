@@ -10,8 +10,10 @@ The efficacy of a drug depends on the extent to which the constituent molecules 
 
 Due to the limitations of the existing simulation techniques, we developed a novel deep geometric network that consists of a geometric model that could process the 3D structures and a sequence model that could handle the amino acid sequences of the input proteins. We employed attention mechanisms in both models to ensure that atomistic level information as well as evolutionary information are incorporated into neighbour embeddings.
 
-Currently, we are drafting a research paper and it is <b>to be submitted to Nature Biotechnology.</b>
+Currently, we are drafting a research paper and it is <b>to be submitted to Nature Biotechnology</b> for review.
 <!-- <p align="center"><img src="../images/COMPLETEMODEL.png" width="1000"/></p> -->
 [![](../images/COMPLETEMODEL.png)](../images/COMPLETEMODEL.png)
+*(Click the above image to zoom)*
+
 
 For more details: <a href = 'https://drive.google.com/file/d/1NkxO8fNq3UGV0jqNu1U2A8QNA0jpSgeo/view?usp=sharing'>Thesis</a>
