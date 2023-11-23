@@ -29,6 +29,7 @@ If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.
   - **Advisor**: 
     + <a href = 'https://scholar.google.com/citations?user=481sMoEAAAAJ'>Shashika Munasingha</a> (Doctoral Candidate), Auckland Bioengineering Institute, New Zealand
 <p align="center"><img src="../images/dr.png" width="800"/></p>
+If the image is not clear, click <a href = '../images/dr.png'>here</a>.
 
 * **Feature-Fused Parallel Deep Learning Model for Generalized Synthetic Image Detection [IEEE VIPCUP 2022]**
   - *Research Competition* [<a href = 'https://drive.google.com/file/d/1TGP0_vnvKNLODO7k_Oht_m7RB2WecerR/view?usp=sharing'>Report</a>] 
