@@ -24,6 +24,12 @@ author_profile: True
 If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.
 
 ## Past Projects
+* **Patchwise Localization of Neovascularization in Fundus Images Using Transfer Learning**
+  - *Self-initiated Undergraduate Research Internship Project* [<a href = 'https://drive.google.com/file/d/1pdMF5yO26JVyZqFDgYLNlMHHPxDd7Doq/view?usp=sharing'>Report</a>] 
+  - **Advisor**: 
+    + <a href = 'https://scholar.google.com/citations?user=481sMoEAAAAJ'>Shashika Munasingha</a> (Doctoral Candidate), Auckland Bioengineering Institute, New Zealand
+<p align="center"><img src="../images/dr.png" width="800"/></p>
+
 * **Feature-Fused Parallel Deep Learning Model for Generalized Synthetic Image Detection [IEEE VIPCUP 2022]**
   - *Research Competition* [<a href = 'https://drive.google.com/file/d/1TGP0_vnvKNLODO7k_Oht_m7RB2WecerR/view?usp=sharing'>Report</a>] 
   - Our method was placed in the **Top 5** solutions
