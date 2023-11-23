@@ -11,7 +11,7 @@ author_profile: True
   - **Supervisor(s)**: 
     + <a href = 'https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en'>Dr. Lee Hwee Kuan</a> (Head of Research Division), Bioinformatics Institute, A*STAR, Singapore
     + <a href = 'https://github.com/sagizty'>Tianyi Zhang</a> (Research Officer), Bioinformatics Institute, A*STAR, Singapore
-<p align="center"><img src="../images/ith.png" width="600"/></p>
+<p align="center"><img src="../images/ith.png" width="350"/></p>
 
 * **Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity**
   - *Undergraduate Thesis Project* [<a href = 'https://drive.google.com/file/d/1NkxO8fNq3UGV0jqNu1U2A8QNA0jpSgeo/view?usp=sharing'>Thesis</a>]
