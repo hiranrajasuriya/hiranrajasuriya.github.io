@@ -4,7 +4,10 @@ main:
   #   url: /publications/
   - title: "Research"
     url: /research/
-    
+
+  - title: "Research_2"
+    url: /research_2/
+
   - title: "Academics"
     url: /academics/  
 
