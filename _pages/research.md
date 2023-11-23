@@ -49,7 +49,7 @@ author_profile: True
 
 * **CAMSAT: Paediatric Anaesthesia Monitoring System**
   - *Self-initiated Undergraduate Research* [<a href = 'https://drive.google.com/file/d/1jPVycFGds_hssIDrzRhg9aXx7OQUle6b/view?usp=sharing'>Report</a>] 
-  - Won the 1st runners-up award at the SPARK Challenge 2021/22 - Climate Change-oriented Innovation Competition, Organized by the University of Moratuwa, Sri Lanka
+  - Won the **1st runners-up** award at the SPARK Challenge 2021/22 - Climate Change-oriented Innovation Competition, Organized by the University of Moratuwa, Sri Lanka
 <p align="center"><img src="../images/block.png" width="600"/></p>
 
 * **Analysis of a Vibrotactile P300 Brain-Computer Interface Dataset from a Patient with Locked-in Syndrome**
