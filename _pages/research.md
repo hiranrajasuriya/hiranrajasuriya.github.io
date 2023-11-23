@@ -12,6 +12,6 @@ Due to the limitations of the existing simulation techniques, we developed a nov
 
 Currently, we are drafting a research paper and it is <b>to be submitted to Nature Biotechnology.</b>
 <!-- <p align="center"><img src="../images/COMPLETEMODEL.png" width="1000"/></p> -->
-[![](../images/COMPLETEMODEL.png){width="800"}](../images/COMPLETEMODEL.png)
+[![](../images/COMPLETEMODEL.png)](../images/COMPLETEMODEL.png)
 
 For more details: <a href = 'https://drive.google.com/file/d/1NkxO8fNq3UGV0jqNu1U2A8QNA0jpSgeo/view?usp=sharing'>Thesis</a>
