@@ -6,7 +6,7 @@ author_profile: True
 ---
 
 ## On-going Projects
-* **Multi-instance and Multi-task Learning for Cancer Histopathology Images**
+* **Multi-instance, Multi-task Learning for Cancer Histopathology Images**
   - *Graduate Research Internship Project(s)* 
   - **Supervisor(s)**: 
     + <a href = 'https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en'>Dr. Lee Hwee Kuan</a> (Head of Research Division), Bioinformatics Institute, A*STAR, Singapore
