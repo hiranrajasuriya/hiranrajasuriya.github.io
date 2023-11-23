@@ -38,6 +38,11 @@ If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.
     + <a href = 'https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en'>Dr Rukshani Liyanaarachchi</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
 <p align="center"><img src="../images/icip.png" width="800"/></p>
 
+* **CAMSAT: Paediatric Anaesthesia Monitoring System**
+  - *Self-initiated Undergraduate Research* [<a href = 'https://drive.google.com/file/d/1jPVycFGds_hssIDrzRhg9aXx7OQUle6b/view?usp=sharing'>Report</a>] 
+  - Won the 1st runners-up award at the SPARK Challenge 2021/22 - Climate Change-oriented Innovation Competition
+<p align="center"><img src="../images/block.png" width="800"/></p>
+
 * **Analysis of a Vibrotactile P300 Brain-Computer Interface Dataset from a Patient with Locked-in Syndrome**
   - *Virtual Hackathon, Spring School, G.tec Medical Engineering GmbH (2022)* [<a href = 'https://drive.google.com/file/d/1nFQiUXplHLS2WWsWD4tghbT-OT4DS-on/view?usp=sharing'>Presentation</a>][<a href = 'https://github.com/Sam54000/vibro-tactile-P300-lockedIn-patient'>Github</a>] 
   - **Collaborator**: 
