@@ -26,7 +26,7 @@ If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.
 ## Past Projects
 * **Feature-Fused Parallel Deep Learning Model for Generalized Synthetic Image Detection [IEEE VIPCUP 2022]**
   - *Research Competition* [<a href = 'https://drive.google.com/file/d/1TGP0_vnvKNLODO7k_Oht_m7RB2WecerR/view?usp=sharing'>Report</a>] 
-  - Our solution was placed in the **Top 5** finalists
+  - Our method was placed in the **Top 5** solutions
   - **Advisor(s)**: 
     + <a href = 'https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en'>Dr. Chamira Edussooriya</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
     + <a href = 'https://scholar.google.com.au/citations?user=Ctp3igcAAAAJ&hl=en'>Jathushan Rajasegaran</a> (PhD Student), BAIR, University of California, Berkeley, USA
