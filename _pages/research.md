@@ -23,7 +23,7 @@ author_profile: True
     + <a href = 'https://scholar.google.com/citations?user=5ZSfU5wAAAAJ&hl=en'>Dr. Kaushalya Madhawa</a> (AI Scientist), University of Tokyo, Japan
 <p align ="center"><img src="../images/COMMODEL3.png" width="800"/></p>
 
-    - *If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.*
+  -- *If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.*
 
 ## Past Projects
 * **Patchwise Localization of Neovascularization in Fundus Images Using Transfer Learning**
@@ -32,7 +32,7 @@ author_profile: True
     + <a href = 'https://scholar.google.com/citations?user=481sMoEAAAAJ'>Shashika Munasingha</a> (Doctoral Candidate), Auckland Bioengineering Institute, New Zealand
 <p align="center"><img src="../images/dr.png" width="800"/></p>
 
-    - *If the image is not clear, click <a href = '../images/dr.png'>here</a>.*
+  -- *If the image is not clear, click <a href = '../images/dr.png'>here</a>.*
 <p>&nbsp;</p>
 
 * **Feature-Fused Parallel Deep Learning Model for Generalized Synthetic Image Detection [IEEE VIPCUP 2022]**
