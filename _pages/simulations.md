@@ -4,7 +4,7 @@ title: "Selected Simulations"
 permalink: /simulations/
 author_profile: True
 ---
-<div style="text-align: justify; width: 800px">
+
 ## Digital Filters for Biosignal Processing
 Implemented the following digital filters on MATLAB and filtered biomedical signals, specifically noisy ECG signals. 
 * Smoothing Filters
