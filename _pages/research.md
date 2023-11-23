@@ -26,6 +26,16 @@ author_profile: True
 *(Click the above image to zoom)* 
 
 ## Past Projects
+* **Feature-Fused Parallel Deep Learning Model for Generalized Synthetic Image Detection [IEEE VIPCUP 2022]**
+  - *Research Competition* [<a href = 'https://drive.google.com/file/d/1TGP0_vnvKNLODO7k_Oht_m7RB2WecerR/view?usp=sharing'>Report</a>] 
+  - Our solution was placed in the **Top 5** finalists
+  - **Advisor**: 
+    + <a href = 'https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en'>Dr. Chamira Edussooriya</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
+  - **Mentor**:
+    + <a href = 'https://scholar.google.com.au/citations?user=Ctp3igcAAAAJ&hl=en'>Jathushan Rajasegaran</a> BAIR, University of California, Berkeley, USA
+<p align="center"><img src="../images/vipcup.png" width="800"/></p>
+<p>&nbsp;</p>
+
 * **Parasitic Egg Detection and Classification in Microscopic Images**
   - *Research Competition* [<a href = 'https://www.researchgate.net/publication/368642404_Rethinking_Object_Detection_in_terms_of_Classification_and_Localization_through_Parallel_Deep_Learning_Models'>Preliminary Report for ICIP 2022 Grand Challenge</a>] 
   - **Advisor**: 
