@@ -13,6 +13,7 @@ author_profile: True
     + <a href = 'https://github.com/sagizty'>Tianyi Zhang</a> (Research Officer), Bioinformatics Institute, A*STAR, Singapore
 <p align="center"><img src="../images/ith.png" width="300"/></p>
 <p>&nbsp;</p>
+
 * **Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity**
   - *Undergraduate Thesis Project* [<a href = 'https://drive.google.com/file/d/1NkxO8fNq3UGV0jqNu1U2A8QNA0jpSgeo/view?usp=sharing'>Thesis</a>]
   - *Note*: Thesis completed, research paper to be submitted
