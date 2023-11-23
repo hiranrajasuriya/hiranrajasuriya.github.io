@@ -50,7 +50,7 @@ author_profile: True
 * **CAMSAT: Paediatric Anaesthesia Monitoring System**
   - *Self-initiated Undergraduate Research* [<a href = 'https://drive.google.com/file/d/1jPVycFGds_hssIDrzRhg9aXx7OQUle6b/view?usp=sharing'>Report</a>] 
   - Won the 1st runners-up award at the SPARK Challenge 2021/22 - Climate Change-oriented Innovation Competition, Organized by the University of Moratuwa, Sri Lanka
-<p align="center"><img src="../images/block.png" width="800"/></p>
+<p align="center"><img src="../images/block.png" width="600"/></p>
 
 * **Analysis of a Vibrotactile P300 Brain-Computer Interface Dataset from a Patient with Locked-in Syndrome**
   - *Virtual Hackathon, Spring School, G.tec Medical Engineering GmbH (2022)* [<a href = 'https://drive.google.com/file/d/1nFQiUXplHLS2WWsWD4tghbT-OT4DS-on/view?usp=sharing'>Presentation</a>][<a href = 'https://github.com/Sam54000/vibro-tactile-P300-lockedIn-patient'>Github</a>] 
