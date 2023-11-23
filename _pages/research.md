@@ -21,6 +21,7 @@ author_profile: True
     + <a href = 'https://scholar.google.com/citations?user=gJ1BhRoAAAAJ&hl=en'>Dr. Aravinda Munasinghe</a> (Senior Research Scientist), Pfizer Inc., USA
     + <a href = 'https://scholar.google.com/citations?user=5ZSfU5wAAAAJ&hl=en'>Dr. Kaushalya Madhawa</a> (AI Scientist), University of Tokyo, Japan
 <p align ="center"><img src="../images/COMMODEL3.png" width="800"/></p>
+If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.
 
 ## Past Projects
 * **Feature-Fused Parallel Deep Learning Model for Generalized Synthetic Image Detection [IEEE VIPCUP 2022]**
