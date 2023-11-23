@@ -63,9 +63,16 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
 * EN3030 Circuits and System Design
 * EN2030 Fundamentals of Computer Organization and Design
 
-### Fundamentals of Other Fields
+### Electrical Engineering
 * EN2083 Electromagnetics
+* EE2093 Theory of Electricity
+* EE1012 Electrical Engineering
+
+### General Engineering
 * ME1822 Basic Engineering Thermodynamics
+* EN1053 Introduction to Telecommunications
+* MT1022 Properties of Materials
+* CE1022 Fluid Mechanics
 
 ## MOOCs 
 * <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/M3RANNZQC3Q8'>TensorFlow Advanced Techniques</a> : <b>4-Course Specialization</b> - DeepLearning.AI (Coursera) March 2022
