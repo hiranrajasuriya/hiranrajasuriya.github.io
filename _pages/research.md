@@ -30,7 +30,6 @@ author_profile: True
   - Our solution was placed in the **Top 5** finalists
   - **Advisor**: 
     + <a href = 'https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en'>Dr. Chamira Edussooriya</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
-  - **Mentor**:
     + <a href = 'https://scholar.google.com.au/citations?user=Ctp3igcAAAAJ&hl=en'>Jathushan Rajasegaran</a> (PhD Student), BAIR, University of California, Berkeley, USA
 <p align="center"><img src="../images/vipcup.png" width="800"/></p>
 
