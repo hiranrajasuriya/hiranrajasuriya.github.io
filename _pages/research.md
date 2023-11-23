@@ -27,7 +27,7 @@ author_profile: True
 
 ## Past Projects
 * **Parasitic Egg Detection and Classification in Microscopic Images**
-  - *Research Competition* [[<a href = 'https://www.researchgate.net/publication/368642404_Rethinking_Object_Detection_in_terms_of_Classification_and_Localization_through_Parallel_Deep_Learning_Models'>Preliminary Report for ICIP 2022 Grand Challenge</a>]] 
+  - *Research Competition* [<a href = 'https://www.researchgate.net/publication/368642404_Rethinking_Object_Detection_in_terms_of_Classification_and_Localization_through_Parallel_Deep_Learning_Models'>Preliminary Report for ICIP 2022 Grand Challenge</a>] 
   - **Supervisor**: 
     + <a href = 'https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en'>Dr Rukshani Liyanaarachchi</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
 <p align="center"><img src="../images/icip.png" width="600"/></p>
