@@ -20,7 +20,7 @@ author_profile: True
     + <a href = 'https://scholar.google.no/citations?user=VhyUxgcAAAAJ&hl=en'>Dr. Subodha Charles</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
     + <a href = 'https://scholar.google.com/citations?user=gJ1BhRoAAAAJ&hl=en'>Dr. Aravinda Munasinghe</a> (Senior Research Scientist), Pfizer Inc., USA
     + <a href = 'https://scholar.google.com/citations?user=5ZSfU5wAAAAJ&hl=en'>Dr. Kaushalya Madhawa</a> (AI Scientist), University of Tokyo, Japan
-<p align ="center"><img src="../images/COMMODEL3.png" width="800"/></p>
+<p align ="center"><img src="../images/COMMODEL3_1.png" width="800"/></p>
 *(Click the above image to zoom)* 
 
 ## Past Projects
