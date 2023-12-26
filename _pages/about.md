@@ -33,7 +33,7 @@ idth: 800px;">
 
     <tr>
     		<td style = "border: none;color:blue;font-size:17px;">December 2023</td>
-    		<td style = "border: none;font-size:17px;"> Awarded the <b>Gold Medal</b> for the highest overall GPA of Biomedical Engineering at the 44th General Convocation of the University of Moratuwa, Sri Lanka.</td> 	
+    		<td style = "border: none;font-size:17px;"> Awarded the <b>Gold Medal</b> for the highest overall academic performance in Biomedical Engineering at the 44th General Convocation of the University of Moratuwa, Sri Lanka.</td> 	
 	</tr>
 
 	<tr>
