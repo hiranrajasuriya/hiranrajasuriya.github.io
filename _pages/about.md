@@ -60,7 +60,7 @@ idth: 800px;">
 
 	<tr>
 			<td style = "border: none;color:blue;font-size:17px;">June 2022</td>
-    		<td style = "border: none;font-size:17px;"> Submitted the preprint of the co-authored paper: <a href="https://www.researchgate.net/publication/368642404_Rethinking_Object_Detection_in_terms_of_Classification_and_Localization_through_Parallel_Deep_Learning_Models"><b>Rethinking Object Detection in terms of Classification and Localization through Parallel Deep Learning Models</b></a> to <b>ICIP 2022</b>.</td>
+    		<td style = "border: none;font-size:17px;"> Submitted the preprint of the co-authored paper: <a href="https://www.researchgate.net/publication/368642404_Rethinking_Object_Detection_in_terms_of_Classification_and_Localization_through_Parallel_Deep_Learning_Models"><b>Rethinking Object Detection in terms of Classification and Localization through Parallel Deep Learning Models</b></a> for <b>ICIP 2022</b> review.</td>
 
 	</tr>
     
