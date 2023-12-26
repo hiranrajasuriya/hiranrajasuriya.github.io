@@ -31,7 +31,11 @@ idth: 800px;">
        		<col span="1" style="width: 80%;">
     	</colgroup>
 
-     	
+    <tr>
+    		<td style = "border: none;color:blue;font-size:17px;">December 2023</td>
+    		<td style = "border: none;font-size:17px;"> Awarded the <b>Gold Medal</b> for the highest overall GPA of Biomedical Engineering at the 44th General Convocation of the University of Moratuwa, Sri Lanka.</td> 	
+	</tr>
+
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
     		<td style = "border: none;font-size:17px;"> Joined the <b>Bioinformatics Institute</b>, A*STAR, Singapore as a <b>Graduate Research Intern</b>.</td> 	
