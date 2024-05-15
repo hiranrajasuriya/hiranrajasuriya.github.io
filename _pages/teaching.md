@@ -31,12 +31,9 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
 
   
 ### Mathematics
-* MA4043 Neural Network and Fuzzy Logic
 * MA4023 Operational Research
-* MA4013 Linear Models and Multivariate Statistics
 * MA3023 Numerical Methods
 * MA3013 Applied Statistics
-* MA2053 Graph Theory
 * MA2033 Linear Algebra 
 * MA2023 Calculus
 * MA2013 Differential Equations
