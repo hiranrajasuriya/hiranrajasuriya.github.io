@@ -16,7 +16,7 @@ I am a Graduate Research Engineer at University of Sri Jayewardenepura, Sri Lank
 
 
 <!-- <img src="https://user-images.githubusercontent.com/52663918/191789543-7665c2c0-e6e9-4f45-8a2e-5d08b2ec1d9b.png" width="200"/> -->
-<img src="../images/DoME.png" width="160"/> <img src="https://user-images.githubusercontent.com/52663918/191795634-4a692100-ee24-4f25-8e81-40c87c4c4fe0.png" width="190"/><img src="../images/maths.png" width="60"/>
+<img src="../images/DoME.png" width="160"/> <img src="../images/USJP_Logo.jpg" width="190"/><img src="../images/maths.png" width="60"/>
 
 <p>&nbsp;</p>
 
