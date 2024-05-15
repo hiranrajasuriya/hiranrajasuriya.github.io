@@ -7,17 +7,17 @@ author_profile: True
 
 <!-- You can also find my articles on my <a href="https://scholar.google.com/citations?user=JAq7DWcAAAAJ&hl=en">Google Scholar profile</a>. -->
 
-<!-- # Teaching -->
+<!-- # Teaching
 ## Instructor
 I assisted the lecturer in assignment preparation, evaluations, and laboratory work of G.
 * EN4553 Machine Vision, UoM, Sri Lanka (Fall 2023)
 * BM3122 Medical Imaging, UoM, Sri Lanka (Fall 2023)
 * EN3160 Image Processing and Machine Vision, UoM, Sri Lanka (Fall 2023)
 * EN3551 Digital Signal Processing, UoM, Sri Lanka (Fall 2023)
-* BM2012 Anatomy and Physiology for Engineers, UoM, Sri Lanka (Fall 2023)
+* BM2012 Anatomy and Physiology for Engineers, UoM, Sri Lanka (Fall 2023) -->
 
 
-&nbsp;  
+<!-- &nbsp;   -->
 
 
 # Learning
@@ -82,7 +82,7 @@ Up until the last year as an undergraduate, I was following the general modules 
 * EN1802 Basic Electronics
 * MT1813 Engineering Materials
 
-<!-- ## MOOCs  -->
+<!-- ## MOOCs 
 * <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/M3RANNZQC3Q8'>TensorFlow Advanced Techniques</a> : <b>4-Course Specialization</b> - DeepLearning.AI (Coursera) March 2022
   - Custom Models, Layers, and Loss Functions with TensorFlow
   - Custom and Distributed Training with TensorFlow
@@ -110,4 +110,4 @@ Up until the last year as an undergraduate, I was following the general modules 
   - Structuring Machine Learning Projects
   - Convolutional Neural Networks
   - Sequence Models
-* <a href = 'https://www.coursera.org/account/accomplishments/certificate/VVPG9TKNVZ4D'>Machine Learning</a> - Stanford University (Coursera) June 2020
+* <a href = 'https://www.coursera.org/account/accomplishments/certificate/VVPG9TKNVZ4D'>Machine Learning</a> - Stanford University (Coursera) June 2020 -->
