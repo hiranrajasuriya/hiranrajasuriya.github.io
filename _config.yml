@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dasun Premathilaka"
+title                    : "Hiran Rajasuriya"
 title_separator          : "-"
-name                     : &name "Dasun Premathilaka"
-description              : &description "Graduate Research Intern at the Bioinformatics Institute, A*STAR, Singapore"
+name                     : &name "Hiran Rajasuriya"
+description              : &description "Graduate Research Engineer at University of Sri Jayewardenepura, Sri Lanka"
 url                      : #https://dasun07.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dasun07/dasun07.github.io"
@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dasun Premathilaka"
+  name             : "Hiran Rajasuriya"
   avatar           : "Dasun.jpg"
   bio              : "Graduate Research Intern,
                       Computer Vision and Pattern Discovery for Bioimages Group,
                       Bioinformatics Institute, A*STAR"
-  location         : "Singapore"
+  location         : "Sri Lanka"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=uZjFOIQAAAAJ"
-  email            : "dasunpremethilake@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=uZjFOIQAAAAJ"
+  email            : "hiranabilash@gmail.com"
+  researchgate     : https://www.researchgate.net/profile/Hiran-Rajasuriya
   uri              :
   bitbucket        :
   codepen          :
