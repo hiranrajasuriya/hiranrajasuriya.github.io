@@ -23,9 +23,9 @@ I assisted the lecturers in assignment preparation, evaluations, and laboratory 
 
 # Learning
 ## Selected Undergraduate Modules
-Up until the last semester as an undergraduate, I was involved in deep-learning research based on heuristic approaches. However, the ‘Pattern Recognition and Machine Intelligence’ module delivered by <a href = 'https://scholar.google.com/citations?user=4-S204cAAAAJ&hl=en'><b>Dr. Prathapasinghe Dharmawansa</b></a> made me realize the power and versatility of statistical machine learning and it catalyzed a passion to explore statistical approaches in medical image analysis. 
+Up until the last year as an undergraduate, I was following the general modules of mechanical engineering. However, due to the lifelong passion for automotive engineering I selected modules such as "Automotive Engineering", "Heat and Mass Transfer", and "Energy Technology and Environment". Which enabled me to seek out latest trends in the field and identify potential research gaps. 
 
-### Advanced Courses
+<!-- ### Advanced Courses -->
 <!-- * EN4573 Pattern Recognition and Machine Intelligence:
   - Course content includes Multivariate Gaussian Density, Concentration of Measure in High Dimensions, Goals of Learning, Randomness of the Generalization Error, Inductive Bias, Density Estimation, Concentration Inequalities, Introduction to PAC Inequalities. (Reference materials are mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky</a>). -->
 
@@ -83,7 +83,7 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
 * EN1802 Basic Electronics
 * MT1813 Engineering Materials
 
-## MOOCs 
+<!-- ## MOOCs  -->
 * <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/M3RANNZQC3Q8'>TensorFlow Advanced Techniques</a> : <b>4-Course Specialization</b> - DeepLearning.AI (Coursera) March 2022
   - Custom Models, Layers, and Loss Functions with TensorFlow
   - Custom and Distributed Training with TensorFlow
