@@ -1,24 +1,23 @@
 ---
 layout: archive
-title: "Teaching and Learning"
+title: "Learning"
 permalink: /academics/
 author_profile: True
 ---
 
 <!-- You can also find my articles on my <a href="https://scholar.google.com/citations?user=JAq7DWcAAAAJ&hl=en">Google Scholar profile</a>. -->
 
-<!-- # Teaching
-## Visiting Instructor/ Teaching Assistant - <a href="https://ent.uom.lk/"> ENTC, University of Moratuwa</a>
-I assisted the lecturers in assignment preparation, evaluations, and laboratory work.
-* BM4151 Biosignal Processing, UoM, Sri Lanka (Fall 2023) -->
-<!-- * EN4553 Machine Vision, UoM, Sri Lanka (Fall 2023)
+<!-- # Teaching -->
+## Instructor
+I assisted the lecturer in assignment preparation, evaluations, and laboratory work of G.
+* EN4553 Machine Vision, UoM, Sri Lanka (Fall 2023)
 * BM3122 Medical Imaging, UoM, Sri Lanka (Fall 2023)
 * EN3160 Image Processing and Machine Vision, UoM, Sri Lanka (Fall 2023)
 * EN3551 Digital Signal Processing, UoM, Sri Lanka (Fall 2023)
-* BM2012 Anatomy and Physiology for Engineers, UoM, Sri Lanka (Fall 2023) -->
+* BM2012 Anatomy and Physiology for Engineers, UoM, Sri Lanka (Fall 2023)
 
-<!-- 
-&nbsp;   -->
+
+&nbsp;  
 
 
 # Learning
