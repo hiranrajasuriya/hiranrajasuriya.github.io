@@ -32,18 +32,18 @@ idth: 800px;">
     	</colgroup>
 
     <tr>
-    		<td style = "border: none;color:blue;font-size:17px;">December 2023</td>
-    		<td style = "border: none;font-size:17px;"> Awarded the <b>Gold Medal</b> for the highest overall academic performance in Biomedical Engineering at the 44th General Convocation of the University of Moratuwa, Sri Lanka.</td> 	
+    		<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
+    		<td style = "border: none;font-size:17px;"> Awarded the <b>1st Place</b> for the "Best Presentation" in Automotive Track (Graduate) at ICIET 2023, organised by the Faculty of Technology, University of Sri jayewardenepura (SL).</td> 	
 	</tr>
 
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
-    		<td style = "border: none;font-size:17px;"> Joined the <b>Bioinformatics Institute</b>, A*STAR, Singapore as a <b>Graduate Research Intern</b>.</td> 	
+    		<td style = "border: none;color:blue;font-size:17px;">August 2023</td>
+    		<td style = "border: none;font-size:17px;"> Awarded the <b>Migara Ratnatunga Trust Awards on Industrial Training</b> for University Undergraduates - 2021 / 2022 (Field - Mechanical Engineering) , presented by the Institution of Engineers Sri Lanka (IESL).</td>
 	</tr>
 
  	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">July 2023</td>
-    		<td style = "border: none;font-size:17px;"> Joined the <b>University of Moratuwa</b>, Sri Lanka as a <b>Visiting Instructor.</b></td> 	
+    		<td style = "border: none;color:blue;font-size:17px;">August 2023</td>
+    		<td style = "border: none;font-size:17px;"> Joined the <b>University of Sri Jayewardenepura</b>, Sri Lanka as a <b>Research Engineer (Mechanical).</b></td> 	
 	</tr>
     
 	<tr>
