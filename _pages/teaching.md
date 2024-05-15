@@ -26,8 +26,8 @@ I assisted the lecturers in assignment preparation, evaluations, and laboratory 
 Up until the last semester as an undergraduate, I was involved in deep-learning research based on heuristic approaches. However, the ‘Pattern Recognition and Machine Intelligence’ module delivered by <a href = 'https://scholar.google.com/citations?user=4-S204cAAAAJ&hl=en'><b>Dr. Prathapasinghe Dharmawansa</b></a> made me realize the power and versatility of statistical machine learning and it catalyzed a passion to explore statistical approaches in medical image analysis. 
 
 ### Advanced Courses
-* EN4573 Pattern Recognition and Machine Intelligence:
-  - Course content includes Multivariate Gaussian Density, Concentration of Measure in High Dimensions, Goals of Learning, Randomness of the Generalization Error, Inductive Bias, Density Estimation, Concentration Inequalities, Introduction to PAC Inequalities. (Reference materials are mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky</a>).
+<!-- * EN4573 Pattern Recognition and Machine Intelligence:
+  - Course content includes Multivariate Gaussian Density, Concentration of Measure in High Dimensions, Goals of Learning, Randomness of the Generalization Error, Inductive Bias, Density Estimation, Concentration Inequalities, Introduction to PAC Inequalities. (Reference materials are mostly from Statistical Learning Theory by <a href="http://maxim.ece.illinois.edu/teaching/SLT/"> Bruce Hajek and Justin Raginsky</a>). -->
 
   
 ### Mathematics
@@ -39,37 +39,49 @@ Up until the last semester as an undergraduate, I was involved in deep-learning 
 * MA2013 Differential Equations
 * MA1023 Methods of Mathematics
   
-### Signal/ Image Processing
-* BM4151 Biosignal Processing
-* EN4553 Machine Vision
-* BM3121 Medical Imaging
-* EN2570 Digital Signal Processing
-* EN2550 Fundamentals of Image Processing and Machine Vision
-* EN2040 Random Signals and Processes
-* EN1060 Signals and Systems
+### Thermodynamics and Energy
+* ME4442 Heat and Mass Transfer
+* ME4422 Energy Conservation
+* ME4382 Refrigeration and Air Conditioning
+* ME4242 Energy Technology and Environment
+* ME2032 Thermodynamics of Heat Engines & Work Transfer Devices	
+* ME1052 Fundamentals of Engineering Thermodynamics
 
-### Biology 
-* BM4620 Biotechnology
-* BM2101 Analysis of Physiological Systems
-* BM2020 Human Anatomy and Physiology II
-* BM2011 Human Anatomy and Physiology I
-  
-### Computer Engineering
-* EN3240 Embedded Systems Engineering
-* EN3143 Electronic Control Systems
-* EN3030 Circuits and System Design
-* EN2030 Fundamentals of Computer Organization and Design
+### Fluid Dynamics
+* ME3022 Fluid Power Systems & Machinery
+* ME2010 Fluid Dynamics
 
-### Electrical Engineering
-* EN2083 Electromagnetics
-* EE2093 Theory of Electricity
-* EE1012 Electrical Engineering
+### Mechanics and Design of Machines
+* ME3042 Machine Design Project
+* ME2080 Design of Machine Elements
+* ME2050 Mechanics of Machines II
+* ME2060 Mechanics of Materials II
+* ME2092 Mechanics of Machines I
+* ME1100 Mechanics of Materials I
+
+### Automotive Engineering
+* ME4632 Automotive Engineering
+* ME2160 	Introduction to Automotive Engineering
+
+### Manufacturing and Industrial Engineering
+* ME4072 Industrial Engineering
+* ME4452 Industrial Project Management
+* ME3042 Production & Operations Management
+* ME2170 Manufacturing Engineering II
+* ME2023 Manufacturing Engineering I
+* ME1090 Engineering Drawing & Computer Aided Modelling
+* ME1070 Manufacturing Technology
+
+### Control Systems and Mechatronics
+* ME3012 Control Systems & Instrumentation
+* ME2040 Fundamentals of Mechatronics
 
 ### General Engineering
-* ME1822 Basic Engineering Thermodynamics
-* EN1053 Introduction to Telecommunications
-* MT1022 Properties of Materials
-* CE1022 Fluid Mechanics
+* CS2882 Object Oriented Programming Using C++
+* EN2852 Applied Electronics
+* EE2803 Applied Electricity
+* EN1802 Basic Electronics
+* MT1813 Engineering Materials
 
 ## MOOCs 
 * <a href = 'https://www.coursera.org/account/accomplishments/specialization/certificate/M3RANNZQC3Q8'>TensorFlow Advanced Techniques</a> : <b>4-Course Specialization</b> - DeepLearning.AI (Coursera) March 2022
