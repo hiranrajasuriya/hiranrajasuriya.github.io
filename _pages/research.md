@@ -6,16 +6,16 @@ author_profile: True
 ---
 
 ## On-going Projects
-* **Multi-instance, Multi-task Learning for Cancer Histopathology Images**
-  - *Graduate Research Internship Project(s)* 
+* **Renewable Energy Access for Conversion of Tuk-tuks (REACT)**
+  - *Graduate Research Project(s)* 
   - **Supervisor(s)**: 
-    + <a href = 'https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en'>Dr. Lee Hwee Kuan</a> (Head of Research Division), Bioinformatics Institute, A*STAR, Singapore
-    + <a href = 'https://github.com/sagizty'>Tianyi Zhang</a> (Research Officer), Bioinformatics Institute, A*STAR, Singapore
-<p align="center"><img src="../images/ith.png" width="300"/></p>
+    + <a href = 'https://scholar.google.com/citations?hl=en&user=_Xh4kmMAAAAJ'>Dr Guohong Tian </a> (Senior Lecturer in Automotive Engineering), School of Mechanical Engineering Sciences, University of Surrey, UK
+    + <a href = 'https://scholar.google.com/citations?hl=en&user=7exCaRIAAAAJ'>Eng. W. R. de Mel</a> (Head of the Dept. of Materials and Mechanical Technology), University of Sri Jayewardenepura, Sri Lanka
+<p align="center"><img src="../images/Picture5.png" width="300"/></p>
 <p>&nbsp;</p>
 
-* **Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity**
-  - *Undergraduate Thesis Project* [<a href = 'https://drive.google.com/file/d/1NkxO8fNq3UGV0jqNu1U2A8QNA0jpSgeo/view?usp=sharing'>Thesis</a>]
+* **Investigating Vehicle Yaw Stability with Active Steering and Torque Vectoring**
+  - *Self-initiated Undergraduate Thesis Project* [<a href = 'https://drive.google.com/file/d/1XTN1prMfSRIv6EGzFO0Am_tIoku6PQ-M/view'>Thesis</a>]
   - *Note*: Thesis completed, research paper to be submitted
   - **Supervisor(s)**: 
     + <a href = 'https://scholar.google.no/citations?user=VhyUxgcAAAAJ&hl=en'>Dr. Subodha Charles</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
