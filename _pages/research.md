@@ -11,16 +11,17 @@ author_profile: True
   - **Supervisor(s)**: 
     + <a href = 'https://scholar.google.com/citations?hl=en&user=_Xh4kmMAAAAJ'>Dr Guohong Tian </a> (Senior Lecturer in Automotive Engineering), School of Mechanical Engineering Sciences, University of Surrey, UK
     + <a href = 'https://scholar.google.com/citations?hl=en&user=7exCaRIAAAAJ'>Eng. W. R. de Mel</a> (Head of the Dept. of Materials and Mechanical Technology), University of Sri Jayewardenepura, Sri Lanka
-<p align="center"><img src="../images/Picture5.png" width="300"/></p>
+<p align="center"><img src="../images/Picture5.png" width="500"/></p>
 <p>&nbsp;</p>
 
 * **Investigating Vehicle Yaw Stability with Active Steering and Torque Vectoring**
   - *Self-initiated Undergraduate Thesis Project* [<a href = 'https://drive.google.com/file/d/1XTN1prMfSRIv6EGzFO0Am_tIoku6PQ-M/view'>Thesis</a>]
-  - *Note*: Thesis completed, research paper to be submitted
+  - *Note*: Thesis completed, research paper submitted and under review.
   - **Supervisor(s)**: 
-    + <a href = 'https://scholar.google.no/citations?user=VhyUxgcAAAAJ&hl=en'>Dr. Subodha Charles</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
-    + <a href = 'https://scholar.google.com/citations?user=gJ1BhRoAAAAJ&hl=en'>Dr. Aravinda Munasinghe</a> (Senior Research Scientist), Pfizer Inc., USA
-    + <a href = 'https://scholar.google.com/citations?user=5ZSfU5wAAAAJ&hl=en'>Dr. Kaushalya Madhawa</a> (AI Scientist), University of Tokyo, Japan
+    + <a href = 'https://scholar.google.com/citations?user=kDf7wTIAAAAJ&hl=en&oi=ao'>Dr. J. R. Gamage</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
+    + <a href = 'https://scholar.google.com/citations?user=r5RUaGkAAAAJ&hl=en&oi=ao'>Dr. L. U. Subasinghe </a> (Senior Lecturer), University of Moratuwa, Sri Lanka
+    + <a href = 'https://scholar.google.com/citations?user=lrmg3jkAAAAJ&hl=en&oi=ao'>Mr. U. L. S. Perera</a> (PhD Student), University of Cambridge
+    + <a href = 'https://scholar.google.com/citations?user=Kh4UEUQAAAAJ&hl=en&oi=sra'>Mr. N. P. Dassanayake</a> (Lecturer of Engineering Technology), University of Sri Jayewardenepura
 <p align ="center"><img src="../images/COMMODEL3.png" width="800"/></p>
 
   -- *If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.*
