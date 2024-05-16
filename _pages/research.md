@@ -33,8 +33,8 @@ author_profile: True
   <p align ="center"><img src="../images/zooxanthellae.png" width="800"/></p>
 
   <!-- - **Advisor**: 
-    + <a href = 'https://scholar.google.com/citations?user=481sMoEAAAAJ'>Shashika Munasingha</a> (Doctoral Candidate), Auckland Bioengineering Institute, New Zealand
-<!-- <p align="center"><img src="../images/dr.png" width="800"/></p>
+    + <a href = 'https://scholar.google.com/citations?user=481sMoEAAAAJ'>Shashika Munasingha</a> (Doctoral Candidate), Auckland Bioengineering Institute, New Zealand -->
+<!-- <!-- <p align="center"><img src="../images/dr.png" width="800"/></p>
 
   -- *If the image is not clear, click <a href = '../images/dr.png'>here</a>.*
 <p>&nbsp;</p>
@@ -46,22 +46,22 @@ author_profile: True
     + <a href = 'https://scholar.google.com/citations?user=qe5byo4AAAAJ&hl=en'>Dr. Chamira Edussooriya</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
     + <a href = 'https://scholar.google.com.au/citations?user=Ctp3igcAAAAJ&hl=en'>Jathushan Rajasegaran</a> (PhD Student), BAIR, University of California, Berkeley, USA
 <p align="center"><img src="../images/vipcup.png" width="800"/></p>
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
-* **Parasitic Egg Detection and Classification in Microscopic Images**
+<!-- * **Parasitic Egg Detection and Classification in Microscopic Images**
   - *Research Competition* [<a href = 'https://www.researchgate.net/publication/368642404_Rethinking_Object_Detection_in_terms_of_Classification_and_Localization_through_Parallel_Deep_Learning_Models'>Preliminary Report for ICIP 2022 Grand Challenge</a>] 
   - **Advisor**: 
-    + <a href = 'https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en'>Dr Rukshani Liyanaarachchi</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
-<p align="center"><img src="../images/icip.png" width="800"/></p>
+    + <a href = 'https://scholar.google.com.sg/citations?user=9ebsWAoAAAAJ&hl=en'>Dr Rukshani Liyanaarachchi</a> (Senior Lecturer), University of Moratuwa, Sri Lanka -->
+<!-- <p align="center"><img src="../images/icip.png" width="800"/></p> -->
 
-* **CAMSAT: Paediatric Anaesthesia Monitoring System**
+<!-- * **CAMSAT: Paediatric Anaesthesia Monitoring System**
   - *Self-initiated Undergraduate Research* [<a href = 'https://drive.google.com/file/d/1jPVycFGds_hssIDrzRhg9aXx7OQUle6b/view?usp=sharing'>Report</a>] 
-  - Won the **1st runners-up** award at the SPARK Challenge 2021/22 - Climate Change-oriented Innovation Competition, Organized by the University of Moratuwa, Sri Lanka
-<p align="center"><img src="../images/block.png" width="600"/></p>
-<p>&nbsp;</p>
+  - Won the **1st runners-up** award at the SPARK Challenge 2021/22 - Climate Change-oriented Innovation Competition, Organized by the University of Moratuwa, Sri Lanka -->
+<!-- <p align="center"><img src="../images/block.png" width="600"/></p> -->
+<!-- <p>&nbsp;</p> -->
 
-* **Analysis of a Vibrotactile P300 Brain-Computer Interface Dataset from a Patient with Locked-in Syndrome**
+<!-- * **Analysis of a Vibrotactile P300 Brain-Computer Interface Dataset from a Patient with Locked-in Syndrome**
   - *Virtual Hackathon, Spring School, G.tec Medical Engineering GmbH (2022)* [<a href = 'https://drive.google.com/file/d/1nFQiUXplHLS2WWsWD4tghbT-OT4DS-on/view?usp=sharing'>Presentation</a>][<a href = 'https://github.com/Sam54000/vibro-tactile-P300-lockedIn-patient'>Github</a>] 
   - **Collaborator**: 
-    + <a href = 'https://scholar.google.com/citations?user=HCm1_UkAAAAJ&hl=fr'>Samuel Louviot</a> (PhD Student),  University of Lorraine, France
-<!-- <p align="center"><img src="../images/gtec.png" width="800"/></p> -->
+    + <a href = 'https://scholar.google.com/citations?user=HCm1_UkAAAAJ&hl=fr'>Samuel Louviot</a> (PhD Student),  University of Lorraine, France -->
+<!-- <p align="center"><img src="../images/gtec.png" width="800"/></p>
