@@ -34,7 +34,7 @@ author_profile: True
 <p align ="center"><img src="../images/zooxanthellae.png" width="800"/></p>
 <p>&nbsp;</p>
 
-* **Investigating Vehicle Yaw Stability with Active Steering and Torque Vectoring**
+* **Design of a Gearbox for a Benchtop Drill**
   - *Undergraduate Design Project* [<a href = 'https://drive.google.com/file/d/1lyfANtCps5EBYv4PyJC4yqBg5_vQP-Ul/view'>Thesis</a>]
   - **Supervisor(s)**: 
     + <a href = 'https://scholar.google.com/citations?user=lo4cse0AAAAJ&hl=en&oi=ao'>Prof. H. K. G. Punchihewa</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
