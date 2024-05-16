@@ -27,11 +27,13 @@ author_profile: True
   -- *If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.*
 
 ## Past Projects
-* **Patchwise Localization of Neovascularization in Fundus Images Using Transfer Learning**
-  - *Self-initiated, Undergraduate Research Internship Project* [<a href = 'https://drive.google.com/file/d/1pdMF5yO26JVyZqFDgYLNlMHHPxDd7Doq/view?usp=sharing'>Report</a>] 
-  - **Advisor**: 
+* **Zooxanthallae - Reverse Engineering of Coral Structures for Coral Restoration **
+  - *Voluntary, Undergraduate Research and Design Project* 
+  - *The 1st phase of the project  Zooxanthellae replantation of corals was carried out in 2018. However, the deposited structure showcased minimul growth during the observation period of 2018 - 2020. Therefore, reengineered and designed new coral structures, which showed a substantial growth in the period of few months. *
+  <p align ="center"><img src="../images/zooxanthellae.png" width="800"/></p>
+  <!-- - **Advisor**: 
     + <a href = 'https://scholar.google.com/citations?user=481sMoEAAAAJ'>Shashika Munasingha</a> (Doctoral Candidate), Auckland Bioengineering Institute, New Zealand
-<p align="center"><img src="../images/dr.png" width="800"/></p>
+<!-- <p align="center"><img src="../images/dr.png" width="800"/></p>
 
   -- *If the image is not clear, click <a href = '../images/dr.png'>here</a>.*
 <p>&nbsp;</p>
@@ -61,4 +63,4 @@ author_profile: True
   - *Virtual Hackathon, Spring School, G.tec Medical Engineering GmbH (2022)* [<a href = 'https://drive.google.com/file/d/1nFQiUXplHLS2WWsWD4tghbT-OT4DS-on/view?usp=sharing'>Presentation</a>][<a href = 'https://github.com/Sam54000/vibro-tactile-P300-lockedIn-patient'>Github</a>] 
   - **Collaborator**: 
     + <a href = 'https://scholar.google.com/citations?user=HCm1_UkAAAAJ&hl=fr'>Samuel Louviot</a> (PhD Student),  University of Lorraine, France
-<p align="center"><img src="../images/gtec.png" width="800"/></p>
+<p align="center"><img src="../images/gtec.png" width="800"/></p> --> -->
