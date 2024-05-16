@@ -23,14 +23,21 @@ author_profile: True
     + <a href = 'https://scholar.google.com/citations?user=r5RUaGkAAAAJ&hl=en&oi=ao'>Dr. L. U. Subasinghe </a> (Senior Lecturer), University of Moratuwa, Sri Lanka
     + <a href = 'https://scholar.google.com/citations?user=lrmg3jkAAAAJ&hl=en&oi=ao'>Mr. U. L. S. Perera</a> (PhD Student), University of Cambridge
     + <a href = 'https://scholar.google.com/citations?user=Kh4UEUQAAAAJ&hl=en&oi=sra'>Mr. N. P. Dassanayake</a> (Lecturer of Engineering Technology), University of Sri Jayewardenepura
-<p align ="center"><img src="../images/COMMODEL3.png" width="800"/></p>
+<p align ="center"><img src="../images/scaledvm.png" width="800"/></p>
 
-  -- *If the image is not clear, click <a href = '../images/COMMODEL3.png'>here</a>.*
+  -- *If the image is not clear, click <a href = '../images/scaledvm.png'>here</a>.*
 
 ## Past Projects
 * **Zooxanthallae - Reverse Engineering of Coral Structures for Coral Restoration**
   - *Voluntary, Undergraduate Research and Design Project* 
   - *The 1st phase of the project  Zooxanthellae replantation of corals was carried out in 2018. However, the deposited structure showcased minimul growth during the observation period of 2018 - 2020. Therefore, reengineered and designed new coral structures, which showed a substantial growth in the period of few months.*
-  <p align ="center"><img src="../images/zooxanthellae.png" width="800"/></p>
+<p align ="center"><img src="../images/zooxanthellae.png" width="800"/></p>
+<p>&nbsp;</p>
 
- 
+* **Investigating Vehicle Yaw Stability with Active Steering and Torque Vectoring**
+  - *Undergraduate Design Project* [<a href = 'https://drive.google.com/file/d/1lyfANtCps5EBYv4PyJC4yqBg5_vQP-Ul/view'>Thesis</a>]
+  - **Supervisor(s)**: 
+    + <a href = 'https://scholar.google.com/citations?user=lo4cse0AAAAJ&hl=en&oi=ao'>Prof. H. K. G. Punchihewa</a> (Senior Lecturer), University of Moratuwa, Sri Lanka
+<p align ="center"><img src="../images/gearboxdesign.jpg" width="800"/></p>
+
+  -- *If the image is not clear, click <a href = '../images/gearboxdesign.jpg'>here</a>.*
