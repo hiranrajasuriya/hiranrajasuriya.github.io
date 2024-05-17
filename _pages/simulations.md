@@ -20,23 +20,31 @@ Conducted analytical calculations in Matlab for a rocket to understand the pract
 For more details: <a href = 'https://drive.google.com/file/d/1zWrn285JBv5S_wgo5yGRTE0HbHdkiXq0/view?usp=sharing'>Report</a>
 
 ## Production Efficiency Improvement Case Study 
-The case study was performed at *Sri Lankan Airlines*. The process flow at the Composite Workshop was mainly focused. The following tasks were carried out during the project. 
-* Gathering current process flow data during field visits
-* Literature study
-* Simulation of the current workflow using Technomatrix Plant Simulation software
-* Identifying potential improvements
-* Validating suggested improvements through simulation. 
+The case study was performed at *Sri Lankan Airlines*. The process flow at the Composite Workshop was mainly focused. 
+* The following tasks were carried out during the project. 
+ - Gathering current process flow data during field visits
+ - Literature study
+ - Simulation of the current workflow using Technomatrix Plant Simulation software
+ - Identifying potential improvements
+ - Validating suggested improvements through simulation. 
 <p align="center"><img src="../images/SLA.png" width="600"/></p>
 
 For more details: <a href = 'https://drive.google.com/file/d/1-rdNiFEyi6RXJLYdyEuvXLL8eK_h2XcX/view?usp=sharing'>Report</a>
 
-## Continuous and Discrete Wavelet Transforms
-Implemented continuous and discrete wavelet transforms using built-in MATLAB functions and applied them for denoising and compression of different signals. 
+## Cooling Load Calculation
+The cooling load calculation was done considering a lecture hall at the university permises. CLF/ CLTD method was followed for the calculation. 
+* Following steps were carried out in order to obtain the cooling load
+ - Building orientation and dimensioning
+ - Equipment specification and buidling material study
+ - Infiltration and Ventilation level
+* Calculations were done under four (4) conditons;
+ - 20% fresh air supply for 24<sup>0</sup>C and 50% Relative Humidity (RH) internal conditions
+ - 20% fresh air supply for 26<sup>0</sup>C and 60% RH internal conditions
+ - Without fresh air supply for 24<sup>0</sup>C and 60% RH internal conditions
+ - Without fresh air supply for 26<sup>0</sup>C and 60% RH internal conditions
+<p align="center"><img src="../images/CLC.png" width="600"/></p>
 
-In the context of continuous wavelet transforms (CWT), there are many wavelet families such as Shannon, Mexican hat, Morlet, etc. However, the drawbacks of CWT include highly redundant computations which leads to the requirement of additional computational power and time consumption. Avoiding this, in discrete wavelet transform (DWT), the scaling and translation are performed in a discrete manner.
-<p align="center"><img src="../images/ecg_filt_3.png" width="800"/></p>
-
-For more details: <a href = 'https://drive.google.com/file/d/1ibvX1KQhU91rrmV9r5tyR29LXqCfo0OY/view?usp=sharing'>Report</a>
+For more details: <a href = 'https://drive.google.com/file/d/1bV3eLeL3_9aTvYokfRnY4vk36gLXC4lT/view?usp=sharing'>Report</a>
 
 
 ## Branched Cylinders: Dendritic Tree Approximations
