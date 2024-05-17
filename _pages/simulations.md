@@ -5,24 +5,19 @@ permalink: /simulations/
 author_profile: True
 ---
 
-## Digital Filters for Biosignal Processing
-Implemented the following digital filters on MATLAB and filtered biomedical signals, specifically noisy ECG signals. 
-* Smoothing Filters
-  - Moving average filters
-  - Savitzky-Golay filters
-* Ensemble Averaging
-* FIR Derivative Filters
-* FIR Filters based on Windows
-  - Rectangular window
-  - Hanning window
-  - Hamming window
-  - Blackman window
-  - Kaiser window
-* IIR Filters
-  - Butterworth LPF
-<p align="center"><img src="../images/ecg_filt_1.png" width="800"/></p>
+## Converging - Diverging Nozzle 
+Conducted analytical calculations in Matlab for a rocket to understand the practical implications of the Converging - Diverging Nozzle. 
+* Calculations were carried out for Ideal and Real condtions using;
+  - Tsiolkovsky rocket equation
+  - Effective Exhaust Velocity
+  - Study of Flow Behaviour
+* The following conditions were studied;
+  - Nozzle exit diameter variation with Altitude
+  - Thrust variation with Altitude under Ideal conditions
+  - Thrust variation with Altitude under General conditions
+<p align="center"><img src="../images/CDNozzle.jpg" width="800"/></p>
 
-For more details: <a href = 'https://drive.google.com/file/d/1GRp5eKdRQ7RfSJI6jinCFlwDzy3G_77w/view?usp=sharing'>Report</a>
+For more details: <a href = 'https://drive.google.com/file/d/1zWrn285JBv5S_wgo5yGRTE0HbHdkiXq0/view?usp=sharing'>Report</a>
 
 ## Optimum and Adaptive Filters for Biosignal Processing
 Conventional FIR and IIR filters are designed based on limited information on temporal and spectral characteristics of the signal. Moreover, one might say that they are ad-hoc filters as trial-and-error method is sometimes used to determine the filter specifications. 
