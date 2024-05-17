@@ -58,7 +58,7 @@ There are several considerations that needed to be taken into account before the
 For more details: <a href = 'https://drive.google.com/file/d/1Gnd0FKxA4ZTBa9B6Nslx1XxEd3sePFnz/view?usp=sharing'>Report</a>
 
 ## Domestic Solar PV Installation
-Sri lanka having high Global Horizontal Irridiation levels has the potential to generate power using solar panels to facilitate domestic power requirements. Through this project the parameters considered for a solar PV installation and related calculations were done considering personal residence location.
+Sri lanka having high *Global Horizontal Irridiation* levels has the potential to generate power using solar panels to facilitate domestic power requirements. Through this project the parameters considered for a solar PV installation and related calculations were done considering personal residence location.
 <p align="center"><img src="../images/solarpv.png" width="600"/></p>
 
 For more details: <a href = 'https://drive.google.com/file/d/1gwGWhjz6YKJC3xE-PbGSQ2dF-biislWH/view?usp=sharing'>Report</a>
