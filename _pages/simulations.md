@@ -15,25 +15,20 @@ Conducted analytical calculations in Matlab for a rocket to understand the pract
   - Nozzle exit diameter variation with Altitude
   - Thrust variation with Altitude under Ideal conditions
   - Thrust variation with Altitude under General conditions
-<p align="center"><img src="../images/CDNozzle.jpg" width="800"/></p>
+<p align="center"><img src="../images/CDNozzle.jpg" width="600"/></p>
 
 For more details: <a href = 'https://drive.google.com/file/d/1zWrn285JBv5S_wgo5yGRTE0HbHdkiXq0/view?usp=sharing'>Report</a>
 
-## Optimum and Adaptive Filters for Biosignal Processing
-Conventional FIR and IIR filters are designed based on limited information on temporal and spectral characteristics of the signal. Moreover, one might say that they are ad-hoc filters as trial-and-error method is sometimes used to determine the filter specifications. 
+## Production Efficiency Improvement Case Study 
+The case study was performed at *Sri Lankan Airlines*. The process flow at the Composite Workshop was mainly focused. The following tasks were carried out during the project. 
+* Gathering current process flow data during field visits
+* Literature study
+* Simulation of the current workflow using Technomatrix Plant Simulation software
+* Identifying potential improvements
+* Validating suggested improvements through simulation. 
+<p align="center"><img src="../images/SLA.png" width="600"/></p>
 
-On the other hand, optimum filters such as the Wiener filter could be employed for a given time series by considering the statistical characteristics of the signal and noise, under the following assumptions.
-* Signal and noise processes are independent
-* Signal and noise are stationary
-* Desired signal is known
-* Noise characteristics are known
-
-When the signal and noise are non-stationary, we would have to apply filters that are optimal as well as adaptive. Some examples for such filters are, 
-* Least Mean Square (LMS) method
-* Recursive Least Squares (RLS) method
-<p align="center"><img src="../images/ecg_filt_2.png" width="800"/></p>
-
-For more details: <a href = 'https://drive.google.com/file/d/1o5V144nOX08O-X7uEo6TzVeLjodfKjWH/view?usp=sharing'>Report</a>
+For more details: <a href = 'https://drive.google.com/file/d/1-rdNiFEyi6RXJLYdyEuvXLL8eK_h2XcX/view?usp=sharing'>Report</a>
 
 ## Continuous and Discrete Wavelet Transforms
 Implemented continuous and discrete wavelet transforms using built-in MATLAB functions and applied them for denoising and compression of different signals. 
