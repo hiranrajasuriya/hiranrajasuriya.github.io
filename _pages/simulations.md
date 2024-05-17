@@ -47,16 +47,17 @@ The cooling load calculation was done considering a lecture hall at the universi
 For more details: <a href = 'https://drive.google.com/file/d/1bV3eLeL3_9aTvYokfRnY4vk36gLXC4lT/view?usp=sharing'>Report</a>
 
 
-## Branched Cylinders: Dendritic Tree Approximations
-Explored some of the time independent electrical properties of single branched cables. Branched cables are an important means of modelling the passive electrical properties of axonal and dendritic trees. For convenience, trees exhibiting only one order of branching were considered. Nevertheless, the principles could be easily extended to higher order trees.
-<p align="center"><img src="../images/dendritic.png" width="450"/><img src="../images/ss.png" width="400"/></p>
-In the above diagram, V<sub>1</sub>,V<sub>21</sub> and V<sub>22</sub> are the membrane potentials of the respective branches. d<sub>1</sub>, d<sub>21</sub> and d<sub>22</sub> are the diameters of the parent and daughter branches respectively and X is axial distance.
+## Wind Turbine Installation
+There are several considerations that needed to be taken into account before the installation of a Wind Turbine, and these factors were identified and evaluated thoroughly through this project. *Rayleigh p.d.f.* was used in calculation.
+* The following calculations and simulations were carried out;
+  - Annual Energy Production (AEP) was calculated for two given Wind Turbine models with manufacturer specified data
+  - Develop a site specific power controlling strategy for a given rotor
+  - Simulations were done in Matlab considering both Fixed and Variable speed control mechancisms.
+<p align="center"><img src="../images/windturbine.png" width="600"/></p>
 
-By solving the differential equations with the given nodal and boundary conditions, steady-state voltage profile in each branch could be determined. 
+For more details: <a href = 'https://drive.google.com/file/d/1Gnd0FKxA4ZTBa9B6Nslx1XxEd3sePFnz/view?usp=sharing'>Report</a>
 
-For more details: <a href = 'https://drive.google.com/file/d/1jjmqrKMkHgaRf0pqWFG-mMN3Vr79IYv7/view?usp=sharing'>Report</a>
-
-## Properties of the Hodgkin-Huxley equations
+## Domestic Solar PV Installation
 Many of the properties of the propagating action potential are similar to the membrane action potential. The features; <b>threshold, refractoriness</b> (absolute and relative), <b>repetitive activity, temperature dependence</b> that are observed physiologically, were simulated using the Hodgkin-Huxley equations.
 <p align="center"><img src="../images/hh.png" width="450"/></p>
 
