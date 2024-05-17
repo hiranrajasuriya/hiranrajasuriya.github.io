@@ -32,7 +32,7 @@ The case study was performed at *Sri Lankan Airlines*. The process flow at the C
 For more details: <a href = 'https://drive.google.com/file/d/1-rdNiFEyi6RXJLYdyEuvXLL8eK_h2XcX/view?usp=sharing'>Report</a>
 
 ## Cooling Load Calculation
-The cooling load calculation was done considering a lecture hall at the university permises. CLF/ CLTD method was followed for the calculation. 
+The cooling load calculation was done considering a lecture hall at the university permises. *CLF/ CLTD* method was followed for the calculation. 
 * Following steps were carried out in order to obtain the cooling load
   - Building orientation and dimensioning
   - Equipment specification and buidling material study
