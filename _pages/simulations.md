@@ -22,11 +22,11 @@ For more details: <a href = 'https://drive.google.com/file/d/1zWrn285JBv5S_wgo5y
 ## Production Efficiency Improvement Case Study 
 The case study was performed at *Sri Lankan Airlines*. The process flow at the Composite Workshop was mainly focused. 
 * The following tasks were carried out during the project. 
- - Gathering current process flow data during field visits
- - Literature study
- - Simulation of the current workflow using Technomatrix Plant Simulation software
- - Identifying potential improvements
- - Validating suggested improvements through simulation. 
+  - Gathering current process flow data during field visits
+  - Literature study
+  - Simulation of the current workflow using Technomatrix Plant Simulation software
+  - Identifying potential improvements
+  - Validating suggested improvements through simulation. 
 <p align="center"><img src="../images/SLA.png" width="600"/></p>
 
 For more details: <a href = 'https://drive.google.com/file/d/1-rdNiFEyi6RXJLYdyEuvXLL8eK_h2XcX/view?usp=sharing'>Report</a>
@@ -34,14 +34,14 @@ For more details: <a href = 'https://drive.google.com/file/d/1-rdNiFEyi6RXJLYdyE
 ## Cooling Load Calculation
 The cooling load calculation was done considering a lecture hall at the university permises. CLF/ CLTD method was followed for the calculation. 
 * Following steps were carried out in order to obtain the cooling load
- - Building orientation and dimensioning
- - Equipment specification and buidling material study
- - Infiltration and Ventilation level
+  - Building orientation and dimensioning
+  - Equipment specification and buidling material study
+  - Infiltration and Ventilation level
 * Calculations were done under four (4) conditons;
- - 20% fresh air supply for 24<sup>0</sup>C and 50% Relative Humidity (RH) internal conditions
- - 20% fresh air supply for 26<sup>0</sup>C and 60% RH internal conditions
- - Without fresh air supply for 24<sup>0</sup>C and 60% RH internal conditions
- - Without fresh air supply for 26<sup>0</sup>C and 60% RH internal conditions
+  - 20% fresh air supply for 24<sup>0</sup>C and 50% Relative Humidity (RH) internal conditions
+  - 20% fresh air supply for 26<sup>0</sup>C and 60% RH internal conditions
+  - Without fresh air supply for 24<sup>0</sup>C and 60% RH internal conditions
+  - Without fresh air supply for 26<sup>0</sup>C and 60% RH internal conditions
 <p align="center"><img src="../images/CLC.png" width="600"/></p>
 
 For more details: <a href = 'https://drive.google.com/file/d/1bV3eLeL3_9aTvYokfRnY4vk36gLXC4lT/view?usp=sharing'>Report</a>
