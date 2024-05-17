@@ -4,6 +4,36 @@ title: "Selected Simulations"
 permalink: /simulations/
 author_profile: True
 ---
+## Cooling Load Calculation
+The cooling load calculation was done considering a lecture hall at the university permises. *CLF/ CLTD* method was followed for the calculation. 
+* Following steps were carried out in order to obtain the cooling load
+  - Building orientation and dimensioning
+  - Equipment specification and buidling material study
+  - Infiltration and Ventilation level
+* Calculations were done under four (4) conditons;
+  - 20% fresh air supply for 24<sup>0</sup>C and 50% Relative Humidity (RH) internal conditions
+  - 20% fresh air supply for 26<sup>0</sup>C and 60% RH internal conditions
+  - Without fresh air supply for 24<sup>0</sup>C and 60% RH internal conditions
+  - Without fresh air supply for 26<sup>0</sup>C and 60% RH internal conditions
+<p align="center"><img src="../images/CLC.png" width="600"/></p>
+
+For more details: <a href = 'https://drive.google.com/file/d/1bV3eLeL3_9aTvYokfRnY4vk36gLXC4lT/view?usp=sharing'>Report</a>
+
+## Wind Turbine Installation
+There are several considerations that needed to be taken into account before the installation of a Wind Turbine, and these factors were identified and evaluated thoroughly through this project. *Rayleigh p.d.f.* was used in calculation.
+* The following calculations and simulations were carried out;
+  - Annual Energy Production (AEP) was calculated for two given Wind Turbine models with manufacturer specified data
+  - Develop a site specific power controlling strategy for a given rotor
+  - Simulations were done in Matlab considering both Fixed and Variable speed control mechancisms.
+<p align="center"><img src="../images/windturbine.png" width="600"/></p>
+
+For more details: <a href = 'https://drive.google.com/file/d/1Gnd0FKxA4ZTBa9B6Nslx1XxEd3sePFnz/view?usp=sharing'>Report</a>
+
+## Domestic Solar PV Installation
+Sri lanka having high *Global Horizontal Irridiation* levels has the potential to generate power using solar panels to facilitate domestic power requirements. Through this project the parameters considered for a solar PV installation and related calculations were done considering personal residence location.
+<p align="center"><img src="../images/solarpv.png" width="600"/></p>
+
+For more details: <a href = 'https://drive.google.com/file/d/1gwGWhjz6YKJC3xE-PbGSQ2dF-biislWH/view?usp=sharing'>Report</a>
 
 ## Converging - Diverging Nozzle 
 Conducted analytical calculations in Matlab for a rocket to understand the practical implications of the Converging - Diverging Nozzle. 
@@ -30,38 +60,6 @@ The case study was performed at *Sri Lankan Airlines*. The process flow at the C
 <p align="center"><img src="../images/SLA.png" width="600"/></p>
 
 For more details: <a href = 'https://drive.google.com/file/d/1-rdNiFEyi6RXJLYdyEuvXLL8eK_h2XcX/view?usp=sharing'>Report</a>
-
-## Cooling Load Calculation
-The cooling load calculation was done considering a lecture hall at the university permises. *CLF/ CLTD* method was followed for the calculation. 
-* Following steps were carried out in order to obtain the cooling load
-  - Building orientation and dimensioning
-  - Equipment specification and buidling material study
-  - Infiltration and Ventilation level
-* Calculations were done under four (4) conditons;
-  - 20% fresh air supply for 24<sup>0</sup>C and 50% Relative Humidity (RH) internal conditions
-  - 20% fresh air supply for 26<sup>0</sup>C and 60% RH internal conditions
-  - Without fresh air supply for 24<sup>0</sup>C and 60% RH internal conditions
-  - Without fresh air supply for 26<sup>0</sup>C and 60% RH internal conditions
-<p align="center"><img src="../images/CLC.png" width="600"/></p>
-
-For more details: <a href = 'https://drive.google.com/file/d/1bV3eLeL3_9aTvYokfRnY4vk36gLXC4lT/view?usp=sharing'>Report</a>
-
-
-## Wind Turbine Installation
-There are several considerations that needed to be taken into account before the installation of a Wind Turbine, and these factors were identified and evaluated thoroughly through this project. *Rayleigh p.d.f.* was used in calculation.
-* The following calculations and simulations were carried out;
-  - Annual Energy Production (AEP) was calculated for two given Wind Turbine models with manufacturer specified data
-  - Develop a site specific power controlling strategy for a given rotor
-  - Simulations were done in Matlab considering both Fixed and Variable speed control mechancisms.
-<p align="center"><img src="../images/windturbine.png" width="600"/></p>
-
-For more details: <a href = 'https://drive.google.com/file/d/1Gnd0FKxA4ZTBa9B6Nslx1XxEd3sePFnz/view?usp=sharing'>Report</a>
-
-## Domestic Solar PV Installation
-Sri lanka having high *Global Horizontal Irridiation* levels has the potential to generate power using solar panels to facilitate domestic power requirements. Through this project the parameters considered for a solar PV installation and related calculations were done considering personal residence location.
-<p align="center"><img src="../images/solarpv.png" width="600"/></p>
-
-For more details: <a href = 'https://drive.google.com/file/d/1gwGWhjz6YKJC3xE-PbGSQ2dF-biislWH/view?usp=sharing'>Report</a>
 
 ## Development of a Stock Monitoring Autonomous Forklift
 Many compartmental systems can be represented by a series of first-order differential equations.
