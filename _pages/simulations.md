@@ -58,12 +58,12 @@ There are several considerations that needed to be taken into account before the
 For more details: <a href = 'https://drive.google.com/file/d/1Gnd0FKxA4ZTBa9B6Nslx1XxEd3sePFnz/view?usp=sharing'>Report</a>
 
 ## Domestic Solar PV Installation
-Many of the properties of the propagating action potential are similar to the membrane action potential. The features; <b>threshold, refractoriness</b> (absolute and relative), <b>repetitive activity, temperature dependence</b> that are observed physiologically, were simulated using the Hodgkin-Huxley equations.
-<p align="center"><img src="../images/hh.png" width="450"/></p>
+Sri lanka having high Global Horizontal Irridiation levels has the potential to generate power using solar panels to facilitate domestic power requirements. Through this project the parameters considered for a solar PV installation and related calculations were done considering personal residence location.
+<p align="center"><img src="../images/solarpv.png" width="600"/></p>
 
-For more details: <a href = 'https://drive.google.com/file/d/1UFPYGIXockZTfHUblWP9migdCa2Y3OCP/view?usp=sharing'>Report</a>
+For more details: <a href = 'https://drive.google.com/file/d/1gwGWhjz6YKJC3xE-PbGSQ2dF-biislWH/view?usp=sharing'>Report</a>
 
-## Mathematical Modelling of Compartmental Systems
+## Development of a Stock Monitoring Autonomous Forklift
 Many compartmental systems can be represented by a series of first-order differential equations.
 * Bolies Glucose/ Insulin Model
 * Riggs Model for Iodine Metabolism
@@ -71,21 +71,21 @@ Many compartmental systems can be represented by a series of first-order differe
 
 For more details: <a href = 'https://drive.google.com/file/d/1D8cFy-ad_XFkPkeByfzMhiE7XNZY3Tkx/view?usp=sharing'>Report</a>
 
-## Image Downsampling Processor
-Designed and simulated/implemented a processor that could down-sample an input image using Vivado Design Suite. The input image was transmitted to the processor where the image was down-sampled and once finished, the results were sent back for display purposes.
-<p align="center"><img src="../images/downsample_proc.png" width="800"/></p>
-<p align="center"><img src="../images/image_cameraman.jpg" width="350"/>      <img src="../images/cameraman_downsampled.jpg" width="175"/></p>
-<p align="center">Original and Downsampled Image</p>
+<!-- ## Image Downsampling Processor -->
+<!-- Designed and simulated/implemented a processor that could down-sample an input image using Vivado Design Suite. The input image was transmitted to the processor where the image was down-sampled and once finished, the results were sent back for display purposes. -->
+<!-- <p align="center"><img src="../images/downsample_proc.png" width="800"/></p> -->
+<!-- <p align="center"><img src="../images/image_cameraman.jpg" width="350"/>      <img src="../images/cameraman_downsampled.jpg" width="175"/></p> -->
+<!-- <p align="center">Original and Downsampled Image</p> -->
 
-For more details: <a href = 'https://drive.google.com/file/d/17boW2Lucrl8q1lLBczsg5-FsFSRw2sct/view?usp=sharing'>Report</a>
+<!-- For more details: <a href = 'https://drive.google.com/file/d/17boW2Lucrl8q1lLBczsg5-FsFSRw2sct/view?usp=sharing'>Report</a> -->
 
 
-## Object Counting on a Moving Conveyor Belt
-Hexagonal nuts on a moving conveyor belt were detected and localized from a video stream using a conventional image processing pipeline including;
-* Otsu Thresholding
+<!-- ## Object Counting on a Moving Conveyor Belt -->
+<!-- Hexagonal nuts on a moving conveyor belt were detected and localized from a video stream using a conventional image processing pipeline including; -->
+<!-- * Otsu Thresholding
 * Morphological Closing
 * Connected Component Analysis
-* Contour Analysis
-<p align="center"><img src="../images/com_vision.png" width="1050"/></p>
+* Contour Analysis -->
+<!-- <p align="center"><img src="../images/com_vision.png" width="1050"/></p> -->
 
-For more details: <a href = 'https://drive.google.com/file/d/1A49N0SqSG2mHoBpuD9Ckj3xq1O-_QkWk/view?usp=sharing'>Report</a>
+<!-- For more details: <a href = 'https://drive.google.com/file/d/1A49N0SqSG2mHoBpuD9Ckj3xq1O-_QkWk/view?usp=sharing'>Report</a> -->
