@@ -29,11 +29,16 @@ idth: 800px;">
 	<colgroup>
        		<col span="1" style="width: 20%;">
        		<col span="1" style="width: 80%;">
-    	</colgroup>
+    </colgroup>
+
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">March 2024</td>
+    		<td style = "border: none;font-size:17px;"> Presented research publication on <b>"Assessing the Viability of Renewable Energy Integration in Battery Swappable Conversion Kits for Tuk-tuks in Sri Lanka"</b> at ICGEA 2024, held in Singapore.</td> 	
+	</tr>
 
     <tr>
     		<td style = "border: none;color:blue;font-size:17px;">November 2023</td>
-    		<td style = "border: none;font-size:17px;"> Awarded the <b>1st Place</b> for the "Best Presentation" in Automotive Track (Graduate) at ICIET 2023, organised by the Faculty of Technology, University of Sri jayewardenepura (SL).</td> 	
+    		<td style = "border: none;font-size:17px;"> Awarded the <b>1st Place</b> for the "Best Presentation" in Automotive Track (Graduate) at ICIET 2023, organised by the Faculty of Technology, University of Sri Jayewardenepura (SL).</td> 	
 	</tr>
 
 	<tr>
@@ -47,46 +52,45 @@ idth: 800px;">
 	</tr>
     
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">June 2023</td>
-    		<td style = "border: none;font-size:17px;"> Presented the undergraduate thesis project to the <a href="https://ent.uom.lk/"><b>Department of Electronic and Telecommunications Engineering</b></a> at the University of Moratuwa, Sri Lanka.</td> 	
-	</tr>
-
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">September 2022</td>
-    		<td style = "border: none;font-size:17px;"> Placed among the <b>top 5</b> solutions at the IEEE Video and Image Processing Cup (<b>VIPCUP 2022 - Open Competition</b>).</td> 	
+    		<td style = "border: none;color:blue;font-size:17px;">July 2023</td>
+    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Treasurer</b> for the year 2023 - 24 at *Rotaract Club of Alumni of University of Moratuwa*.</td> 	
 	</tr>  
 
 	<tr>
-			<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
-    		<td style = "border: none;font-size:17px;"> <b>CAMSAT</b>: Paediatric Anaesthesia Monitoring System won the <b>1st runners-up</b> award at the <a href="https://ent.uom.lk/spark-at-uom/spark-challenge-2021-22-results/"><b>SPARK Challenge 2021/22</b></a>.</td>
+    		<td style = "border: none;color:blue;font-size:17px;">June 2023</td>
+    		<td style = "border: none;font-size:17px;"> Presented the undergraduate thesis project to the <a href="https://uom.lk/mech"><b>Department of Mechanical Engineering</b></a> at the University of Moratuwa, Sri Lanka.</td> 	
+	</tr>
+
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
+    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Sergeant at arms</b> for the year 2022 - 23 at *Rotaract Club of Alumni of University of Moratuwa*.</td> 	
+	</tr>  
+
+	<tr>
+			<td style = "border: none;color:blue;font-size:17px;">Mar 2022</td>
+    		<td style = "border: none;font-size:17px;"> Joined *Diesel and Motor Engineering (DIMO) PLC* as a <b>Trainee Mechanical Engineer</b>.</td>
+	</tr> 
+
+	<tr>
+			<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
+    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Director Finance</b> for the year 2021 - 22 at *Rotaract Club of University of Moratuwa*.</td>
 
 	</tr>
 
 	<tr>
-			<td style = "border: none;color:blue;font-size:17px;">June 2022</td>
-    		<td style = "border: none;font-size:17px;"> Submitted the preprint of the co-authored paper: <a href="https://www.researchgate.net/publication/368642404_Rethinking_Object_Detection_in_terms_of_Classification_and_Localization_through_Parallel_Deep_Learning_Models"><b>Rethinking Object Detection in terms of Classification and Localization through Parallel Deep Learning Models</b></a> for <b>ICIP 2022</b> review.</td>
+			<td style = "border: none;color:blue;font-size:17px;">July 2020</td>
+    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Co-Director - Environmental avenue</b> for the year 2020 - 21 at *Rotaract Club of University of Moratuwa*.</td>
 
 	</tr>
     
 	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">January 2022</td>
-    		<td style = "border: none;font-size:17px;"> Joined <b>Effective Solutions (Pvt) Ltd.</b>, Sri Lanka as a <b>Research Intern</b> in Biomedical Engineering.</td> 	
-	</tr>
-	   
-	<tr>
-			<td style = "border: none;color:blue;font-size:17px;">November 2021</td>
-    		<td style = "border: none;font-size:17px;"> Won the <b>1st runners-up</b> award at the <a href="https://uom.lk/elect/news_events/team-stimulus-university-moratuwa-wins-first-prize-3rd-regional-association"> 3rd International Energy and Electricity Market Business Decision
-			Simulation Competition</a>.</td>
-	</tr>   
-	   
-	<tr>
-    		<td style = "border: none;color:blue;font-size:17px;">September 2020</td>
-    		<td style = "border: none;font-size:17px;"> Appointed as the<b> Vice President </b>of the <b>Mathematics Society</b> of University of Moratuwa, Sri Lanka.</td> 	
-	</tr>
+    		<td style = "border: none;color:blue;font-size:17px;">July 2019</td>
+    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Rotary Family Coordinator </b> for the year 2019 - 20 at *Rotaract Club of University of Moratuwa*.</td> 	
+	</tr>  
 	
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">October 2018</td>
-    		<td style = "border: none;font-size:17px;"> Started my Bachelors degree in Biomedical Engineering at University of Moratuwa, Sri Lanka.</td> 	
+    		<td style = "border: none;font-size:17px;"> Started my Bachelors degree in Mechanical Engineering at University of Moratuwa, Sri Lanka.</td> 	
 	</tr>
    </table> 
  </div>
