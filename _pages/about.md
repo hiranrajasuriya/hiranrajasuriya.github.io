@@ -33,7 +33,7 @@ idth: 800px;">
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">March 2024</td>
-    		<td style = "border: none;font-size:17px;"> Presented research publication on <b>"Assessing the Viability of Renewable Energy Integration in Battery Swappable Conversion Kits for Tuk-tuks in Sri Lanka"</b> at ICGEA 2024, held in Singapore.</td> 	
+    		<td style = "border: none;font-size:17px;"> Presented research publication on <b>"Assessing the Viability of Renewable Energy Integration in Battery Swappable Conversion Kits for Tuk-tuks in Sri Lanka"</b> at ICGEA 2024, held in <em>Singapore</em>.</td> 	
 	</tr>
 
     <tr>
@@ -43,7 +43,7 @@ idth: 800px;">
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">August 2023</td>
-    		<td style = "border: none;font-size:17px;"> Awarded the <b>Migara Ratnatunga Trust Awards on Industrial Training</b> for University Undergraduates - 2021 / 2022 (Field - Mechanical Engineering) , presented by the Institution of Engineers Sri Lanka (IESL).</td>
+    		<td style = "border: none;font-size:17px;"> Awarded the <b>Migara Ratnatunga Trust Awards on Industrial Training</b> for University Undergraduates - 2021 / 2022 (Field - Mechanical Engineering) , presented by the <em>Institution of Engineers Sri Lanka (IESL)</em>.</td>
 	</tr>
 
  	<tr>
@@ -53,7 +53,7 @@ idth: 800px;">
     
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2023</td>
-    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Treasurer</b> for the year 2023 - 24 at *Rotaract Club of Alumni of University of Moratuwa*.</td> 	
+    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Treasurer</b> for the year 2023 - 24 at <em>Rotaract Club of Alumni of University of Moratuwa</em>.</td> 	
 	</tr>  
 
 	<tr>
@@ -63,29 +63,29 @@ idth: 800px;">
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2022</td>
-    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Sergeant at arms</b> for the year 2022 - 23 at _Rotaract Club of Alumni of University of Moratuwa_.</td> 	
+    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Sergeant at arms</b> for the year 2022 - 23 at <em>Rotaract Club of Alumni of University of Moratuwa</em>.</td> 	
 	</tr>  
 
 	<tr>
 			<td style = "border: none;color:blue;font-size:17px;">Mar 2022</td>
-    		<td style = "border: none;font-size:17px;"> Joined *Diesel and Motor Engineering (DIMO) PLC* as a <b>Trainee Mechanical Engineer</b>.</td>
+    		<td style = "border: none;font-size:17px;"> Joined <em>Diesel and Motor Engineering (DIMO) PLC</em> as a <b>Trainee Mechanical Engineer</b>.</td>
 	</tr> 
 
 	<tr>
 			<td style = "border: none;color:blue;font-size:17px;">July 2021</td>
-    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Director Finance</b> for the year 2021 - 22 at *Rotaract Club of University of Moratuwa*.</td>
+    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Director Finance</b> for the year 2021 - 22 at <em>Rotaract Club of University of Moratuwa</em>.</td>
 
 	</tr>
 
 	<tr>
 			<td style = "border: none;color:blue;font-size:17px;">July 2020</td>
-    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Co-Director - Environmental avenue</b> for the year 2020 - 21 at *Rotaract Club of University of Moratuwa*.</td>
+    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Co-Director - Environmental avenue</b> for the year 2020 - 21 at <em>Rotaract Club of University of Moratuwa</em>.</td>
 
 	</tr>
     
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">July 2019</td>
-    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Rotary Family Coordinator </b> for the year 2019 - 20 at *Rotaract Club of University of Moratuwa*.</td> 	
+    		<td style = "border: none;font-size:17px;"> Appointed as the <b>Rotary Family Coordinator </b> for the year 2019 - 20 at <em>Rotaract Club of University of Moratuwa</em>.</td> 	
 	</tr>  
 	
 	<tr>
