@@ -34,7 +34,7 @@ author_profile: True
 <p align ="center"><img src="../images/strucDesign.png" width="800"/></p>
 <p align ="center"><img src="../images/zooxanthellae.png" width="800"/></p>
 
--- *For more images is, click <a href = 'https://web.facebook.com/ZooxanthellaeRotaractMora/posts/pfbid0292p1f23oHs5hwaTrknjPTj3FuwDXkpBcdHpLfGpbqzzSGwzcAFAsw77XhDUMg1okl'>here</a>.*
+-- *For more images, click <a href = 'https://web.facebook.com/ZooxanthellaeRotaractMora/posts/pfbid0292p1f23oHs5hwaTrknjPTj3FuwDXkpBcdHpLfGpbqzzSGwzcAFAsw77XhDUMg1okl'>here</a>.*
 <p>&nbsp;</p>
 
 * **Design of a Gearbox for a Benchtop Drill**
