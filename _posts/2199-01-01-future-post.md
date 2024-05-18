@@ -1,6 +1,6 @@
 ---
-title: 'Zooxanthellae 2022'
-date: 2022-12-
+title: 'Future post'
+date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
