@@ -62,12 +62,12 @@ The case study was performed at *Sri Lankan Airlines*. The process flow at the C
 For more details: <a href = 'https://drive.google.com/file/d/1-rdNiFEyi6RXJLYdyEuvXLL8eK_h2XcX/view?usp=sharing'>Report</a>
 
 ## Development of a Stock Monitoring Autonomous Forklift
-Many compartmental systems can be represented by a series of first-order differential equations.
-* Bolies Glucose/ Insulin Model
-* Riggs Model for Iodine Metabolism
-<p align="center"><img src="../images/cs.png" width="450"/><img src="../images/gi.png" width="400"/></p>
+<!-- Many compartmental systems can be represented by a series of first-order differential equations. -->
+<!-- * Bolies Glucose/ Insulin Model -->
+<!-- * Riggs Model for Iodine Metabolism -->
+<!-- <p align="center"><img src="../images/cs.png" width="450"/><img src="../images/gi.png" width="400"/></p> -->
 
-For more details: <a href = 'https://drive.google.com/file/d/1D8cFy-ad_XFkPkeByfzMhiE7XNZY3Tkx/view?usp=sharing'>Report</a>
+<!-- For more details: <a href = 'https://drive.google.com/file/d/1D8cFy-ad_XFkPkeByfzMhiE7XNZY3Tkx/view?usp=sharing'>Report</a> -->
 
 <!-- ## Image Downsampling Processor -->
 <!-- Designed and simulated/implemented a processor that could down-sample an input image using Vivado Design Suite. The input image was transmitted to the processor where the image was down-sampled and once finished, the results were sent back for display purposes. -->
