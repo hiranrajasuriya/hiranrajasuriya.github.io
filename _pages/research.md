@@ -10,8 +10,7 @@ author_profile: True
   - *Graduate Research Project(s)* 
   - *Tasks of developing the powertrain in the 1st phase of the project*
   - **Supervisor(s)**: 
-    + <a href = 'https://scholar.google.com/citations?hl=en&user=_Xh4kmMAAAAJ'>Dr Guohong Tian </a> (Senior Lecturer in Automotive Engineering), School of Mechanical Engineering Sciences, University of Surrey, UK
-    + <a href = 'https://scholar.google.com/citations?hl=en&user=7exCaRIAAAAJ'>Eng. W. R. de Mel</a> (Head of the Dept. of Materials and Mechanical Technology), University of Sri Jayewardenepura, Sri Lanka
+      + <a href = 'https://scholar.google.com/citations?hl=en&user=7exCaRIAAAAJ'>Eng. W. R. de Mel</a> (Head of the Dept. of Materials and Mechanical Technology), University of Sri Jayewardenepura, Sri Lanka
 <p align="center"><img src="../images/Picture5.png" width="500"/></p>
 <p>&nbsp;</p>
 
