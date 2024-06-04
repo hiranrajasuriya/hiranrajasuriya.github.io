@@ -62,6 +62,7 @@ The case study was performed at *Sri Lankan Airlines*. The process flow at the C
 For more details: <a href = 'https://drive.google.com/file/d/1-rdNiFEyi6RXJLYdyEuvXLL8eK_h2XcX/view?usp=sharing'>Report</a>
 
 ## Development of a Stock Monitoring Autonomous Forklift
+Devloped the robot using Arduino, basic features included line following and RFID tracking of pallets. It also have the ability to update the recieved and discharged stocks over WIFI connection. Designed and manufactured a prototype scaled vehicle which uses a guide rail mechanism to lift pallets.
 <!-- Many compartmental systems can be represented by a series of first-order differential equations. -->
 <!-- * Bolies Glucose/ Insulin Model -->
 <!-- * Riggs Model for Iodine Metabolism -->
