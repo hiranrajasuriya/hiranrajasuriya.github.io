@@ -44,9 +44,16 @@ I am currently engaged in research on sustainable propulsion technologies and ac
 </colgroup>
 
 <tr>
-    <td style="border:none;color:#0066cc;font-size:17px;"><b>2025</b></td>
+    <td style="border:none;color:#0066cc;font-size:17px;">September 2025</td>
     <td style="border:none;font-size:17px;">
         Joined the <b>Department of Mechanical Engineering, University of Moratuwa</b> as a <b>Lecturer</b>.
+    </td>
+</tr>
+
+<tr>
+    <td style="border:none;color:#0066cc;font-size:17px;">September 2024</td>
+    <td style="border:none;font-size:17px;">
+        Joined the <b>University of Sri Jayewardenepura</b> as a <b>Lecturer</b>.
     </td>
 </tr>
 
