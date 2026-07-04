@@ -28,6 +28,12 @@ width: 800px;">
        		<col span="1" style="width: 20%;">
        		<col span="1" style="width: 80%;">
     </colgroup>
+	   
+	<tr>
+    		<td style = "border: none;color:blue;font-size:17px;">August 2024</td>
+    		<td style = "border: none;font-size:17px;"> Awarded the Best Paper in Mechanical Engineering Systems, organised by
+			Faculty of Engineering at MerCon 2024, held in <em>University of Moratuwa (SL)</em>.</td> 	
+	</tr>
 
 	<tr>
     		<td style = "border: none;color:blue;font-size:17px;">March 2024</td>
