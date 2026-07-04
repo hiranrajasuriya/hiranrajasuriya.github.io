@@ -9,7 +9,6 @@ redirect_from:
 ---
 <div style="text-align: justify; width: 800px">
 I am a Lecturer in the Department of Mechanical Engineering at the University of Moratuwa, Sri Lanka. My research interests lie in automotive engineering, with a particular focus on hydrogen-fueled internal combustion engines, alternative-fuel combustion, powertrain systems, and vehicle dynamics. Through my research, I aim to contribute to the development of cleaner, high-efficiency propulsion technologies that support the transition toward sustainable transportation.
-
 <p>&nbsp;</p>
 	I graduated with First Class Honours in Mechanical Engineering from the University of Moratuwa, Sri Lanka. My undergraduate thesis, "Investigating Vehicle Yaw Stability with Active Steering and Torque Vectoring," was a self-initiated research project supervised by two senior lecturers. During my industrial training at Diesel & Motor Engineering PLC (DIMO), I gained practical experience in automotive engine systems, vehicle maintenance, and diagnostics across a range of vehicle platforms. In recognition of my industrial training performance, I was awarded the Migara Ratnatunga Trust Award for Industrial Training (Mechanical Engineering), 2021/2022, presented by the Institution of Engineers Sri Lanka (IESL).
 <p>&nbsp;</p> 
