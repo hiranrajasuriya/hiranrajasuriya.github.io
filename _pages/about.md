@@ -23,7 +23,7 @@ I am a Lecturer in the Department of Mechanical Engineering at the University of
 <h1>News </h1> 
 	
  <div style="height: 500px; overflow: auto; w![237149619_2041424849347732_202933668616898933_n](https://user-images.githubusercontent.com/52663918/191795591-3ad8e2d3-7254-4906-87ea-c6bbe6165087.png)
-idth: 800px;">
+width: 800px;">
    <table style = "border: none;width: 100%">
 	<colgroup>
        		<col span="1" style="width: 20%;">
