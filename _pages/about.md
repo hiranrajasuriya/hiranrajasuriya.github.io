@@ -53,7 +53,7 @@ I am currently engaged in research on sustainable propulsion technologies and ac
 <tr>
     <td style="border:none;color:#0066cc;font-size:17px;">September 2024</td>
     <td style="border:none;font-size:17px;">
-        Joined the <b>University of Sri Jayewardenepura</b> as a <b>Lecturer</b>.
+        Joined the <b>Department of Materials and Mechanical Technology, University of Sri Jayewardenepura</b> as a <b>Lecturer</b>.
     </td>
 </tr>
 
