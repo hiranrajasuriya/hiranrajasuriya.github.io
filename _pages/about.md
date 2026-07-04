@@ -19,8 +19,8 @@ I am a Lecturer in the Department of Mechanical Engineering at the University of
 <img src="../images/DoME.png" width="350"/> <img src="../images/USJP_Logo.jpg" width="190"/><img src="../images/InnovateUK_logo.jpg" width="200"/>
 
 <p>&nbsp;</p>
-</> Markdown
-# News
+
+<h1>News </h1> 
 	
  <div style="height: 500px; overflow: auto; w![237149619_2041424849347732_202933668616898933_n](https://user-images.githubusercontent.com/52663918/191795591-3ad8e2d3-7254-4906-87ea-c6bbe6165087.png)
 idth: 800px;">
